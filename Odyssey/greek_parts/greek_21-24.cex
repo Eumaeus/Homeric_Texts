@@ -1,0 +1,1868 @@
+#!cexversion
+3.0
+
+#!citelibrary
+name#CEX Library created by CEXWriter
+urn#urn:cite2:cex:TEMPCOLL.TEMPVERSION:TEMP_ID
+license#Public Domain.
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:tlg0012.tlg002.murray:#Plaintext#Homeric Epic#Odyssey#Perseus Greek, following Murray. Books 21-24 only.##true#grc
+
+
+#!ctsdata
+urn:cts:greekLit:tlg0012.tlg002.murray:21.1#τῇ δ' ἄρ' ἐπὶ φρεσὶ θῆκε θεὰ γλαυκῶπις Ἀθήνη,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.2#κούρῃ Ἰκαρίοιο, περίφρονι Πηνελοπείῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.3#τόξον μνηστήρεσσι θέμεν πολιόν τε σίδηρον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.4#ἐν μεγάροις Ὀδυσῆος, ἀέθλια καὶ φόνου ἀρχήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.5#κλίμακα δ' ὑψηλὴν προσεβήσετο οἷο δόμοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.6#εἵλετο δὲ κληῗδ' εὐκαμπέα χειρὶ παχείῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.7#καλὴν χαλκείην· κώπη δ' ἐλέφαντος ἐπῆεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.8#βῆ δ' ἴμεναι θάλαμόνδε σὺν ἀμφιπόλοισι γυναιξὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.9#ἔσχατον· ἔνθα δέ οἱ κειμήλια κεῖτο ἄνακτος,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.10#χαλκός τε χρυσός τε πολύκμητός τε σίδηρος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.11#ἔνθα δὲ τόξον κεῖτο παλίντονον ἠδὲ φαρέτρη
+urn:cts:greekLit:tlg0012.tlg002.murray:21.12#ἰοδόκος, πολλοὶ δ' ἔνεσαν στονόεντες ὀϊστοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.13#δῶρα τά οἱ ξεῖνος Λακεδαίμονι δῶκε τυχήσας
+urn:cts:greekLit:tlg0012.tlg002.murray:21.14#Ἴφιτος Εὐρυτίδης, ἐπιείκελος ἀθανάτοισι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.15#τὼ δ' ἐν Μεσσήνῃ ξυμβλήτην ἀλλήλοιϊν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.16#οἴκῳ ἐν Ὀρτιλόχοιο δαΐφρονος. ἦ τοι Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.17#ἦλθε μετὰ χρεῖος, τό ῥά οἱ πᾶς δῆμος ὄφελλε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.18#μῆλα γὰρ ἐξ Ἰθάκης Μεσσήνιοι ἄνδρες ἄειραν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.19#νηυσὶ πολυκλήϊσι τριηκόσι' ἠδὲ νομῆας.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.20#τῶν ἕνεκ' ἐξεσίην πολλὴν ὁδὸν ἦλθεν Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.21#παιδνὸς ἐών· πρὸ γὰρ ἧκε πατὴρ ἄλλοι τε γέροντες.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.22#Ἴφιτος αὖθ' ἵππους διζήμενος, αἵ οἱ ὄλοντο
+urn:cts:greekLit:tlg0012.tlg002.murray:21.23#δώδεκα θήλειαι, ὑπὸ δ' ἡμίονοι ταλαεργοί·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.24#αἳ δή οἱ καὶ ἔπειτα φόνος καὶ μοῖρα γένοντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.25#ἐπεὶ δὴ Διὸς υἱὸν ἀφίκετο καρτερόθυμον,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.26#φῶθ' Ἡρακλῆα, μεγάλων ἐπιίστορα ἔργων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.27#ὅς μιν ξεῖνον ἐόντα κατέκτανεν ᾧ ἐνὶ οἴκῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.28#σχέτλιος, οὐδὲ θεῶν ὄπιν ᾐδέσατ' οὐδὲ τράπεζαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.29#τὴν ἥν οἱ παρέθηκεν· ἔπειτα δὲ πέφνε καὶ αὐτόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.30#ἵππους δ' αὐτὸς ἔχε κρατερώνυχας ἐν μεγάροισι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.31#τὰς ἐρέων Ὀδυσῆϊ συνήντετο, δῶκε δὲ τόξον,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.32#τὸ πρὶν μέν ῥ' ἐφόρει μέγας Εὔρυτος, αὐτὰρ ὁ παιδὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.33#κάλλιπ' ἀποθνῄσκων ἐν δώμασιν ὑψηλοῖσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.34#τῷ δ' Ὀδυσεὺς ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος ἔδωκεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.35#ἀρχὴν ξεινοσύνης προσκηδέος· οὐδὲ τραπέζῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.36#γνώτην ἀλλήλων· πρὶν γὰρ Διὸς υἱὸς ἔπεφνεν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.37#Ἴφιτον Εὐρυτίδην, ἐπιείκελον ἀθανάτοισιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.38#ὅς οἱ τόξον ἔδωκε. τὸ δ' οὔ ποτε δῖος Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.39#ἐρχόμενος πόλεμόνδε μελαινάων ἐπὶ νηῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.40#ᾑρεῖτ',  ἀλλ' αὐτοῦ μνῆμα ξείνοιο φίλοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:21.41#κέσκετ'  ἐνὶ μεγάροισι, φόρει δέ μιν ἧς ἐπὶ γαίης.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.42#ἡ δ' ὅτε δὴ θάλαμον τὸν ἀφίκετο δῖα γυναικῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.43#οὐδόν τε δρύϊνον προσεβήσετο, τόν ποτε τέκτων
+urn:cts:greekLit:tlg0012.tlg002.murray:21.44#ξέσσεν ἐπισταμένως καὶ ἐπὶ στάθμην ἴθυνεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.45#ἐν δὲ σταθμοὺς ἄρσε,  θύρας δ' ἐπέθηκε φαεινάς,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.46#αὐτίκ' ἄρ' ἥ γ' ἱμάντα θοῶς ἀπέλυσε κορώνης,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.47#ἐν δὲ κληῗδ' ἧκε, θυρέων δ' ἀνέκοπτεν ὀχῆας
+urn:cts:greekLit:tlg0012.tlg002.murray:21.48#ἄντα τιτυσκομένη· τὰ δ' ἀνέβραχεν ἠΰτε ταῦρος
+urn:cts:greekLit:tlg0012.tlg002.murray:21.49#βοσκόμενος λειμῶνι· τόσ' ἔβραχε καλὰ θύρετρα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.50#πληγέντα κληΐδι,  πετάσθησαν δέ οἱ ὦκα.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.51#ἡ δ' ἄρ' ἐφ' ὑψηλῆς σανίδος βῆ· ἔνθα δὲ χηλοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.52#ἕστασαν, ἐν δ' ἄρα τῇσι θυώδεα εἵματ' ἔκειτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.53#ἔνθεν ὀρεξαμένη ἀπὸ πασσάλου αἴνυτο τόξον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.54#αὐτῷ γωρυτῷ, ὅς οἱ περίκειτο φαεινός.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.55#ἑζομένη δὲ κατ' αὖθι,  φίλοις ἐπὶ γούνασι θεῖσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.56#κλαῖε μάλα λιγέως, ἐκ δ' ᾕρεε τόξον ἄνακτος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.57#ἡ δ' ἐπεὶ οὖν τάρφθη πολυδακρύτοιο γόοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.58#βῆ ῥ' ἴμεναι μέγαρόνδε μετὰ μνηστῆρας ἀγαυοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.59#τόξον ἔχουσ' ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
+urn:cts:greekLit:tlg0012.tlg002.murray:21.60#ἰοδόκον· πολλοὶ δ' ἔνεσαν στονόεντες ὀϊστοί.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.61#τῇ δ' ἄρ' ἅμ' ἀμφίπολοι φέρον ὄγκιον, ἔνθα σίδηρος
+urn:cts:greekLit:tlg0012.tlg002.murray:21.62#κεῖτο πολὺς καὶ χαλκός, ἀέθλια τοῖο ἄνακτος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.63#ἡ δ' ὅτε δὴ μνηστῆρας ἀφίκετο δῖα γυναικῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.64#στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.65#ἄντα παρειάων σχομένη λιπαρὰ κρήδεμνα.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.66#ἀμφίπολος δ' ἄρα οἱ κεδνὴ ἑκάτερθε παρέστη.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.67#αὐτίκα δὲ μνηστῆρσι μετηύδα καὶ φάτο μῦθον·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.68#κέκλυτέ μευ, μνηστῆρες ἀγήνορες, οἳ τόδε δῶμα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.69#ἐχράετ' ἐσθιέμεν καὶ πινέμεν ἐμμενὲς αἰεὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.70#ἀνδρὸς ἀποιχομένοιο πολὺν χρόνον· οὐδέ τιν' ἄλλην
+urn:cts:greekLit:tlg0012.tlg002.murray:21.71#μύθου ποιήσασθαι ἐπισχεσίην ἐδύνασθε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.72#ἀλλ' ἐμὲ ἱέμενοι γῆμαι θέσθαι τε γυναῖκα.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.73#ἀλλ' ἄγετε, μνηστῆρες, ἐπεὶ τόδε φαίνετ' ἄεθλον.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.74#θήσω γὰρ μέγα τόξον Ὀδυσσῆος θείοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.75#ὃς δέ κε ῥηΐτατ' ἐντανύσῃ βιὸν ἐν παλάμῃσι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.76#καὶ διοϊστεύσῃ πελέκεων δυοκαίδεκα πάντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.77#τῷ κεν ἅμ' ἑσποίμην, νοσφισσαμένη τόδε δῶμα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.78#κουρίδιον, μάλα καλόν, ἐνίπλειον βιότοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.79#τοῦ ποτὲ μεμνήσεσθαι ὀΐομαι ἔν περ ὀνείρῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.80#ὣς φάτο,  καί ῥ' Εὔμαιον ἀνώγει, δῖον ὑφορβόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.81#τόξον μνηστήρεσσι θέμεν πολιόν τε σίδηρον.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.82#δακρύσας δ' Εὔμαιος ἐδέξατο καὶ κατέθηκε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.83#κλαῖε δὲ βουκόλος ἄλλοθ', ἐπεὶ ἴδε τόξον ἄνακτος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.84#Ἀντίνοος δ' ἐνένιπεν ἔπος τ' ἔφατ' ἔκ τ' ὀνόμαζε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.85#νήπιοι ἀγροιῶται,  ἐφημέρια φρονέοντες,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.86#ἆ δειλώ, τί νυ δάκρυ κατείβετον ἠδὲ γυναικὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.87#θυμὸν ἐνὶ στήθεσσιν ὀρίνετον; ᾗ τε καὶ ἄλλως
+urn:cts:greekLit:tlg0012.tlg002.murray:21.88#κεῖται ἐν ἄλγεσι θυμός, ἐπεὶ φίλον ὤλεσ' ἀκοίτην.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.89#ἀλλ' ἀκέων δαίνυσθε καθήμενοι, ἠὲ θύραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:21.90#κλαίετον ἐξελθόντε,  κατ' αὐτόθι τόξα λιπόντε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.91#μνηστήρεσσιν ἄεθλον ἀάατον· οὐ γὰρ ὀΐω
+urn:cts:greekLit:tlg0012.tlg002.murray:21.92#ῥηϊδίως τόδε τόξον ἐΰξοον ἐντανύεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.93#οὐ γάρ τις μέτα τοῖος ἀνὴρ ἐν τοίσδεσι πᾶσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.94#οἷος Ὀδυσσεὺς ἔσκεν· ἐγὼ δέ μιν αὐτὸς ὄπωπα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.95#καὶ γὰρ μνήμων εἰμί,  πάϊς δ' ἔτι νήπιος ἦα.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.96#ὣς φάτο, τῷ δ' ἄρα θυμὸς ἐνὶ στήθεσσιν ἐώλπει
+urn:cts:greekLit:tlg0012.tlg002.murray:21.97#νευρὴν ἐντανύσειν διοϊστεύσειν τε σιδήρου.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.98#ἦ τοι ὀϊστοῦ γε πρῶτος γεύσεσθαι ἔμελλεν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.99#ἐκ χειρῶν Ὀδυσῆος ἀμύμονος, ὃν τότ' ἀτίμα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.100#ἥμενος ἐν μεγάροις,  ἐπὶ δ' ὤρνυε πάντας ἑταίρους.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.101#τοῖσι δὲ καὶ μετέειφ' ἱερὴ ἲς Τηλεμάχοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.102#ὢ πόποι, ἦ μάλα με Ζεὺς ἄφρονα θῆκε Κρονίων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.103#μήτηρ μέν μοί φησι φίλη, πινυτή περ ἐοῦσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.104#ἄλλῳ ἅμ' ἕψεσθαι νοσφισσαμένη τόδε δῶμα·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.105#αὐτὰρ ἐγὼ γελόω καὶ τέρπομαι ἄφρονι θυμῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.106#ἀλλ' ἄγετε, μνηστῆρες, ἐπεὶ τόδε φαίνετ' ἄεθλον,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.107#οἵη νῦν οὐκ ἔστι γυνὴ κατ' Ἀχαιΐδα γαῖαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.108#οὔτε Πύλου ἱερῆς οὔτ' Ἄργεος οὔτε Μυκήνης·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.109#οὔτ' αὐτῆς Ἰθάκης οὔτ' ἠπείροιο μελαίνης·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.110#καὶ δ' αὐτοὶ τόδε γ' ἴστε· τί με χρὴ μητέρος αἴνου;
+urn:cts:greekLit:tlg0012.tlg002.murray:21.111#ἀλλ' ἄγε μὴ μύνῃσι παρέλκετε μηδ' ἔτι τόξου
+urn:cts:greekLit:tlg0012.tlg002.murray:21.112#δηρὸν ἀποτρωπᾶσθε τανυστύος, ὄφρα ἴδωμεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.113#καὶ δέ κεν αὐτὸς ἐγὼ τοῦ τόξου πειρησαίμην·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.114#εἰ δέ κεν ἐντανύσω διοϊστεύσω τε σιδήρου,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.115#οὔ κέ μοι ἀχνυμένῳ τάδε δώματα πότνια μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.116#λείποι ἅμ' ἄλλῳ ἰοῦσ', ὅτ' ἐγὼ κατόπισθε λιποίμην
+urn:cts:greekLit:tlg0012.tlg002.murray:21.117#οἷός τ' ἤδη πατρὸς ἀέθλια κάλ' ἀνελέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.118#ἦ καὶ ἀπ' ὤμοιϊν χλαῖναν θέτο φοινικόεσσαν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.119#ὀρθὸς ἀναΐξας, ἀπὸ δὲ ξίφος ὀξὺ θέτ' ὤμων.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.120#πρῶτον μὲν πελέκεας στῆσεν,  διὰ τάφρον ὀρύξας
+urn:cts:greekLit:tlg0012.tlg002.murray:21.121#πᾶσι μίαν μακρήν, καὶ ἐπὶ στάθμην ἴθυνεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.122#ἀμφὶ δὲ γαῖαν ἔναξε· τάφος δ' ἕλε πάντας ἰδόντας,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.123#ὡς εὐκόσμως στῆσε· πάρος δ' οὐ πώ ποτ' ὀπώπει.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.124#στῆ δ' ἄρ' ἐπ' οὐδὸν ἰὼν καὶ τόξου πειρήτιζε.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.125#τρὶς μέν μιν πελέμιξεν ἐρύσσεσθαι μενεαίνων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.126#τρὶς δὲ μεθῆκε βίης, ἐπιελπόμενος τό γε θυμῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.127#νευρὴν ἐντανύειν διοϊστεύσειν τε σιδήρου.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.128#καί νύ κε δή ῥ' ἐτάνυσσε βίῃ τὸ τέταρτον ἀνέλκων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.129#ἀλλ' Ὀδυσεὺς ἀνένευε καὶ ἔσχεθεν ἱέμενόν περ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.130#τοῖς δ' αὖτις μετέειφ' ἱερὴ ἲς Τηλεμάχοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.131#ὢ πόποι, ἦ καὶ ἔπειτα κακός τ' ἔσομαι καὶ ἄκικυς,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.132#ἠὲ νεώτερός εἰμι καὶ οὔ πω χερσὶ πέποιθα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.133#ἄνδρ' ἀπαμύνασθαι, ὅτε τις πρότερος χαλεπήνῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.134#ἀλλ' ἄγεθ', οἵ περ ἐμεῖο βίῃ προφερέστεροί ἐστε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.135#τόξου πειρήσασθε,  καὶ ἐκτελέωμεν ἄεθλον.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.136#ὣς εἰπὼν τόξον μὲν ἀπὸ ἕο θῆκε χαμᾶζε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.137#κλίνας κολλητῇσιν ἐϋξέστῃς σανίδεσσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.138#αὐτοῦ δ' ὠκὺ βέλος καλῇ προσέκλινε κορώνῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.139#ἂψ δ' αὖτις κατ' ἄρ' ἕζετ' ἐπὶ θρόνου ἔνθεν ἀνέστη.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.140#τοῖσιν δ' Ἀντίνοος μετέφη,  Εὐπείθεος υἱός·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.141#ὄρνυσθ' ἑξείης ἐπιδέξια πάντες ἑταῖροι,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.142#ἀρξάμενοι τοῦ χώρου ὅθεν τέ περ οἰνοχοεύει.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.143#ὣς ἔφατ' Ἀντίνοος, τοῖσιν δ' ἐπιήνδανε μῦθος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.144#Λειώδης δὲ πρῶτος ἀνίστατο, Οἴνοπος υἱός,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.145#ὅ σφι θυοσκόος ἔσκε,  παρὰ κρητῆρα δὲ καλὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.146#ἷζε μυχοίτατος αἰέν· ἀτασθαλίαι δέ οἱ οἴῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.147#ἐχθραὶ ἔσαν, πᾶσιν δὲ νεμέσσα μνηστήρεσσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.148#ὅς ῥα τότε πρῶτος τόξον λάβε καὶ βέλος ὠκύ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.149#στῆ δ' ἄρ' ἐπ' οὐδὸν ἰὼν καὶ τόξου πειρήτιζεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.150#οὐδέ μιν ἐντάνυσε· πρὶν γὰρ κάμε χεῖρας ἀνέλκων
+urn:cts:greekLit:tlg0012.tlg002.murray:21.151#ἀτρίπτους ἁπαλάς· μετὰ δὲ μνηστῆρσιν ἔειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.152#ὦ φίλοι, οὐ μὲν ἐγὼ τανύω, λαβέτω δὲ καὶ ἄλλος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.153#πολλοὺς γὰρ τόδε τόξον ἀριστῆας κεκαδήσει
+urn:cts:greekLit:tlg0012.tlg002.murray:21.154#θυμοῦ καὶ ψυχῆς, ἐπεὶ ἦ πολὺ φέρτερόν ἐστι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.155#τεθνάμεν ἢ ζώοντας ἁμαρτεῖν,  οὗθ' ἕνεκ' αἰεὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.156#ἐνθάδ' ὁμιλέομεν, ποτιδέγμενοι ἤματα πάντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.157#νῦν μέν τις καὶ ἔλπετ' ἐνὶ φρεσὶν ἠδὲ μενοινᾷ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.158#γῆμαι Πηνελόπειαν, Ὀδυσσῆος παράκοιτιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.159#αὐτὰρ ἐπὴν τόξου πειρήσεται ἠδὲ ἴδηται,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.160#ἄλλην δή τιν' ἔπειτα Ἀχαιϊάδων εὐπέπλων
+urn:cts:greekLit:tlg0012.tlg002.murray:21.161#μνάσθω ἐέδνοισιν διζήμενος· ἡ δέ κ' ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.162#γήμαιθ' ὅς κε πλεῖστα πόροι καὶ μόρσιμος ἔλθοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.163#ὣς ἄρ' ἐφώνησεν καὶ ἀπὸ ἕο τόξον ἔθηκε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.164#κλίνας κολλητῇσιν ἐϋξέστῃς σανίδεσσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.165#αὐτοῦ δ' ὠκὺ βέλος καλῇ προσέκλινε κορώνῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.166#ἂψ δ' αὖτις κατ' ἄρ ἕζετ' ἐπὶ θρόνου ἔνθεν ἀνέστη.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.167#Ἀντίνοος δ' ἐνένιπεν ἔπος τ' ἔφατ' ἔκ τ' ὀνόμαζε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.168#λειῶδες, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.169#δεινόν τ' ἀργαλέον τε, —νεμεσσῶμαι δέ τ' ἀκούων—
+urn:cts:greekLit:tlg0012.tlg002.murray:21.170#εἰ δὴ τοῦτό γε τόξον ἀριστῆας κεκαδήσει
+urn:cts:greekLit:tlg0012.tlg002.murray:21.171#θυμοῦ καὶ ψυχῆς, ἐπεὶ οὐ δύνασαι σὺ τανύσσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.172#οὐ γάρ τοί σέ γε τοῖον ἐγείνατο πότνια μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.173#οἷόν τε ῥυτῆρα βιοῦ τ' ἔμεναι καὶ ὀϊστῶν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.174#ἀλλ' ἄλλοι τανύουσι τάχα μνηστῆρες ἀγαυοί.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.175#ὣς φάτο, καί ῥ' ἐκέλευσε Μελάνθιον, αἰπόλον αἰγῶν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.176#ἄγρει δή,  πῦρ κῆον ἐνὶ μεγάροισι, Μελανθεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.177#πὰρ δὲ τίθει δίφρον τε μέγαν καὶ κῶας ἐπ' αὐτοῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.178#ἐκ δὲ στέατος ἔνεικε μέγαν τροχὸν ἔνδον ἐόντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.179#ὄφρα νέοι θάλποντες, ἐπιχρίοντες ἀλοιφῇ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.180#τόξου πειρώμεσθα καὶ ἐκτελέωμεν ἄεθλον.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.181#ὣς φάθ', ὁ δ' αἶψ' ἀνέκαιε Μελάνθιος ἀκάματον πῦρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.182#πὰρ δὲ φέρων δίφρον θῆκεν καὶ κῶας ἐπ' αὐτοῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.183#ἐκ δὲ στέατος ἔνεικε μέγαν τροχὸν ἔνδον ἐόντος·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.184#τῷ ῥα νέοι θάλποντες ἐπειρῶντ'· οὐδ' ἐδύναντο
+urn:cts:greekLit:tlg0012.tlg002.murray:21.185#ἐντανύσαι,  πολλὸν δὲ βίης ἐπιδευέες ἦσαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.186#Ἀντίνοος δ' ἔτ' ἐπεῖχε καὶ Εὐρύμαχος θεοειδής,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.187#ἀρχοὶ μνηστήρων· ἀρετῇ δ' ἔσαν ἔξοχ' ἄριστοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.188#τὼ δ' ἐξ οἴκου βῆσαν ὁμαρτήσαντες ἅμ' ἄμφω
+urn:cts:greekLit:tlg0012.tlg002.murray:21.189#βουκόλος ἠδὲ συφορβὸς Ὀδυσσῆος θείοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.190#ἐκ δ' αὐτὸς μετὰ τοὺς δόμου ἤλυθε δῖος Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.191#ἀλλ' ὅτε δή ῥ' ἐκτὸς θυρέων ἔσαν ἠδὲ καὶ αὐλῆς,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.192#φθεγξάμενός σφε ἔπεσσι προσηύδα μειλιχίοισι·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.193#βουκόλε καὶ σύ, συφορβέ, ἔπος τί κε μυθησαίμην,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.194#ἦ αὐτὸς κεύθω; φάσθαι δέ με θυμὸς ἀνώγει.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.195#ποῖοί κ' εἶτ' Ὀδυσῆϊ ἀμυνέμεν,  εἴ ποθεν ἔλθοι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.196#ὧδε μάλ' ἐξαπίνης καί τις θεὸς αὐτὸν ἐνείκαι;
+urn:cts:greekLit:tlg0012.tlg002.murray:21.197#ἤ κε μνηστήρεσσιν ἀμύνοιτ' ἦ Ὀδυσῆϊ;
+urn:cts:greekLit:tlg0012.tlg002.murray:21.198#εἴπαθ' ὅπως ὑμέας κραδίη θυμός τε κελεύει.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.199#τὸν δ' αὖτε προσέειπε βοῶν ἐπιβουκόλος ἀνήρ·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.200#Ζεῦ πάτερ,  αἲ γὰρ τοῦτο τελευτήσειας ἐέλδωρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.201#ὡς ἔλθοι μὲν κεῖνος ἀνήρ, ἀγάγοι δέ ἑ δαίμων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.202#γνοίης χ' οἵη ἐμὴ δύναμις καὶ χεῖρες ἕπονται.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.203#ὣς δ' αὔτως Εὔμαιος ἐπεύχετο πᾶσι θεοῖσι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.204#νοστῆσαι Ὀδυσῆα πολύφρονα ὅνδε δόμονδε.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.205#αὐτὰρ ἐπεὶ δὴ τῶν γε νόον νημερτέ' ἀνέγνω,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.206#ἐξαῦτίς σφε ἔπεσσιν ἀμειβόμενος προσέειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.207#ἔνδον μὲν δὴ ὅδ' αὐτὸς ἐγώ, κακὰ πολλὰ μογήσας
+urn:cts:greekLit:tlg0012.tlg002.murray:21.208#ἤλυθον εἰκοστῷ ἔτεϊ ἐς πατρίδα γαῖαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.209#γιγνώσκω δ' ὡς σφῶϊν ἐελδομένοισιν ἱκάνω
+urn:cts:greekLit:tlg0012.tlg002.murray:21.210#οἴοισι δμώων· τῶν δ' ἄλλων οὔ τευ ἄκουσα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.211#εὐξαμένου ἐμὲ αὖτις ὑπότροπον οἴκαδ' ἱκέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.212#σφῶϊν δ', ὡς ἔσεταί περ, ἀληθείην καταλέξω.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.213#εἴ χ' ὑπ' ἐμοί γε θεὸς δαμάσῃ μνηστῆρας ἀγαυούς,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.214#ἄξομαι ἀμφοτέροις ἀλόχους καὶ κτήματ' ὀπάσσω
+urn:cts:greekLit:tlg0012.tlg002.murray:21.215#οἰκία τ' ἐγγὺς ἐμεῖο τετυγμένα· καί μοι ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.216#Τηλεμάχου ἑτάρω τε κασιγνήτω τε ἔσεσθον.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.217#εἰ δ' ἄγε δή, καὶ σῆμα ἀριφραδὲς ἄλλο τι δείξω,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.218#ὄφρα μ' ἐῢ γνῶτον πιστωθῆτόν τ' ἐνὶ θυμῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.219#οὐλήν, τήν ποτέ με σῦς ἤλασε λευκῷ ὀδόντι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.220#Παρνησόνδ' ἐλθόντα σὺν υἱάσιν Αὐτολύκοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.221#ὣς εἰπὼν ῥάκεα μεγάλης ἀποέργαθεν οὐλῆς.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.222#τὼ δ' ἐπεὶ εἰσιδέτην εὖ τ' ἐφράσσαντο ἕκαστα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.223#κλαῖον ἄρ' ἀμφ' Ὀδυσῆϊ δαΐφρονι χεῖρε βαλόντε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.224#καὶ κύνεον ἀγαπαζόμενοι κεφαλήν τε καὶ ὤμους
+urn:cts:greekLit:tlg0012.tlg002.murray:21.225#ὣς δ' αὔτως Ὀδυσεὺς κεφαλὰς καὶ χεῖρας ἔκυσσε.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.226#καί νύ κ' ὀδυρομένοισιν ἔδυ φάος ἠελίοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.227#εἰ μὴ Ὀδυσσεὺς αὐτὸς ἐρύκακε φώνησέν τε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.228#παύεσθον κλαυθμοῖο γόοιό τε, μή τις ἴδηται
+urn:cts:greekLit:tlg0012.tlg002.murray:21.229#ἐξελθὼν μεγάροιο, ἀτὰρ εἴπῃσι καὶ εἴσω.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.230#ἀλλὰ προμνηστῖνοι ἐσέλθετε,  μηδ' ἅμα πάντες,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.231#πρῶτος ἐγώ, μετὰ δ' ὔμμες· ἀτὰρ τόδε σῆμα τετύχθω·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.232#ἄλλοι μὲν γὰρ πάντες, ὅσοι μνηστῆρες ἀγαυοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.233#οὐκ ἐάσουσιν ἐμοὶ δόμεναι βιὸν ἠδὲ φαρέτρην·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.234#ἀλλὰ σύ, δῖ' Εὔμαιε, φέρων ἀνὰ δώματα τόξον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.235#ἐν χείρεσσιν ἐμοὶ θέμεναι,  εἰπεῖν τε γυναιξὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.236#κληῗσαι μεγάροιο θύρας πυκινῶς ἀραρυίας,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.237#ἢν δέ τις ἢ στοναχῆς ἠὲ κτύπου ἔνδον ἀκούσῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.238#ἀνδρῶν ἡμετέροισιν ἐν ἕρκεσι, μή τι θύραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:21.239#προβλώσκειν, ἀλλ' αὐτοῦ ἀκὴν ἔμεναι παρὰ ἔργῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.240#σοὶ δέ,  Φιλοίτιε δῖε, θύρας ἐπιτέλλομαι αὐλῆς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.241#κληῗσαι κληῗδι, θοῶς δ' ἐπὶ δεσμὸν ἰῆλαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.242#ὣς εἰπὼν εἰσῆλθε δόμους εὖ ναιετάοντας·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.243#ἕζετ' ἔπειτ' ἐπὶ δίφρον ἰών, ἔνθεν περ ἀνέστη·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.244#ἐς δ' ἄρα καὶ τὼ δμῶε ἴτην θείου Ὀδυσῆος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.245#Εὐρύμαχος δ' ἤδη τόξον μετὰ χερσὶν ἐνώμα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.246#θάλπων ἔνθα καὶ ἔνθα σέλᾳ πυρός· ἀλλά μιν οὐδ' ὣς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.247#ἐντανύσαι δύνατο, μέγα δ' ἔστενε κυδάλιμον κῆρ·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.248#ὀχθήσας δ' ἄρα εἶρος τ' ἔφατ' ἔκ τ' ὀνόμαζεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.249#ὢ πόποι, ἧ μοι ἄχος περί τ' αὐτοῦ καὶ περὶ πάντων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.250#οὔ τι γάμου τοσσοῦτον ὀδύρομαι,  ἀχνύμενός περ·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.251#εἰσὶ καὶ ἄλλαι πολλαὶ Ἀχαιΐδες, αἱ μὲν ἐν αὐτῇ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.252#ἀμφιάλῳ Ἰθάκῃ, αἱ δ' ἄλλῃσιν πολίεσσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.253#ἀλλ' εἰ δὴ τοσσόνδε βίης ἐπιδευέες εἰμὲν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.254#ἀντιθέου Ὀδυσῆος, ὅ τ' οὐ δυνάμεσθα τανύσσαι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.255#τόξον· ἐλεγχείη δὲ καὶ ἐσσομένοισι πυθέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.256#τὸν δ' αὖτ' Ἀντίνοος προσέφη, Εὐπείθεος υἱός·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.257#Εὐρύμαχ', οὐχ οὕτως ἔσται· νοέεις δὲ καὶ αὐτός.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.258#νῦν μὲν γὰρ κατὰ δῆμον ἑορτὴ τοῖο θεοῖο
+urn:cts:greekLit:tlg0012.tlg002.murray:21.259#ἁγνή· τίς δέ κε τόξα τιταίνοιτ'; ἀλλὰ ἕκηλοι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.260#κάτθετ'· ἀτὰρ πελέκεάς γε καὶ εἴ κ' εἰῶμεν ἅπαντας
+urn:cts:greekLit:tlg0012.tlg002.murray:21.261#ἑστάμεν· οὐ μὲν γάρ τιν' ἀναιρήσεσθαι ὀΐω,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.262#ἐλθόντ' ἐς μέγαρον Λαερτιάδεω Ὀδυσῆος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.263#ἀλλ' ἄγετ', οἰνοχόος μὲν ἐπαρξάσθω δεπάεσσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.264#ὄφρα σπείσαντες καταθείομεν ἀγκύλα τόξα·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.265#ἠῶθεν δὲ κέλεσθε Μελάνθιον,  αἰπόλον αἰγῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.266#αἶγας ἄγειν, αἳ πᾶσι μέγ' ἔξοχοι αἰπολίοισιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.267#ὄφρ' ἐπὶ μηρία θέντες Ἀπόλλωνι κλυτοτόξῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.268#τόξου πειρώμεσθα καὶ ἐκτελέωμεν ἄεθλον.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.269#ὣς ἔφατ' Ἀντίνοος, τοῖσιν δ' ἐπιήνδανε μῦθος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.270#τοῖσι δὲ κήρυκες μὲν ὕδωρ ἐπὶ χεῖρας ἔχευαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.271#κοῦροι δὲ κρητῆρας ἐπεστέψαντο ποτοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.272#νώμησαν δ' ἄρα πᾶσιν ἐπαρξάμενοι δεπάεσσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.273#οἱ δ' ἐπεὶ οὖν σπεῖσάν τ' ἔπιόν θ' ὅσον ἤθελε θυμός,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.274#τοῖς δὲ δολοφρονέων μετέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.275#κέκλυτέ μευ,  μνηστῆρες ἀγακλειτῆς βασιλείης·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.276#ὄφρ' εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.277#Εὐρύμαχον δὲ μάλιστα καὶ Ἀντίνοον θεοειδέα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.278#λίσσομ', ἐπεὶ καὶ τοῦτο ἔπος κατὰ μοῖραν ἔειπε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.279#νῦν μὲν παῦσαι τόξον, ἐπιτρέψαι δὲ θεοῖσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.280#ἠῶθεν δὲ θεὸς δώσει κράτος ᾧ κ' ἐθέλῃσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.281#ἀλλ' ἄγ' ἐμοὶ δότε τόξον ἐΰξοον, ὄφρα μεθ' ὑμῖν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.282#χειρῶν καὶ σθένεος πειρήσομαι, ἤ μοι ἔτ' ἐστὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.283#ἴς, οἵη πάρος ἔσκεν ἐνὶ γναμπτοῖσι μέλεσσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.284#ἦ ἤδη μοι ὄλεσσεν ἄλη τ' ἀκομιστίη τε.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.285#ὣς ἔφαθ', οἱ δ' ἄρα πάντες ὑπερφιάλως νεμέσησαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.286#δείσαντες μὴ τόξον ἐΰξοον ἐντανύσειεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.287#Ἀντίνοος δ' ἐνένιπεν ἔπος τ' ἔφατ' ἔκ τ' ὀνόμαζεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.288#ἆ δειλὲ ξείνων, ἔνι τοι φρένες οὐδ' ἠβαιαί·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.289#οὐκ ἀγαπᾷς ὃ ἕκηλος ὑπερφιάλοισι μεθ' ἡμῖν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.290#δαίνυσαι,  οὐδέ τι δαιτὸς ἀμέρδεαι, αὐτὰρ ἀκούεις
+urn:cts:greekLit:tlg0012.tlg002.murray:21.291#μύθων ἡμετέρων καὶ ῥήσιος; οὐδέ τις ἄλλος
+urn:cts:greekLit:tlg0012.tlg002.murray:21.292#ἡμετέρων μύθων ξεῖνος καὶ πτωχὸς ἀκούει.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.293#οἶνός σε τρώει μελιηδής, ὅς τε καὶ ἄλλους
+urn:cts:greekLit:tlg0012.tlg002.murray:21.294#βλάπτει, ὃς ἄν μιν χανδὸν ἕλῃ μηδ' αἴσιμα πίνῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.295#οἶνος καὶ Κένταυρον,  ἀγακλυτὸν Εὐρυτίωνα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.296#ἄασ' ἐνὶ μεγάρῳ μεγαθύμου Πειριθόοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.297#ἐς Λαπίθας ἐλθόνθ'· ὁ δ' ἐπεὶ φρένας ἄασεν οἴνῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.298#μαινόμενος κάκ' ἔρεξε δόμον κάτα Πειριθόοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.299#ἥρωας δ' ἄχος εἷλε, διὲκ προθύρου δὲ θύραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:21.300#ἕλκον ἀναΐξαντες,  ἀπ' οὔατα νηλέϊ χαλκῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.301#ῥῖνάς τ' ἀμήσαντες· ὁ δὲ φρεσὶν ᾗσιν ἀασθεὶς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.302#ἤϊεν ἣν ἄτην ὀχέων ἀεσίφρονι θυμῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.303#ἐξ οὗ Κενταύροισι καὶ ἀνδράσι νεῖκος ἐτύχθη,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.304#οἷ δ' αὐτῷ πρώτῳ κακὸν εὕρετο οἰνοβαρείων.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.305#ὣς καὶ σοὶ μέγα πῆμα πιφαύσκομαι, αἴ κε τὸ τόξον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.306#ἐντανύσῃς· οὐ γάρ τευ ἐπητύος ἀντιβολήσεις
+urn:cts:greekLit:tlg0012.tlg002.murray:21.307#ἡμετέρῳ ἐνὶ δήμῳ, ἄφαρ δέ σε νηῒ μελαίνῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.308#εἰς Ἔχετον βασιλῆα, βροτῶν δηλήμονα πάντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.309#πέμψομεν· ἔνθεν δ' οὔ τι σαώσεαι· ἀλλὰ ἕκηλος
+urn:cts:greekLit:tlg0012.tlg002.murray:21.310#πῖνέ τε,  μηδ' ἐρίδαινε μετ' ἀνδράσι κουροτέροισιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.311#τὸν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.312#Ἀντίνο', οὐ μὲν καλὸν ἀτέμβειν οὐδὲ δίκαιον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.313#ξείνους Τηλεμάχου, ὅς κεν τάδε δώμαθ' ἵκηται·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.314#ἔλπεαι, αἴ χ' ὁ ξεῖνος Ὀδυσσῆος μέγα τόξον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.315#ἐντανύσῃ χερσίν τε βίηφί τε ἧφι πιθήσας,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.316#οἴκαδέ μ' ἄξεσθαι καὶ ἑὴν θήσεσθαι ἄκοιτιν;
+urn:cts:greekLit:tlg0012.tlg002.murray:21.317#οὐδ' αὐτός που τοῦτό γ' ἐνὶ στήθεσσιν ἔολπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.318#μηδέ τις ὑμείων τοῦ γ' εἵνεκα θυμὸν ἀχεύων
+urn:cts:greekLit:tlg0012.tlg002.murray:21.319#ἐνθάδε δαινύσθω, ἐπεὶ οὐδὲ μὲν οὐδὲ ἔοικεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.320#τὴν δ' αὖτ' Εὐρύμαχος, Πολύβου πάϊς, ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.321#κούρη Ἰκαρίοιο,  περίφρον Πηνελόπεια,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.322#οὔ τί σε τόνδ' ἄξεσθαι ὀϊόμεθ'· οὐδὲ ἔοικεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.323#ἀλλ' αἰσχυνόμενοι φάτιν ἀνδρῶν ἠδὲ γυναικῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.324#μή ποτέ τις εἴπῃσι κακώτερος ἄλλος Ἀχαιῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.325#ἦ πολὺ χείρονες ἄνδρες ἀμύμονος ἀνδρὸς ἄκοιτιν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.326#μνῶνται, οὐδέ τι τόξον ἐΰξοον ἐντανύουσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.327#ἀλλ' ἄλλος τις πτωχὸς ἀνὴρ ἀλαλήμενος ἐλθὼν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.328#ῥηϊδίως ἐτάνυσσε βιόν, διὰ δ' ἧκε σιδήρου.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.329#ὣς ἐρέουσ', ἡμῖν δ' ἂν ἐλέγχεα ταῦτα γένοιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.330#τὸν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.331#Εὐρύμαχ', οὔ πως ἔστιν ἐϋκλεῖας κατὰ δῆμον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.332#ἔμμεναι οἳ δὴ οἶκον ἀτιμάζοντες ἔδουσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.333#ἀνδρὸς ἀριστῆος· τί δ' ἐλέγχεα ταῦτα τίθεσθε;
+urn:cts:greekLit:tlg0012.tlg002.murray:21.334#οὗτος δὲ ξεῖνος μάλα μὲν μέγας ἠδ' εὐπηγής,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.335#πατρὸς δ' ἐξ ἀγαθοῦ γένος εὔχεται ἔμμεναι υἱός.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.336#ἀλλ' ἄγε οἱ δότε τόξον ἐΰξοον, ὄφρα ἴδωμεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.337#ὧδε γὰρ ἐξερέω, τὸ δὲ καὶ τετελεσμένον ἔσται·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.338#εἴ κέ μιν ἐντανύσῃ, δώῃ δέ οἱ εὖχος Ἀπόλλων,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.339#ἕσσω μιν χλαῖνάν τε χιτῶνά τε, εἵματα καλά,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.340#δώσω δ' ὀξὺν ἄκοντα,  κυνῶν ἀλκτῆρα καὶ ἀνδρῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.341#καὶ ξίφος ἄμφηκες· δώσω δ' ὑπὸ ποσσὶ πέδιλα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.342#πέμψω δ' ὅππη μιν κραδίη θυμός τε κελεύει.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.343#τὴν δ' αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.344#μῆτερ ἐμή, τόξον μὲν Ἀχαιῶν οὔ τις ἐμεῖο
+urn:cts:greekLit:tlg0012.tlg002.murray:21.345#κρείσσων,  ᾧ κ' ἐθέλω, δόμεναί τε καὶ ἀρνήσασθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.346#οὔθ' ὅσσοι κραναὴν Ἰθάκην κάτα κοιρανέουσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.347#οὔθ' ὅσσοι νήσοισι πρὸς Ἤλιδος ἱπποβότοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.348#τῶν οὔ τίς μ' ἀέκοντα βιήσεται, αἴ κ' ἐθέλωμι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.349#καὶ καθάπαξ ξείνῳ δόμεναι τάδε τόξα φέρεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.350#ἀλλ' εἰς οἶκον ἰοῦσα τὰ σ' αὐτῆς ἔργα κόμιζε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.351#ἱστόν τ' ἠλακάτην τε, καὶ ἀμφιπόλοισι κέλευε
+urn:cts:greekLit:tlg0012.tlg002.murray:21.352#ἔργον ἐποίχεσθαι· τόξον δ' ἄνδρεσσι μελήσει
+urn:cts:greekLit:tlg0012.tlg002.murray:21.353#πᾶσι, μάλιστα δ' ἐμοί· τοῦ γὰρ κράτος ἔστ' ἐνὶ οἴκῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.354#ἡ μὲν θαμβήσασα πάλιν οἶκόνδε βεβήκει·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.355#παιδὸς γὰρ μῦθον πεπνυμένον ἔνθετο θυμῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.356#ἐς δ' ὑπερῷ' ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.357#κλαῖεν ἔπειτ' Ὀδυσῆα, φίλον πόσιν, ὄφρα οἱ ὕπνον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.358#ἡδὺν ἐπὶ βλεφάροισι βάλε γλαυκῶπις Ἀθήνη.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.359#αὐτὰρ ὁ τόξα λαβὼν φέρε καμπύλα δῖος ὑφορβός·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.360#μνηστῆρες δ' ἄρα πάντες ὁμόκλεον ἐν μεγάροισιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.361#ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.362#πῆ δὴ καμπύλα τόξα φέρεις, ἀμέγαρτε συβῶτα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.363#πλαγκτέ; τάχ' αὖ σ' ἐφ' ὕεσσι κύνες ταχέες κατέδονται
+urn:cts:greekLit:tlg0012.tlg002.murray:21.364#οἶον ἀπ' ἀνθρώπων, οὓς ἔτρεφες, εἴ κεν Ἀπόλλων
+urn:cts:greekLit:tlg0012.tlg002.murray:21.365#ἡμῖν ἱλήκῃσι καὶ ἀθάνατοι θεοὶ ἄλλοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.366#ὣς φάσαν, αὐτὰρ, ὁ θῆκε φέρων αὐτῇ ἐνὶ χώρῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.367#δείσας, οὕνεκα πολλοὶ ὁμόκλεον ἐν μεγάροισιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.368#Τηλέμαχος δ' ἑτέρωθεν ἀπειλήσας ἐγεγώνει·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.369#ἄττα, πρόσω φέρε τόξα· τάχ' οὐκ εὖ πᾶσι πιθήσεις
+urn:cts:greekLit:tlg0012.tlg002.murray:21.370#μή σε καὶ ὁπλότερός περ ἐὼν ἀγρόνδε δίωμαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.371#βάλλων χερμαδίοισι· βίηφι δὲ φέρτερός εἰμι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.372#αἲ γὰρ πάντων τόσσον, ὅσοι κατὰ δώματ' ἔασι,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.373#μνηστήρων χερσίν τε βίηφί τε φέρτερος εἴην·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.374#τῷ κε τάχα στυγερῶς τιν' ἐγὼ πέμψαιμι νέεσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.375#ἡμετέρου ἐξ οἴκου,  ἐπεὶ κακὰ μηχανόωνται.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.376#ὣς ἔφαθ', οἱ δ' ἄρα πάντες ἐπ' αὐτῷ ἡδὺ γέλασσαν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.377#μνηστῆρες, καὶ δὴ μέθιεν χαλεποῖο χόλοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:21.378#Τηλεμάχῳ· τὰ δὲ τόξα φέρων ἀνὰ δῶμα συβώτης
+urn:cts:greekLit:tlg0012.tlg002.murray:21.379#ἐν χείρεσσ' Ὀδυσῆϊ δαΐφρονι θῆκε παραστάς.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.380#ἐκ δὲ καλεσσάμενος προσέφη τροφὸν Εὐρύκλειαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.381#Τηλέμαχος κέλεταί σε, περίφρων Εὐρύκλεια,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.382#κληῗσαι μεγάροιο θύρας πυκινῶς ἀραρυίας.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.383#ἢν δέ τις ἤ στοναχῆς ἠὲ κτύπου ἔνδον ἀκούσῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.384#ἀνδρῶν ἡμετέροισιν ἐν ἕρκεσι, μή τι θύραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:21.385#προβλώσκειν,  ἀλλ' αὐτοῦ ἀκὴν ἔμεναι παρὰ ἔργῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.386#ὣς ἄρ' ἐφώνησεν, τῇ δ' ἄπτερος ἔπλετο μῦθος,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.387#κλήϊσεν δὲ θύρας μεγάρων εὖ ναιεταόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.388#σιγῇ δ' ἐξ οἴκοιο Φιλοίτιος ἆλτο θύραζε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.389#κλήϊσεν δ' ἄρ' ἔπειτα θύρας εὐερκέος αὐλῆς.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.390#κεῖτο δ' ὑπ' αἰθούσῃ ὅπλον νεὸς ἀμφιελίσσης
+urn:cts:greekLit:tlg0012.tlg002.murray:21.391#βύβλινον, ᾧ ῥ' ἐπέδησε θύρας, ἐς δ' ἤϊεν αὐτός·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.392#ἕζετ' ἔπειτ' ἐπὶ δίφρον ἰών, ἔνθεν περ ἀνέστη,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.393#εἰσορόων Ὀδυσῆα. ὁ δ' ἤδη τόξον ἐνώμα
+urn:cts:greekLit:tlg0012.tlg002.murray:21.394#πάντη ἀναστρωφῶν, πειρώμενος ἔνθα καὶ ἔνθα,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.395#μὴ κέρα ἶπες ἔδοιεν ἀποιχομένοιο ἄνακτος.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.396#ὧδε τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.397#ἦ τις θηητὴρ καὶ ἐπίκλοπος ἔπλετο τόξων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.398#ἤ ῥά νύ που τοιαῦτα καὶ αὐτῷ οἴκοθι κεῖται
+urn:cts:greekLit:tlg0012.tlg002.murray:21.399#ἢ ὅ γ' ἐφορμᾶται ποιησέμεν, ὡς ἐνὶ χερσὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.400#νωμᾷ ἔνθα καὶ ἔνθα κακῶν ἔμπαιος ἀλήτης.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.401#ἄλλος δ' αὖ εἴπεσκε νέων ὑπερηνορεόντων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.402#αἲ γὰρ δὴ τοσσοῦτον ὀνήσιος ἀντιάσειεν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.403#ὡς οὗτός ποτε τοῦτο δυνήσεται ἐντανύσασθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.404#ὣς ἄρ' ἔφαν μνηστῆρες· ἀτὰρ πολύμητις Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.405#αὐτίκ' ἐπεὶ μέγα τόξον ἐβάστασε καὶ ἴδε πάντη,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.406#ὡς ὅτ' ἀνὴρ φόρμιγγος ἐπιστάμενος καὶ ἀοιδῆς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.407#ῥηϊδίως ἐτάνυσσε νέῳ περὶ κόλλοπι χορδήν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.408#ἅψας ἀμφοτέρωθεν ἐϋστρεφὲς ἔντερον οἰός,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.409#ὣς ἄρ' ἄτερ σπουδῆς τάνυσεν μέγα τόξον Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.410#δεξιτερῇ ἄρα χειρὶ λαβὼν πειρήσατο νευρῆς·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.411#ἡ δ' ὑπὸ καλὸν ἄεισε, χελιδόνι εἰκέλη αὐδήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.412#μνηστῆρσιν δ' ἄρ' ἄχος γένετο μέγα, πᾶσι δ' ἄρα χρὼς
+urn:cts:greekLit:tlg0012.tlg002.murray:21.413#ἐτράπετο· Ζεὺς δὲ μεγάλ' ἔκτυπε σήματα φαίνων·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.414#γήθησέν τ' ἄρ' ἔπειτα πολύτλας δῖος Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.415#ὅττι ῥά οἱ τέρας ἧκε Κρόνου πάϊς ἀγκυλομήτεω·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.416#εἵλετο δ' ὠκὺν ὀϊστόν, ὅ οἱ παρέκειτο τραπέζῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.417#γυμνός· τοὶ δ' ἄλλοι κοίλης ἔντοσθε φαρέτρης
+urn:cts:greekLit:tlg0012.tlg002.murray:21.418#κείατο, τῶν τάχ' ἔμελλον Ἀχαιοὶ πειρήσεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.419#τόν ῥ' ἐπὶ πήχει ἑλὼν ἕλκεν νευρὴν γλυφίδας τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.420#αὐτόθεν ἐκ δίφροιο καθήμενος,  ἧκε δ' ὀϊστὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:21.421#ἄντα τιτυσκόμενος, πελέκεων δ' οὐκ ἤμβροτε πάντων
+urn:cts:greekLit:tlg0012.tlg002.murray:21.422#πρώτης στειλειῆς, διὰ δ' ἀμπερὲς ἦλθε θύραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:21.423#ἰὸς χαλκοβαρής· ὁ δὲ Τηλέμαχον προσέειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:21.424#Τηλέμαχ', οὔ σ' ὁ ξεῖνος ἐνὶ μεγάροισιν ἐλέγχει
+urn:cts:greekLit:tlg0012.tlg002.murray:21.425#ἥμενος,  οὐδέ τι τοῦ σκοποῦ ἤμβροτον οὐδέ τι τόξον
+urn:cts:greekLit:tlg0012.tlg002.murray:21.426#δὴν ἔκαμον τανύων· ἔτι μοι μένος ἔμπεδόν ἐστιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.427#οὐχ ὥς με μνηστῆρες ἀτιμάζοντες ὄνονται.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.428#νῦν δ' ὥρη καὶ δόρπον Ἀχαιοῖσιν τετυκέσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.429#ἐν φάει, αὐτὰρ ἔπειτα καὶ ἄλλως ἑψιάασθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:21.430#μολπῇ καὶ φόρμιγγι· τὰ γάρ τ' ἀναθήματα δαιτός.
+urn:cts:greekLit:tlg0012.tlg002.murray:21.431#ἦ καὶ ἐπ' ὀφρύσι νεῦσεν· ὁ δ' ἀμφέθετο ξίφος ὀξὺ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.432#Τηλέμαχος,  φίλος υἱὸς Ὀδυσσῆος θείοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:21.433#ἀμφὶ δὲ χεῖρα φίλην βάλεν ἔγχεϊ, ἄγχι δ' ἄρ' αὐτοῦ
+urn:cts:greekLit:tlg0012.tlg002.murray:21.434#πὰρ θρόνον ἑστήκει κεκορυθμένος αἴθοπι χαλκῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.1#αὐτὰρ ὁ γυμνώθη ῥακέων πολύμητις Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.2#ἆλτο δ' ἐπὶ μέγαν οὐδόν, ἔχων βιὸν ἠδὲ φαρέτρην
+urn:cts:greekLit:tlg0012.tlg002.murray:22.3#ἰῶν ἐμπλείην, ταχέας δ' ἐκχεύατ' ὀϊστοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.4#αὐτοῦ πρόσθε ποδῶν, μετὰ δὲ μνηστῆρσιν ἔειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.5#οὗτος μὲν δὴ ἄεθλος ἀάατος ἐκτετέλεσται·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.6#νῦν αὖτε σκοπὸν ἄλλον, ὃν οὔ πώ τις βάλεν ἀνήρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.7#εἴσομαι, αἴ κε τύχωμι, πόρῃ δέ μοι εὖχος Ἀπόλλων.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.8#ἦ καὶ ἐπ' Ἀντινόῳ ἰθύνετο πικρὸν ὀϊστόν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.9#ἦ τοι ὁ καλὸν ἄλεισον ἀναιρήσεσθαι ἔμελλε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.10#χρύσεον ἄμφωτον,  καὶ δὴ μετὰ χερσὶν ἐνώμα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.11#ὄφρα πίοι οἴνοιο· φόνος δέ οἱ οὐκ ἐνὶ θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.12#μέμβλετο· τίς κ' οἴοιτο μετ' ἀνδράσι δαιτυμόνεσσι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.13#μοῦνον ἐνὶ πλεόνεσσι, καὶ εἰ μάλα καρτερὸς εἴη,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.14#οἷ τεύξειν θάνατόν τε κακὸν καὶ κῆρα μέλαιναν;
+urn:cts:greekLit:tlg0012.tlg002.murray:22.15#τὸν δ' Ὀδυσεὺς κατὰ λαιμὸν ἐπισχόμενος βάλεν ἰῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.16#ἀντικρὺ δ' ἁπαλοῖο δι' αὐχένος ἤλυθ' ἀκωκή.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.17#ἐκλίνθη δ' ἑτέρωσε, δέπας δέ οἱ ἔκπεσε χειρὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.18#βλημένου, αὐτίκα δ' αὐλὸς ἀνὰ ῥῖνας παχὺς ἦλθεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.19#αἵματος ἀνδρομέοιο· θοῶς δ' ἀπὸ εἷο τράπεζαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.20#ὦσε ποδὶ πλήξας,  ἀπὸ δ' εἴδατα χεῦεν ἔραζε·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.21#σῖτός τε κρέα τ' ὀπτὰ φορύνετο. τοὶ δ' ὁμάδησαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.22#μνηστῆρες κατὰ δώμαθ', ὅπως ἴδον ἄνδρα πεσόντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.23#ἐκ δὲ θρόνων ἀνόρουσαν ὀρινθέντες κατὰ δῶμα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.24#πάντοσε παπταίνοντες ἐϋδμήτους ποτὶ τοίχους·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.25#οὐδέ πη ἀσπὶς ἔην οὐδ' ἄλκιμον ἔγχος ἑλέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.26#νείκειον δ' Ὀδυσῆα χολωτοῖσιν ἐπέεσσι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.27#ξεῖνε, κακῶς ἀνδρῶν τοξάζεαι· οὐκέτ' ἀέθλων
+urn:cts:greekLit:tlg0012.tlg002.murray:22.28#ἄλλων ἀντιάσεις· νῦν τοι σῶς αἰπὺς ὄλεθρος.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.29#καὶ γὰρ δὴ νῦν φῶτα κατέκτανες ὃς μέγ' ἄριστος
+urn:cts:greekLit:tlg0012.tlg002.murray:22.30#κούρων εἰν Ἰθάκῃ· τῷ σ' ἐνθάδε γῦπες ἔδονται.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.31#ἴσκεν ἕκαστος ἀνήρ, ἐπεὶ ἦ φάσαν οὐκ ἐθέλοντα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.32#ἄνδρα κατακτεῖναι· τὸ δὲ νήπιοι οὐκ ἐνόησαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.33#ὡς δή σφιν καὶ πᾶσιν ὀλέθρου πείρατ' ἐφῆπτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.34#τοὺς δ' ἄρ' ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.35#ὦ κύνες,  οὔ μ' ἔτ' ἐφάσκεθ' ὑπότροπον οἴκαδ' ἱκέσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.36#δήμου ἄπο Τρώων, ὅτι μοι κατεκείρετε οἶκον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.37#δμῳῇσιν δὲ γυναιξὶ παρευνάζεσθε βιαίως,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.38#αὐτοῦ τε ζώοντος ὑπεμνάασθε γυναῖκα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.39#οὔτε θεοὺς δείσαντες, οἳ οὐρανὸν εὐρὺν ἔχουσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.40#οὔτε τιν' ἀνθρώπων νέμεσιν κατόπισθεν ἔσεσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.41#νῦν ὑμῖν καὶ πᾶσιν ὀλέθρου πείρατ' ἐφῆπται.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.42#ὣς φάτο, τοὺς δ' ἄρα πάντας ὑπὸ χλωρὸν δέος εἷλεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.43#πάπτηνεν δὲ ἕκαστος ὅπη φύγοι αἰπὺν ὄλεθρον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.44#Εὐρύμαχος δέ μιν οἶος ἀμειβόμενος προσέειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.45#εἰ μὲν δὴ Ὀδυσεὺς Ἰθακήσιος εἰλήλουθας,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.46#ταῦτα μὲν αἴσιμα εἶπας, ὅσα ῥέζεσκον Ἀχαιοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.47#πολλὰ μὲν ἐν μεγάροισιν ἀτάσθαλα, πολλὰ δ' ἐπ' ἀγροῦ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.48#ἀλλ' ὁ μὲν ἤδη κεῖται ὃς αἴτιος ἔπλετο πάντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.49#Ἀντίνοος· οὗτος γὰρ ἐπίηλεν τάδε ἔργα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.50#οὔ τι γάμου τόσσον κεχρημένος οὐδὲ χατίζων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.51#ἀλλ' ἄλλα φρονέων, τά οἱ οὐκ ἐτέλεσσε Κρονίων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.52#ὄφρ' Ἰθάκης κατὰ δῆμον ἐϋκτιμένης βασιλεύοι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.53#αὐτός, ἀτὰρ σὸν παῖδα κατακτείνειε λοχήσας.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.54#νῦν δ' ὁ μὲν ἐν μοίρῃ πέφαται, σὺ δὲ φείδεο λαῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.55#σῶν· ἀτὰρ ἄμμες ὄπισθεν ἀρεσσάμενοι κατὰ δῆμον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.56#ὅσσα τοι ἐκπέποται καὶ ἐδήδοται ἐν μεγάροισι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.57#τιμὴν ἀμφὶς ἄγοντες ἐεικοσάβοιον ἕκαστος,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.58#χαλκόν τε χρυσόν τ' ἀποδώσομεν, εἰς ὅ κε σὸν κῆρ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.59#ἰανθῇ· πρὶν δ' οὔ τι νεμεσσητὸν κεχολῶσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.60#τὸν δ' ἄρ' ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.61#Εὐρύμαχ',  οὐδ' εἴ μοι πατρώϊα πάντ' ἀποδοῖτε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.62#ὅσσα τε νῦν ὔμμ' ἐστὶ καὶ εἴ ποθεν ἄλλ' ἐπιθεῖτε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.63#οὐδέ κεν ὣς ἔτι χεῖρας ἐμὰς λήξαιμι φόνοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.64#πρὶν πᾶσαν μνηστῆρας ὑπερβασίην ἀποτῖσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.65#νῦν ὑμῖν παράκειται ἐναντίον ἠὲ μάχεσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.66#ἢ φεύγειν, ὅς κεν θάνατον καὶ κῆρας ἀλύξῃ·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.67#ἀλλά τιν' οὐ φεύξεσθαι ὀΐομαι αἰπὺν ὄλεθρον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.68#ὣς φάτο, τῶν δ' αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.69#τοῖσιν δ' Εὐρύμαχος προσεφώνεε δεύτερον αὖτις·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.70#ὦ φίλοι, οὐ γὰρ σχήσει ἀνὴρ ὅδε χεῖρας ἀάπτους,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.71#ἀλλ' ἐπεὶ ἔλλαβε τόξον ἐΰξοον ἠδὲ φαρέτρην,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.72#οὐδοῦ ἄπο ξεστοῦ τοξάσσεται, εἰς ὅ κε πάντας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.73#ἄμμε κατακτείνῃ· ἀλλὰ μνησώμεθα χάρμης.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.74#φάσγανά τε σπάσσασθε καὶ ἀντίσχεσθε τραπέζας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.75#ἰῶν ὠκυμόρων· ἐπὶ δ' αὐτῷ πάντες ἔχωμεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.76#ἀθρόοι, εἴ κέ μιν οὐδοῦ ἀπώσομεν ἠδὲ θυράων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.77#ἔλθωμεν δ' ἀνὰ ἄστυ, βοὴ δ' ὤκιστα γένοιτο·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.78#τῷ κε τάχ' οὗτος ἀνὴρ νῦν ὕστατα τοξάσσαιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.79#ὣς ἄρα φωνήσας εἰρύσσατο φάσγανον ὀξὺ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.80#χάλκεον,  ἀμφοτέρωθεν ἀκαχμένον, ἆλτο δ' ἐπ' αὐτῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.81#σμερδαλέα ἰάχων· ὁ δ' ἁμαρτῆ δῖος Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.82#ἰὸν ἀποπροίει, βάλε δὲ στῆθος παρὰ μαζόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.83#ἐν δέ οἱ ἥπατι πῆξε θοὸν βέλος· ἐκ δ' ἄρα χειρὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.84#φάσγανον ἧκε χαμᾶζε, περιρρηδὴς δὲ τραπέζῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.85#κάππεσεν ἰδνωθείς, ἀπὸ δ' εἴδατα χεῦεν ἔραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.86#καὶ δέπας ἀμφικύπελλον· ὁ δὲ χθόνα τύπτε μετώπῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.87#θυμῷ ἀνιάζων, ποσὶ δὲ θρόνον ἀμφοτέροισι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.88#λακτίζων ἐτίνασσε· κατ' ὀφθαλμῶν δ' ἔχυτ' ἀχλύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.89#Ἀμφίνομος δ' Ὀδυσῆος ἐείσατο κυδαλίμοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.90#ἀντίος ἀΐξας,  εἴρυτο δὲ φάσγανον ὀξύ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.91#εἴ πώς οἱ εἴξειε θυράων. ἀλλ' ἄρα μιν φθῆ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.92#Τηλέμαχος κατόπισθε βαλὼν χαλκήρεϊ δουρὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.93#ὤμων μεσσηγύς, διὰ δὲ στήθεσφιν ἔλασσεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.94#δούπησεν δὲ πεσών, χθόνα δ' ἤλασε παντὶ μετώπῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.95#Τηλέμαχος δ' ἀπόρουσε,  λιπὼν δολιχόσκιον ἔγχος
+urn:cts:greekLit:tlg0012.tlg002.murray:22.96#αὐτοῦ ἐν Ἀμφινόμῳ· περὶ γὰρ δίε μή τις Ἀχαιῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.97#ἔγχος ἀνελκόμενον δολιχόσκιον ἢ ἐλάσειε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.98#φασγάνῳ ἀΐξας ἠὲ προπρηνέα τύψας.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.99#βῆ δὲ θέειν, μάλα δ' ὦκα φίλον πατέρ' εἰσαφίκανεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.100#ἀγχοῦ δ' ἱστάμενος ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.101#ὦ πάτερ, ἤδη τοι σάκος οἴσω καὶ δύο δοῦρε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.102#καὶ κυνέην πάγχαλκον, ἐπὶ κροτάφοις ἀραρυῖαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.103#αὐτός τ' ἀμφιβαλεῦμαι ἰών, δώσω δὲ συβώτῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.104#καὶ τῷ βουκόλῳ ἄλλα· τετευχῆσθαι γὰρ ἄμεινον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.105#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.106#οἶσε θέων,  ἧός μοι ἀμύνεσθαι πάρ' ὀϊστοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.107#μή μ' ἀποκινήσωσι θυράων μοῦνον ἐόντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.108#ὣς φάτο, Τηλέμαχος δὲ φίλῳ ἐπεπείθετο πατρί,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.109#βῆ δ' ἴμεναι θάλαμόνδ', ὅθι οἱ κλυτὰ τεύχεα κεῖτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.110#ἔνθεν τέσσαρα μὲν σάκε' ἔξελε,  δούρατα δ' ὀκτὼ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.111#καὶ πίσυρας κυνέας χαλκήρεας ἱπποδασείας·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.112#βῆ δὲ φέρων, μάλα δ' ὦκα φίλον πατέρ' εἰσαφίκανεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.113#αὐτὸς δὲ πρώτιστα περὶ χροῒ δύσετο χαλκόν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.114#ὣς δ' αὔτως τὼ δμῶε δυέσθην τεύχεα καλά,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.115#ἔσταν δ' ἀμφ' Ὀδυσῆα δαΐφρονα ποικιλομήτην.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.116#αὐτὰρ ὅ γ', ὄφρα μὲν αὐτῷ ἀμύνεσθαι ἔσαν ἰοί.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.117#τόφρα μνηστήρων ἕνα γ' αἰεὶ ᾧ ἐνὶ οἴκῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.118#βάλλε τιτυσκόμενος· τοὶ δ' ἀγχιστῖνοι ἔπιπτον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.119#αὐτὰρ ἐπεὶ λίπον ἰοὶ ὀϊστεύοντα ἄνακτα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.120#τόξον μὲν πρὸς σταθμὸν ἐϋσταθέος μεγάροιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.121#ἔκλιν' ἑστάμεναι, πρὸς ἐνώπια παμφανόωντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.122#αὐτὸς δ' ἀμφ' ὤμοισι σάκος θέτο τετραθέλυμνον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.123#κρατὶ δ' ἐπ' ἰφθίμῳ κυνέην εὔτυκτον ἔθηκεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.124#ἵππουριν, δεινὸν δὲ λόφος καθύπερθεν ἔνευεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.125#εἵλετο δ' ἄλκιμα δοῦρε δύω κεκορυθμένα χαλκῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.126#ὀρσοθύρη δέ τις ἔσκεν ἐϋδμήτῳ ἐνὶ τοίχῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.127#ἀκρότατον δὲ παρ' οὐδὸν ἐϋσταθέος μεγάροιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.128#ἦν ὁδὸς ἐς λαύρην, σανίδες δ' ἔχον εὖ ἀραρυῖαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.129#τὴν δ' Ὀδυσεὺς φράζεσθαι ἀνώγει δῖον ὑφορβὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.130#ἑσταότ' ἄγχ' αὐτῆς· μία δ' οἴη γίγνετ' ἐφορμή.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.131#τοῖς δ' Ἀγέλεως μετέειπεν, ἔπος πάντεσσι πιφαύσκων·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.132#ὦ φίλοι, οὐκ ἂν δή τις ἀν' ὀρσοθύρην ἀναβαίη
+urn:cts:greekLit:tlg0012.tlg002.murray:22.133#καὶ εἴποι λαοῖσι, βοὴ δ' ὤκιστα γένοιτο;
+urn:cts:greekLit:tlg0012.tlg002.murray:22.134#τῷ κε τάχ' οὗτος ἀνὴρ νῦν ὕστατα τοξάσσαιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.135#τὸν δ' αὖτε προσέειπε Μελάνθιος, αἰπόλος αἰγῶν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.136#οὔ πως ἔστ',  Ἀγέλαε διοτρεφές· ἄγχι γὰρ αἰνῶς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.137#αὐλῆς καλὰ θύρετρα καὶ ἀργαλέον στόμα λαύρης·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.138#καί χ' εἷς πάντας ἐρύκοι ἀνήρ, ὅς τ' ἄλκιμος εἴη.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.139#ἀλλ' ἄγεθ', ὑμῖν τεύχε' ἐνείκω θωρηχθῆναι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.140#ἐκ θαλάμου· ἔνδον γάρ,  ὀΐομαι, οὐδέ πη ἄλλῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.141#τεύχεα κατθέσθην Ὀδυσεὺς καὶ φαίδιμος υἱός.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.142#ὣς εἰπὼν ἀνέβαινε Μελάνθιος, αἰπόλος αἰγῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.143#εἰς θαλάμους Ὀδυσῆος ἀνὰ ῥῶγας μεγάροιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.144#ἔνθεν δώδεκα μὲν σάκε' ἔξελε, τόσσα δὲ δοῦρα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.145#καὶ τόσσας κυνέας χαλκήρεας ἱπποδασείας·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.146#βῆ δ' ἴμεναι, μάλα δ' ὦκα φέρων μνηστῆρσιν ἔδωκεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.147#καὶ τότ' Ὀδυσσῆος λύτο γούνατα καὶ φίλον ἦτορ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.148#ὡς περιβαλλομένους ἴδε τεύχεα χερσί τε δοῦρα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.149#μακρὰ τινάσσοντας· μέγα δ' αὐτῷ φαίνετο ἔργον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.150#αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.151#Τηλέμαχ', ἦ μάλα δή τις ἐνὶ μεγάροισι γυναικῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.152#νῶϊν ἐποτρύνει πόλεμον κακὸν ἠὲ Μελανθεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.153#τὸν δ' αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.154#ὦ πάτερ, αὐτὸς ἐγὼ τόδε γ' ἤμβροτον—οὐδέ τις ἄλλος
+urn:cts:greekLit:tlg0012.tlg002.murray:22.155#αἴτιος—ὃς θαλάμοιο θύρην πυκινῶς ἀραρυῖαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.156#κάλλιπον ἀγκλίνας· τῶν δὲ σκοπὸς ἦεν ἀμείνων.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.157#ἀλλ' ἴθι, δῖ' Εὔμαιε, θύρην ἐπίθες θαλάμοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.158#καὶ φράσαι ἤ τις ἄρ' ἐστὶ γυναικῶν ἣ τάδε ῥέζει,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.159#ἢ υἱὸς Δολίοιο, Μελανθεύς, τόν περ ὀΐω.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.160#ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.161#βῆ δ' αὖτις θάλαμόνδε Μελάνθιος, αἰπόλος αἰγῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.162#οἴσων τεύχεα καλά. νόησε δὲ δῖος ὑφορβός,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.163#αἶψα δ' Ὀδυσσῆα προσεφώνεεν ἐγγὺς ἐόντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.164#διογενὲς Λαερτιάδη, πολυμήχαν' Ὀδυσσεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.165#κεῖνος δ' αὖτ' ἀΐδηλος ἀνήρ,  ὃν ὀϊόμεθ' αὐτοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.166#ἔρχεται ἐς θάλαμον· σὺ δέ μοι νημερτὲς ἐνίσπες,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.167#ἤ μιν ἀποκτείνω, αἴ κε κρείσσων γε γένωμαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.168#ἦε σοὶ ἐνθάδ' ἄγω, ἵν' ὑπερβασίας ἀποτίσῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.169#πολλάς, ὅσσας οὗτος ἐμήσατο σῷ ἐνὶ οἴκῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.170#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.171#ἦ τοι ἐγὼ καὶ Τηλέμαχος μνηστῆρας ἀγαυοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.172#σχήσομεν ἔντοσθεν μεγάρων, μάλα περ μεμαῶτας.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.173#σφῶϊ δ' ἀποστρέψαντε πόδας καὶ χεῖρας ὕπερθεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.174#ἐς θάλαμον βαλέειν, σανίδας δ' ἐκδῆσαι ὄπισθε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.175#σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.176#κίον' ἀν' ὑψηλὴν ἐρύσαι πελάσαι τε δοκοῖσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.177#ὥς κεν δηθὰ ζωὸς ἐὼν χαλέπ' ἄλγεα πάσχῃ·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.178#ὣς ἔφαθ', οἱ δ' ἄρα τοῦ μάλα μὲν κλύον ἠδ' ἐπίθοντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.179#βὰν δ' ἴμεν ἐς θάλαμον, λαθέτην δέ μιν ἔνδον ἐόντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.180#ἦ τοι ὁ μὲν θαλάμοιο μυχὸν κάτα τεύχε' ἐρεύνα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.181#τὼ δ' ἔσταν ἑκάτερθε παρὰ σταθμοῖσι μένοντε.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.182#εὖθ' ὑπὲρ οὐδὸν ἔβαινε Μελάνθιος, αἰπόλος αἰγῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.183#τῇ ἑτέρῃ μὲν χειρὶ φέρων καλὴν τρυφάλειαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.184#τῇ δ' ἑτέρῃ σάκος εὐρὺ γέρον, πεπαλαγμένον ἄζῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.185#Λαέρτεω ἥρωος,  ὃ κουρίζων φορέεσκε·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.186#δὴ τότε γ' ἤδη κεῖτο, ῥαφαὶ δὲ λέλυντο ἱμάντων·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.187#τὼ δ' ἄρ' ἐπαΐξανθ' ἑλέτην ἔρυσάν τέ μιν εἴσω
+urn:cts:greekLit:tlg0012.tlg002.murray:22.188#κουρίξ, ἐν δαπέδῳ δὲ χαμαὶ βάλον ἀχνύμενον κῆρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.189#σὺν δὲ πόδας χεῖράς τε δέον θυμαλγέϊ δεσμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.190#εὖ μάλ' ἀποστρέψαντε διαμπερές,  ὡς ἐκέλευσεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.191#υἱὸς Λαέρταο, πολύτλας δῖος Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.192#σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.193#κίον' ἀν' ὑψηλὴν ἔρυσαν πέλασάν τε δοκοῖσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.194#τὸν δ' ἐπικερτομέων προσέφης, Εὔμαιε συβῶτα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.195#νῦν μὲν δὴ μάλα πάγχυ, Μελάνθιε, νύκτα φυλάξεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.196#εὐνῇ ἔνι μαλακῇ καταλέγμενος,  ὥς σε ἔοικεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.197#οὐδέ σέ γ' ἠριγένεια παρ' Ὠκεανοῖο ῥοάων
+urn:cts:greekLit:tlg0012.tlg002.murray:22.198#λήσει ἐπερχομένη χρυσόθρονος, ἡνίκ' ἀγινεῖς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.199#αἶγας μνηστήρεσσι δόμον κάτα δαῖτα πένεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.200#ὣς ὁ μὲν αὖθι λέλειπτο,  ταθεὶς ὀλοῷ ἐνὶ δεσμῷ·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.201#τὼ δ' ἐς τεύχεα δύντε, θύρην ἐπιθέντε φαεινήν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.202#βήτην εἰς Ὀδυσῆα δαΐφρονα, ποικιλομήτην.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.203#ἔνθα μένος πνείοντες ἐφέστασαν, οἱ μὲν ἐπ' οὐδοῦ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.204#τέσσαρες, οἱ δ' ἔντοσθε δόμων πολέες τε καὶ ἐσθλοί.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.205#τοῖσι δ' ἐπ' ἀγχίμολον θυγάτηρ Διὸς ἦλθεν Ἀθήνη,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.206#Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.207#τὴν δ' Ὀδυσεὺς γήθησεν ἰδὼν καὶ μῦθον ἔειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.208#Μέντορ, ἄμυνον ἀρήν, μνῆσαι δ' ἑτάροιο φίλοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.209#ὅς σ' ἀγαθὰ ῥέζεσκον· ὁμηλικίην δέ μοί ἐσσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.210#ὣς φάτ',  ὀϊόμενος λαοσσόον ἔμμεν Ἀθήνην.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.211#μνηστῆρες δ' ἑτέρωθεν ὁμόκλεον ἐν μεγάροισι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.212#πρῶτος τήν γ' ἐνένιπε Δαμαστορίδης Ἀγέλαος·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.213#Μέντορ, μή σ' ἐπέεσσι παραιπεπίθῃσιν Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.214#μνηστήρεσσι μάχεσθαι, ἀμυνέμεναι δέ οἱ αὐτῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.215#ὧδε γὰρ ἡμέτερόν γε νόον τελέεσθαι ὀΐω·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.216#ὁππότε κεν τούτους κτέωμεν, πατέρ' ἠδὲ καὶ υἱόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.217#ἐν δὲ σὺ τοῖσιν ἔπειτα πεφήσεαι, οἷα μενοινᾷς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.218#ἔρδειν ἐν μεγάροις· σῷ δ' αὐτοῦ κράατι τίσεις.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.219#αὐτὰρ ἐπὴν ὑμέων γε βίας ἀφελώμεθα χαλκῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.220#κτήμαθ' ὁπόσσα τοί ἐστι, τά τ' ἔνδοθι καὶ τὰ θύρηφι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.221#τοῖσιν Ὀδυσσῆος μεταμίξομεν· οὐδέ τοι υἷας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.222#ζώειν ἐν μεγάροισιν ἐάσομεν, οὐδέ θύγατρας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.223#οὐδ' ἄλοχον κεδνὴν Ἰθάκης κατὰ ἄστυ πολεύειν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.224#ὣς φάτ', Ἀθηναίη δὲ χολώσατο κηρόθι μᾶλλον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.225#νείκεσσεν δ' Ὀδυσῆα χολωτοῖσιν ἐπέεσσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.226#οὐκέτι σοί γ', Ὀδυσεῦ, μένος ἔμπεδον οὐδέ τις ἀλκή
+urn:cts:greekLit:tlg0012.tlg002.murray:22.227#οἵη ὅτ' ἀμφ' Ἑλένῃ λευκωλένῳ εὐπατερείῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.228#εἰνάετες Τρώεσσιν ἐμάρναο νωλεμὲς αἰεί,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.229#πολλοὺς δ' ἄνδρας ἔπεφνες ἐν αἰνῇ δηϊοτῆτι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.230#σῇ δ' ἥλω βουλῇ Πριάμου πόλις εὐρυάγυια.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.231#πῶς δὴ νῦν, ὅτε σόν τε δόμον καὶ κτήμαθ' ἱκάνεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.232#ἄντα μνηστήρων ὀλοφύρεαι ἄλκιμος εἶναι;
+urn:cts:greekLit:tlg0012.tlg002.murray:22.233#ἀλλ' ἄγε δεῦρο, πέπον, παρ' ἔμ' ἵστασο καὶ ἴδε ἔργον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.234#ὄφρ' εἰδῇς οἷός τοι ἐν ἀνδράσι δυσμενέεσσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.235#Μέντωρ Ἀλκιμίδης εὐεργεσίας ἀποτίνειν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.236#ἦ ῥα, καὶ οὔ πω πάγχυ δίδου ἑτεραλκέα νίκην,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.237#ἀλλ' ἔτ' ἄρα σθένεός τε καὶ ἀλκῆς πειρήτιζεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.238#ἠμὲν Ὀδυσσῆος ἠδ' υἱοῦ κυδαλίμοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.239#αὐτὴ δ' αἰθαλόεντος ἀνὰ μεγάροιο μέλαθρον
+urn:cts:greekLit:tlg0012.tlg002.murray:22.240#ἕζετ' ἀναΐξασα,  χελιδόνι εἰκέλη ἄντην.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.241#μνηστῆρας δ' ὤτρυνε Δαμαστορίδης Ἀγέλαος,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.242#Εὐρύνομός τε καὶ Ἀμφιμέδων Δημοπτόλεμός τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.243#Πείσανδρός τε Πολυκτορίδης Πόλυβός τε δαΐφρων·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.244#οἱ γὰρ μνηστήρων ἀρετῇ ἔσαν ἔξοχ' ἄριστοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.245#ὅσσοι ἔτ' ἔζωον περί τε ψυχέων ἐμάχοντο·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.246#τοὺς δ' ἤδη ἐδάμασσε βιὸς καὶ ταρφέες ἰοί.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.247#τοῖς δ' Ἀγέλεως μετέειπεν, ἔπος πάντεσσι πιφαύσκων·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.248#ὦ φίλοι, ἤδη σχήσει ἀνὴρ ὅδε χεῖρας ἀάπτους·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.249#καὶ δή οἱ Μέντωρ μὲν ἔβη κενὰ εὔγματα εἰπών,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.250#οἱ δ' οἶοι λείπονται ἐπὶ πρώτῃσι θύρῃσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.251#τῷ νῦν μὴ ἅμα πάντες ἐφίετε δούρατα μακρά,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.252#ἀλλ' ἄγεθ' οἱ ἓξ πρῶτον ἀκοντίσατ', αἴ κέ ποθι Ζεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.253#δώῃ Ὀδυσσῆα βλῆσθαι καὶ κῦδος ἀρέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.254#τῶν δ' ἄλλων οὐ κῆδος, ἐπὴν οὗτός γε πέσῃσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.255#ὣς ἔφαθ', οἱ δ' ἄρα πάντες ἀκόντισαν ὡς ἐκέλευεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.256#ἱέμενοι· τὰ δὲ πάντα ἐτώσια θῆκεν Ἀθήνη,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.257#τῶν ἄλλος μὲν σταθμὸν ἐϋσταθέος μεγάροιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.258#βεβλήκει, ἄλλος δὲ θύρην πυκινῶς ἀραρυῖαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.259#ἄλλου δ' ἐν τοίχῳ μελίη πέσε χαλκοβάρεια.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.260#αὐτὰρ ἐπεὶ δὴ δούρατ' ἀλεύαντο μνηστήρων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.261#τοῖς δ' ἄρα μύθων ἦρχε πολύτλας δῖος Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.262#ὦ φίλοι, ἤδη μέν κεν ἐγὼν εἴποιμι καὶ ἄμμι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.263#μνηστήρων ἐς ὅμιλον ἀκοντίσαι, οἳ μεμάασιν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.264#ἡμέας ἐξεναρίξαι ἐπὶ προτέροισι κακοῖσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.265#ὣς ἔφαθ', οἱ δ' ἄρα πάντες ἀκόντισαν ὀξέα δοῦρα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.266#ἄντα τιτυσκόμενοι· Δημοπτόλεμον μὲν Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.267#Εὐρυάδην δ' ἄρα Τηλέμαχος, Ἔλατον δὲ συβώτης,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.268#Πείσανδρον δ' ἄρ' ἔπεφνε βοῶν ἐπιβουκόλος ἀνήρ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.269#οἱ μὲν ἔπειθ' ἅμα πάντες ὀδὰξ ἕλον ἄσπετον οὖδας,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.270#μνηστῆρες δ' ἀνεχώρησαν μεγάροιο μυχόνδε·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.271#τοὶ δ' ἄρ' ἐπήϊξαν, νεκύων δ' ἐξ ἔγχε' ἕλοντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.272#αὖτις δὲ μνηστῆρες ἀκόντισαν ὀξέα δοῦρα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.273#ἱέμενοι· τὰ δὲ πολλὰ ἐτώσια θῆκεν Ἀθήνη.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.274#τῶν ἄλλος μὲν σταθμὸν ἐϋσταθέος μεγάροιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.275#βεβλήκειν,  ἄλλος δὲ θύρην πυκινῶς ἀραρυῖαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.276#ἄλλου δ' ἐν τοίχῳ μελίη πέσε χαλκοβάρεια.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.277#Ἀμφιμέδων δ' ἄρα Τηλέμαχον βάλε χεῖρ' ἐπὶ καρπῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.278#λίγδην, ἄκρον δὲ ῥινὸν δηλήσατο χαλκός.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.279#Κτήσιππος δ' Εὔμαιον ὑπὲρ σάκος ἔγχεϊ μακρῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.280#ὦμον ἐπέγραψεν· τὸ δ' ὑπέρπτατο, πῖπτε δ' ἔραζε.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.281#τοὶ δ' αὖτ' ἀμφ' Ὀδυσῆα δαΐφρονα ποικιλομήτην,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.282#μνηστήρων ἐς ὅμιλον ἀκόντισαν ὀξέα δοῦρα.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.283#ἔνθ' αὖτ' Εὐρυδάμαντα βάλε πτολίπορθος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.284#Ἀμφιμέδοντα δὲ Τηλέμαχος, Πόλυβον δὲ συβώτης·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.285#Κτήσιππον δ' ἄρ' ἔπειτα βοῶν ἐπιβουκόλος ἀνὴρ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.286#βεβλήκει πρὸς στῆθος, ἐπευχόμενος δὲ προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.287#ὦ Πολυθερσεΐδη φιλοκέρτομε, μή ποτε πάμπαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.288#εἴκων ἀφραδίῃς μέγα εἰπεῖν, ἀλλὰ θεοῖσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.289#μῦθον ἐπιτρέψαι, ἐπεὶ ἦ πολὺ φέρτεροί εἰσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.290#τοῦτό τοι ἀντὶ ποδὸς ξεινήϊον,  ὅν ποτ' ἔδωκας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.291#ἀντιθέῳ Ὀδυσῆϊ δόμον κάτ' ἀλητεύοντι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.292#ἦ ῥα βοῶν ἑλίκων ἐπιβουκόλος· αὐτὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.293#οὖτα Δαμαστορίδην αὐτοσχεδὸν ἔγχεϊ μακρῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.294#Τηλέμαχος δ' Εὐηνορίδην Λειώκριτον οὖτα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.295#δουρὶ μέσον κενεῶνα,  διαπρὸ δὲ χαλκὸν ἔλασσεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.296#ἤριπε δὲ πρηνής, χθόνα δ' ἤλασε παντὶ μετώπῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.297#δὴ τότ' Ἀθηναίη φθισίμβροτον αἰγίδ' ἀνέσχεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.298#ὑψόθεν ἐξ ὀροφῆς· τῶν δὲ φρένες ἐπτοίηθεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.299#οἱ δ' ἐφέβοντο κατὰ μέγαρον βόες ὣς ἀγελαῖαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.300#τὰς μέν τ' αἰόλος οἶστρος ἐφορμηθεὶς ἐδόνησεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.301#ὥρῃ ἐν εἰαρινῇ, ὅτε τ' ἤματα μακρὰ πέλονται.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.302#οἱ δ' ὥς τ' αἰγυπιοὶ γαμψώνυχες ἀγκυλοχεῖλαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.303#ἐξ ὀρέων ἐλθόντες ἐπ' ὀρνίθεσσι θόρωσι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.304#ταὶ μέν τ' ἐν πεδίῳ νέφεα πτώσσουσαι ἵενται,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.305#οἱ δέ τε τὰς ὀλέκουσιν ἐπάλμενοι,  οὐδέ τις ἀλκὴ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.306#γίγνεται οὐδὲ φυγή· χαίρουσι δέ τ' ἀνέρες ἄγρῃ·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.307#ὣς ἄρα τοὶ μνηστῆρας ἐπεσσύμενοι κατὰ δῶμα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.308#τύπτον ἐπιστροφάδην· τῶν δὲ στόνος ὤρνυτ' ἀεικὴς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.309#κράτων τυπτομένων, δάπεδον δ' ἅπαν αἵματι θῦε.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.310#λειώδης δ' Ὀδυσῆος ἐπεσσύμενος λάβε γούνων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.311#καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.312#γουνοῦμαί σ', Ὀδυσεῦ· σὺ δέ μ' αἴδεο καί μ' ἐλέησον·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.313#οὐ γάρ πώ τινά φημι γυναικῶν ἐν μεγάροισιν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.314#εἰπεῖν οὐδέ τι ῥέξαι ἀτάσθαλον· ἀλλὰ καὶ ἄλλους
+urn:cts:greekLit:tlg0012.tlg002.murray:22.315#παύεσκον μνηστῆρας,  ὅτις τοιαῦτά γε ῥέζοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.316#ἀλλά μοι οὐ πείθοντο κακῶν ἄπο χεῖρας ἔχεσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.317#τῷ καὶ ἀτασθαλίῃσιν ἀεικέα πότμον ἐπέσπον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.318#αὐτὰρ ἐγὼ μετὰ τοῖσι θυοσκόος οὐδὲν ἐοργὼς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.319#κείσομαι, ὡς οὐκ ἔστι χάρις μετόπισθ' εὐεργέων·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.320#τὸν δ' ἄρ' ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.321#εἰ μὲν δὴ μετὰ τοῖσι θυοσκόος εὔχεαι εἶναι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.322#πολλάκι που μέλλεις ἀρήμεναι ἐν μεγάροισι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.323#τηλοῦ ἐμοὶ νόστοιο τέλος γλυκεροῖο γενέσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.324#σοὶ δ' ἄλοχόν τε φίλην σπέσθαι καὶ τέκνα τεκέσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.325#τῷ οὐκ ἂν θάνατόν γε δυσηλεγέα προφύγοισθα.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.326#ὣς ἄρα φωνήσας ξίφος εἵλετο χειρὶ παχείῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.327#κείμενον, ὅ ῥ' Ἀγέλαος ἀποπροέηκε χαμᾶζε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.328#κτεινόμενος· τῷ τόν γε κατ' αὐχένα μέσσον ἔλασσε.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.329#φθεγγομένου δ' ἄρα τοῦ γε κάρη κονίῃσιν ἐμίχθη.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.330#Τερπιάδης δ' ἔτ' ἀοιδὸς ἀλύσκανε κῆρα μέλαιναν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.331#Φήμιος, ὅς ῥ' ἤειδε μετὰ μνηστῆρσιν ἀνάγκῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.332#ἔστη δ' ἐν χείρεσσίν ἔχων φόρμιγγα λίγειαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.333#ἄγχι παρ' ὀρσοθύρην· δίχα δὲ φρεσὶ μερμήριζεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.334#ἢ ἐκδὺς μεγάροιο Διὸς μεγάλου ποτὶ βωμὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.335#ἑρκείου ἵζοιτο τετυγμένον,  ἔνθ' ἄρα πολλὰ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.336#Λαέρτης Ὀδυσεύς τε βοῶν ἐπὶ μηρί' ἔκηαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.337#ἦ γούνων λίσσοιτο προσαΐξας Ὀδυσῆα.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.338#ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.339#γούνων ἅψασθαι Λαερτιάδεω Ὀδυσῆος.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.340#ἦ τοι ὁ φόρμιγγα γλαφυρὴν κατέθηκε χαμᾶζε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.341#μεσσηγὺς κρητῆρος ἰδὲ θρόνου ἀργυροήλου,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.342#αὐτὸς δ' αὖτ' Ὀδυσῆα προσαΐξας λάβε γούνων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.343#καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.344#γουνοῦμαί σ', Ὀδυσεῦ· σὺ δέ μ' αἴδεο καί μ' ἐλέησον·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.345#αὐτῷ τοι μετόπισθ' ἄχος ἔσσεται,  εἴ κεν ἀοιδὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.346#πέφνῃς, ὅς τε θεοῖσι καὶ ἀνθρώποισιν ἀείδω.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.347#αὐτοδίδακτος δ' εἰμί, θεὸς δέ μοι ἐν φρεσὶν οἴμας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.348#παντοίας ἐνέφυσεν· ἔοικα δέ τοι παραείδειν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.349#ὥς τε θεῷ· τῷ με λιλαίεο δειροτομῆσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.350#καί κεν Τηλέμαχος τάδε γ' εἴποι,  σὸς φίλος υἱός,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.351#ὡς ἐγὼ οὔ τι ἑκὼν ἐς σὸν δόμον οὐδὲ χατίζων
+urn:cts:greekLit:tlg0012.tlg002.murray:22.352#πωλεύμην μνηστῆρσιν ἀεισόμενος μετὰ δαῖτας,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.353#ἀλλὰ πολὺ πλέονες καὶ κρείσσονες ἦγον ἀνάγκῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.354#ὣς φάτο, τοῦ δ' ἤκουσ' ἱερὴ ἲς Τηλεμάχοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.355#αἶψα δ' ἑὸν πατέρα προσεφώνεεν ἐγγὺς ἐόντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.356#ἴσχεο μηδέ τι τοῦτον ἀναίτιον οὔταε χαλκῷ·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.357#καὶ κήρυκα Μέδοντα σαώσομεν, ὅς τέ μευ αἰεὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.358#οἴκῳ ἐν ἡμετέρῳ κηδέσκετο παιδὸς ἐόντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.359#εἰ δὴ μή μιν ἔπεφνε Φιλοίτιος ἠὲ συβώτης,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.360#ἠὲ σοὶ ἀντεβόλησεν ὀρινομένῳ κατὰ δῶμα.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.361#ὣς φάτο, τοῦ δ' ἤκουσε Μέδων πεπνυμένα εἰδώς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.362#πεπτηὼς γὰρ ἔκειτο ὑπὸ θρόνον, ἀμφὶ  δὲ δέρμα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.363#ἕστο βοὸς νεόδαρτον, ἀλύσκων κῆρα μέλαιναν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.364#αἶψα δ' ἀπὸ θρόνου ὦρτο, θοῶς δ' ἀπέδυνε βοείην
+urn:cts:greekLit:tlg0012.tlg002.murray:22.365#Τηλέμαχον δ' ἄρ' ἔπειτα προσαΐξας λάβε γούνων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.366#καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.367#ὦ φίλ', ἐγὼ μὲν ὅδ' εἰμί, σὺ δ' ἴσχεο εἰπὲ δὲ πατρὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.368#μή με περισθενέων δηλήσεται ὀξέϊ χαλκῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.369#ἀνδρῶν μνηστήρων κεχολωμένος, οἵ οἱ ἔκειρον
+urn:cts:greekLit:tlg0012.tlg002.murray:22.370#κτήματ' ἐνὶ μεγάροις,  σὲ δὲ νήπιοι οὐδὲν ἔτιον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.371#τὸν δ' ἐπιμειδήσας προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.372#θάρσει, ἐπεὶ δή σ' οὗτος ἐρύσσατο καὶ ἐσάωσεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.373#ὄφρα γνῷς κατὰ θυμόν, ἀτὰρ εἴπῃσθα καὶ ἄλλῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.374#ὡς κακοεργίης εὐεργεσίη μέγ' ἀμείνων.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.375#ἀλλ' ἐξελθόντες μεγάρων ἕζεσθε θύραζε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.376#ἐκ φόνου εἰς αὐλήν, σύ τε καὶ πολύφημος ἀοιδός,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.377#ὄφρ' ἂν ἐγὼ κατὰ δῶμα πονήσομαι ὅττεό με χρή.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.378#ὣς φάτο, τὼ δ' ἔξω βήτην μεγάροιο κιόντε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.379#ἑζέσθην δ' ἄρα τώ γε Διὸς μεγάλου ποτὶ βωμόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.380#πάντοσε παπταίνοντε,  φόνον ποτιδεγμένω αἰεί.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.381#πάπτηνεν δ' Ὀδυσεὺς καθ' ἑὸν δόμον, εἴ τις ἔτ' ἀνδρῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.382#ζωὸς ὑποκλοπέοιτο, ἀλύσκων κῆρα μέλαιναν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.383#τοὺς δὲ ἴδεν μάλα πάντας ἐν αἵματι καὶ κονίῃσι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.384#πεπτεῶτας πολλούς, ὥστ' ἰχθύας, οὕς θ' ἁλιῆες
+urn:cts:greekLit:tlg0012.tlg002.murray:22.385#κοῖλον ἐς αἰγιαλὸν πολιῆς ἔκτοσθε θαλάσσης
+urn:cts:greekLit:tlg0012.tlg002.murray:22.386#δικτύῳ ἐξέρυσαν πολυωπῷ· οἱ δέ τε πάντες
+urn:cts:greekLit:tlg0012.tlg002.murray:22.387#κύμαθ' ἁλὸς ποθέοντες ἐπὶ ψαμάθοισι κέχυνται·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.388#τῶν μέν τ' Ἠέλιος φαέθων ἐξείλετο θυμόν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.389#ὣς τότ' ἄρα μνηστῆρες ἐπ' ἀλλήλοισι κέχυντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.390#δὴ τότε Τηλέμαχον προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.391#Τηλέμαχ', εἰ δ' ἄγε μοι κάλεσον τροφὸν Εὐρύκλειαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.392#ὄφρα ἔπος εἴπωμι τό μοι καταθύμιόν ἐστιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.393#ὣς φάτο, Τηλέμαχος δὲ φίλῳ ἐπεπείθετο πατρί,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.394#κινήσας δὲ θύρην προσέφη τροφὸν Εὐρύκλειαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.395#δεῦρο δὴ ὄρσο,  γρηῢ παλαιγενές, ἥ τε γυναικῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.396#δμῳάων σκοπός ἐσσι κατὰ μέγαρ' ἡμετεράων·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.397#ἔρχεο· κικλήσκει σε πατὴρ ἐμός, ὄφρα τι εἴπῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.398#ὣς ἄρ' ἐφώνησεν, τῇ δ' ἄπτερος ἔπλετο μῦθος,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.399#ὤϊξεν δὲ θύρας μεγάρων εὖ ναιεταόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.400#βῆ δ' ἴμεν· αὐτὰρ Τηλέμαχος πρόσθ' ἡγεμόνευεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.401#εὗρεν ἔπειτ' Ὀδυσῆα μετὰ κταμένοισι νέκυσσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.402#αἵματι καὶ λύθρῳ πεπαλαγμένον ὥστε λέοντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.403#ὅς ῥά τε βεβρωκὼς βοὸς ἔρχεται ἀγραύλοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.404#πᾶν δ' ἄρα οἱ στῆθός τε παρήϊά τ' ἀμφοτέρωθεν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.405#αἱματόεντα πέλει,  δεινὸς δ' εἰς ὦπα ἰδέσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.406#ὣς Ὀδυσεὺς πεπάλακτο πόδας καὶ χεῖρας ὕπερθεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.407#ἡ δ' ὡς οὖν νέκυάς τε καὶ ἄσπετον εἴσιδεν αἷμα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.408#ἴθυσέν ῥ' ὀλολύξαι, ἐπεὶ μέγα εἴσιδεν ἔργον·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.409#ἀλλ' Ὀδυσεὺς κατέρυκε καὶ ἔσχεθεν ἱεμένην περ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.410#καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.411#ἐν θυμῷ, γρηῦ, χαῖρε καὶ ἴσχεο μηδ' ὀλόλυζε·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.412#οὐχ ὁσίη κταμένοισιν ἐπ' ἀνδράσιν εὐχετάασθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.413#τούσδε δὲ μοῖρ' ἐδάμασσε θεῶν καὶ σχέτλια ἔργα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.414#οὔ τινα γὰρ τίεσκον ἐπιχθονίων ἀνθρώπων,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.415#οὐ κακὸν οὐδὲ μὲν ἐσθλόν,  ὅτις σφέας εἰσαφίκοιτο·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.416#τῷ καὶ ἀτασθαλίῃσιν ἀεικέα πότμον ἐπέσπον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.417#ἀλλ' ἄγε μοι σὺ γυναῖκας ἐνὶ μεγάροις κατάλεξον,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.418#αἵ τέ μ' ἀτιμάζουσι καὶ αἳ νηλείτιδές εἰσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.419#τὸν δ' αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.420#τοιγὰρ ἐγώ τοι,  τέκνον, ἀληθείην καταλέξω.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.421#πεντήκοντά τοί εἰσιν ἐνὶ μεγάροισι γυναῖκες
+urn:cts:greekLit:tlg0012.tlg002.murray:22.422#δμῳαί, τὰς μέν τ' ἔργα διδάξαμεν ἐργάζεσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.423#εἴριά τε ξαίνειν καὶ δουλοσύνην ἀνέχεσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.424#τάων δώδεκα πᾶσαι ἀναιδείης ἐπέβησαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.425#οὔτ' ἐμὲ τίουσαι οὔτ' αὐτὴν Πηνελόπειαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.426#Τηλέμαχος δὲ νέον μὲν ἀέξετο, οὐδέ ἑ μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.427#σημαίνειν εἴασκεν ἐπὶ δμῳῇσι γυναιξίν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.428#ἀλλ' ἄγ' ἐγὼν ἀναβᾶσ' ὑπερώϊα σιγαλόεντα
+urn:cts:greekLit:tlg0012.tlg002.murray:22.429#εἴπω σῇ ἀλόχῳ, τῇ τις θεὸς ὕπνον ἐπῶρσε.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.430#τὴν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.431#μή πω τήνδ' ἐπέγειρε· σὺ δ' ἐνθάδε εἰπὲ γυναιξὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.432#ἐλθέμεν, αἵ περ πρόσθεν ἀεικέα μηχανόωντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.433#ὣς ἄρ' ἔφη, γρηῢς δὲ διὲκ μεγάροιο βεβήκει
+urn:cts:greekLit:tlg0012.tlg002.murray:22.434#ἀγγελέουσα γυναιξὶ καὶ ὀτρυνέουσα νέεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.435#αὐτὰρ ὁ Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην
+urn:cts:greekLit:tlg0012.tlg002.murray:22.436#εἰς ἓ καλεσσάμενος ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.437#ἄρχετε νῦν νέκυας φορέειν καὶ ἄνωχθε γυναῖκας·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.438#αὐτὰρ ἔπειτα θρόνους περικαλλέας ἠδὲ τραπέζας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.439#ὕδατι καὶ σπόγγοισι πολυτρήτοισι καθαίρειν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.440#αὐτὰρ ἐπὴν δὴ πάντα δόμον κατακοσμήσησθε,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.441#δμῳὰς ἐξαγαγόντες ἐϋσταθέος μεγάροιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.442#μεσσηγύς τε θόλου καὶ ἀμύμονος ἕρκεος αὐλῆς,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.443#θεινέμεναι ξίφεσιν τανυήκεσιν, εἰς ὅ κε πασέων
+urn:cts:greekLit:tlg0012.tlg002.murray:22.444#ψυχὰς ἐξαφέλησθε καὶ ἐκλελάθωντ' Ἀφροδίτης,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.445#τὴν ἄρ' ὑπὸ μνηστῆρσιν ἔχον μίσγοντό τε λάθρη.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.446#ὣς ἔφαθ', αἱ δὲ γυναῖκες ἀολλέες ἦλθον ἅπασαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.447#αἴν' ὀλοφυρόμεναι, θαλερὸν κατὰ δάκρυ χέουσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.448#πρῶτα μὲν οὖν νέκυας φόρεον κατατεθνηῶτας,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.449#κὰδ δ' ἄρ' ὑπ' αἰθούσῃ τίθεσαν εὐερκέος αὐλῆς,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.450#ἀλλήλοισιν ἐρείδουσαι· σήμαινε δ' Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.451#αὐτὸς ἐπισπέρχων·  ταὶ δ' ἐκφόρεον καὶ ἀνάγκῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.452#αὐτὰρ ἔπειτα θρόνους περικαλλέας ἠδὲ τραπέζας
+urn:cts:greekLit:tlg0012.tlg002.murray:22.453#ὕδατι καὶ σπόγγοισι πολυτρήτοισι κάθαιρον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.454#αὐτὰρ Τηλέμαχος καὶ βουκόλος ἠδὲ συβώτῃς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.455#λίστροισιν δάπεδον πύκα ποιητοῖο δόμοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.456#ξῦον· ταὶ δ' ἐφόρεον δμῳαί, τίθεσαν δὲ θύραζε.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.457#αὐτὰρ ἐπειδὴ πᾶν μέγαρον διεκοσμήσαντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.458#δμῳὰς δ' ἐξαγαγόντες ἐϋσταθέος μεγάροιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.459#μεσσηγύς τε θόλου καὶ ἀμύμονος ἕρκεος αὐλῆς,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.460#εἴλεον ἐν στείνει,  ὅθεν οὔ πως ἦεν ἀλύξαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.461#τοῖσι δὲ Τηλέμαχος πεπνυμένος ἦρχ' ἀγορεύειν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.462#μὴ μὲν δὴ καθαρῷ θανάτῳ ἀπὸ θυμὸν ἑλοίμην
+urn:cts:greekLit:tlg0012.tlg002.murray:22.463#τάων, αἳ δὴ ἐμῇ κεφαλῇ κατ' ὀνείδεα χεῦαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.464#μητέρι θ' ἡμετέρῃ παρά τε μνηστῆρσιν ἴαυον.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.465#ὣς ἄρ' ἔφη,  καὶ πεῖσμα νεὸς κυανοπρῴροιο
+urn:cts:greekLit:tlg0012.tlg002.murray:22.466#κίονος ἐξάψας μεγάλης περίβαλλε θόλοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.467#ὑψόσ' ἐπεντανύσας, μή τις ποσὶν οὖδας ἵκοιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.468#ὡς δ' ὅτ' ἂν ἢ κίχλαι τανυσίπτεροι ἠὲ πέλειαι
+urn:cts:greekLit:tlg0012.tlg002.murray:22.469#ἕρκει ἐνιπλήξωσι, τό θ' ἑστήκῃ ἐνὶ θάμνῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.470#αὖλιν ἐσιέμεναι,  στυγερὸς δ' ὑπεδέξατο κοῖτος,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.471#ὣς αἵ γ' ἑξείης κεφαλὰς ἔχον, ἀμφὶ δὲ πάσαις
+urn:cts:greekLit:tlg0012.tlg002.murray:22.472#δειρῇσι βρόχοι ἦσαν, ὅπως οἴκτιστα θάνοιεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.473#ἤσπαιρον δὲ πόδεσσι μίνυνθά περ οὔ τι μάλα δήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.474#ἐκ δὲ Μελάνθιον ἦγον ἀνὰ πρόθυρόν τε καὶ αὐλήν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.475#τοῦ δ' ἀπὸ μὲν ῥῖνάς τε καὶ οὔατα νηλέϊ χαλκῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:22.476#τάμνον, μήδεά τ' ἐξέρυσαν, κυσὶν ὠμὰ δάσασθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.477#χεῖράς τ' ἠδὲ πόδας κόπτον κεκοτηότι θυμῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.478#οἱ μὲν ἔπειτ' ἀπονιψάμενοι χεῖράς τε πόδας τε
+urn:cts:greekLit:tlg0012.tlg002.murray:22.479#εἰς Ὀδυσῆα δόμονδε κίον, τετέλεστο δὲ ἔργον·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.480#αὐτὰρ ὅ γε προσέειπε φίλην τροφὸν Εὐρύκλειαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.481#οἶσε θέειον, γρηΰ, κακῶν ἄκος, οἶσε δέ μοι πῦρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.482#ὄφρα θεειώσω μέγαρον· σὺ δὲ Πηνελόπειαν
+urn:cts:greekLit:tlg0012.tlg002.murray:22.483#ἐλθεῖν ἐνθάδ' ἄνωχθι σὺν ἀμφιπόλοισι γυναιξί·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.484#πάσας δ' ὄτρυνον δμῳὰς κατὰ δῶμα νέεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.485#τὸν δ' αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.486#ναὶ δὴ ταῦτά γε, τέκνον ἐμόν, κατὰ μοῖραν ἔειπες.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.487#ἀλλ' ἄγε τοι χλαῖνάν τε χιτῶνά τε εἵματ' ἐνείκω,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.488#μηδ' οὕτω ῥάκεσιν πεπυκασμένος εὐρέας ὤμους
+urn:cts:greekLit:tlg0012.tlg002.murray:22.489#ἕσταθ' ἐνὶ μεγάροισι· νεμεσσητὸν δέ κεν εἴη.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.490#τὴν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.491#πῦρ νῦν μοι πρώτιστον ἐνὶ μεγάροισι γενέσθω.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.492#ὣς ἔφατ', οὐδ' ἀπίθησε φίλη τροφὸς Εὐρύκλεια,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.493#ἤνεικεν δ' ἄρα πῦρ καὶ θήϊον· αὐτὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:22.494#εὖ διεθείωσεν μέγαρον καὶ δῶμα καὶ αὐλήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.495#γρηῢς δ' αὖτ' ἀπέβη διὰ δώματα κάλ' Ὀδυσῆος
+urn:cts:greekLit:tlg0012.tlg002.murray:22.496#ἀγγελέουσα γυναιξὶ καὶ ὀτρυνέουσα νέεσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:22.497#αἱ δ' ἴσαν ἐκ μεγάροιο δάος μετὰ χερσὶν ἔχουσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:22.498#αἱ μὲν ἄρ' ἀμφεχέοντο καὶ ἠσπάζοντ' Ὀδυσῆα,
+urn:cts:greekLit:tlg0012.tlg002.murray:22.499#καὶ κύνεον ἀγαπαξόμεναι κεφαλήν τε καὶ ὤμους
+urn:cts:greekLit:tlg0012.tlg002.murray:22.500#χεῖράς τ' αἰνύμεναι· τὸν δὲ γλυκὺς ἵμερος ᾕρει
+urn:cts:greekLit:tlg0012.tlg002.murray:22.501#κλαυθμοῦ καὶ στοναχῆς, γίγνωσκε δ' ἄρα φρεσὶ πάσας.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.1#γρηῢς δ' εἰς ὑπερῷ' ἀνεβήσετο καγχαλόωσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.2#δεσποίνῃ ἐρέουσα φίλον πόσιν ἔνδον ἐόντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.3#γούνατα δ' ἐρρώσαντο, πόδες δ' ὑπερικταίνοντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.4#στῆ δ' ἄρ' ὑπὲρ κεφαλῆς καί μιν πρὸς μῦθον ἔειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.5#ἔγρεο,  Πηνελόπεια, φίλον τέκος, ὄφρα ἴδηαι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.6#ὀφθαλμοῖσι τεοῖσι τά τ' ἔλδεαι ἤματα πάντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.7#ἦλθ' Ὀδυσεὺς καὶ οἶκον ἱκάνεται, ὀψέ περ ἐλθών.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.8#μνηστῆρας δ' ἔκτεινεν ἀγήνορας, οἵ θ' ἑὸν οἶκον
+urn:cts:greekLit:tlg0012.tlg002.murray:23.9#κήδεσκον καὶ κτήματ' ἔδον βιόωντό τε παῖδα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.10#τὴν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.11#μαῖα φίλη, μάργην σε θεοὶ θέσαν, οἵ τε δύνανται
+urn:cts:greekLit:tlg0012.tlg002.murray:23.12#ἄφρονα ποιῆσαι καὶ ἐπίφρονά περ μάλ' ἐόντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.13#καί τε χαλιφρονέοντα σαοφροσύνης ἐπέβησαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.14#οἵ σέ περ ἔβλαψαν· πρὶν δὲ φρένας αἰσίμη ἦσθα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.15#τίπτε με λωβεύεις πολυπενθέα θυμὸν ἔχουσαν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.16#ταῦτα παρὲξ ἐρέουσα καὶ ἐξ ὕπνου μ' ἀνεγείρεις
+urn:cts:greekLit:tlg0012.tlg002.murray:23.17#ἡδέος, ὅς μ' ἐπέδησε φίλα βλέφαρ' ἀμφικαλύψας;
+urn:cts:greekLit:tlg0012.tlg002.murray:23.18#οὐ γάρ πω τοιόνδε κατέδραθον, ἐξ οὗ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.19#ᾤχετ' ἐποψόμενος Κακοΐλιον οὐκ ὀνομαστήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.20#ἀλλ' ἄγε νῦν κατάβηθι καὶ ἂψ ἔρχευ μέγαρόνδε.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.21#εἰ γάρ τίς μ' ἄλλη γε γυναικῶν, αἵ μοι ἔασι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.22#ταῦτ' ἐλθοῦσ' ἤγγειλε καὶ ἐξ ὕπνου ἀνέγειρεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.23#τῷ κε τάχα στυγερῶς μιν ἐγὼν ἀπέπεμψα νέεσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.24#αὖτις ἔσω μέγαρον· σὲ δὲ τοῦτό γε γῆρας ὀνήσει.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.25#τὴν δ' αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.26#οὔ τί σε λωβεύω, τέκνον φίλον, ἀλλ' ἔτυμόν τοι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.27#ἦλθ' Ὀδυσεὺς καὶ οἶκον ἱκάνεται, ὡς ἀγορεύω,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.28#ὁ ξεῖνος, τὸν πάντες ἀτίμων ἐν μεγάροισι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.29#Τηλέμαχος δ' ἄρα μιν πάλαι ᾔδεεν ἔνδον ἐόντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.30#ἀλλὰ σαοφροσύνῃσι νοήματα πατρὸς ἔκευθεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.31#ὄφρ' ἀνδρῶν τίσαιτο βίην ὑπερηνορεόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.32#ὣς ἔφαθ', ἡ δ' ἐχάρη καὶ ἀπὸ λέκτροιο θοροῦσα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.33#γρηῒ περιπλέχθη, βλεφάρων δ' ἀπὸ δάκρυον ἧκεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.34#καί μιν φωνήσασ' ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.35#εἰ δ' ἄγε δή μοι,  μαῖα φίλη, νημερτὲς ἐνίσπες,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.36#εἰ ἐτεὸν δὴ οἶκον ἱκάνεται, ὡς ἀγορεύεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.37#ὅππως δὴ μνηστῆρσιν ἀναιδέσι χεῖρας ἐφῆκε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.38#μοῦνος ἐών, οἱ δ' αἰὲν ἀολλέες ἔνδον ἔμιμνον.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.39#τὴν δ' αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.40#οὐκ ἴδον,  οὐ πυθόμην, ἀλλὰ στόνον οἶον ἄκουσα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.41#κτεινομένων· ἡμεῖς δὲ μυχῷ θαλάμων εὐπήκτων
+urn:cts:greekLit:tlg0012.tlg002.murray:23.42#ἥμεθ' ἀτυζόμεναι, σανίδες δ' ἔχον εὖ ἀραρυῖαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.43#πρίν γ' ὅτε δή με σὸς υἱὸς ἀπὸ μεγάροιο κάλεσσε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.44#Τηλέμαχος· τὸν γάρ ῥα πατὴρ προέηκε καλέσσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.45#εὗρον ἔπειτ' Ὀδυσῆα μετὰ κταμένοισι νέκυσσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.46#ἑσταόθ'· οἱ δέ μιν ἀμφί, κραταίπεδον οὖδας ἔχοντες,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.47#κείατ' ἐπ' ἀλλήλοισιν· ἰδοῦσά κε θυμὸν ἰάνθης.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.48#νῦν δ' οἱ μὲν δὴ πάντες ἐπ' αὐλείῃσι θύρῃσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.50#ἀθρόοι,  αὐτὰρ ὁ δῶμα θεειοῦται περικαλλές,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.51#πῦρ μέγα κηάμενος· σὲ δέ με προέηκε καλέσσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.52#ἀλλ' ἕπευ, ὄφρα σφῶϊν ἐϋφροσύνης ἐπιβῆτον
+urn:cts:greekLit:tlg0012.tlg002.murray:23.53#ἀμφοτέρω φίλον ἦτορ, ἐπεὶ κακὰ πολλὰ πέποσθε.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.54#νῦν δ' ἤδη τόδε μακρὸν ἐέλδωρ ἐκτετέλεσται·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.55#ἦλθε μὲν αὐτὸς ζωὸς ἐφέστιος,  εὗρε δὲ καὶ σὲ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.56#καὶ παῖδ' ἐν μεγάροισι· κακῶς δ' οἵ πέρ μιν ἔρεζον
+urn:cts:greekLit:tlg0012.tlg002.murray:23.57#μνηστῆρες, τοὺς πάντας ἐτίσατο ᾧ ἐνὶ οἴκῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.58#τὴν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.59#μαῖα φίλη, μή πω μέγ' ἐπεύχεο καγχαλόωσα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.60#οἶσθα γὰρ ὥς κ' ἀσπαστὸς ἐνὶ μεγάροισι φανείη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.61#πᾶσι, μάλιστα δ' ἐμοί τε καὶ υἱέϊ, τὸν τεκόμεσθα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.62#ἀλλ' οὐκ ἔσθ' ὅδε μῦθος ἐτήτυμος, ὡς ἀγορεύεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.63#ἀλλά τις ἀθανάτων κτεῖνε μνηστῆρας ἀγαυούς,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.64#ὕβριν ἀγασσάμενος θυμαλγέα καὶ κακὰ ἔργα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.65#οὔ τινα γὰρ τίεσκον ἐπιχθονίων ἀνθρώπων,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.66#οὐ κακὸν οὐδὲ μὲν ἐσθλόν, ὅτις σφέας εἰσαφίκοιτο·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.67#τῷ δι' ἀτασθαλίας ἔπαθον κακόν· αὐτὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.68#ὤλεσε τηλοῦ νόστον Ἀχαιΐδος, ὤλετο δ' αὐτός.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.69#τὴν δ' ἠμείβετ' ἔπειτα φίλη τροφὸς Εὐρύκλεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.70#τέκνον ἐμόν,  ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.71#ἣ πόσιν ἔνδον ἐόντα παρ' ἐσχάρῃ οὔ ποτ' ἔφησθα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.72#οἴκαδ' ἐλεύσεσθαι· θυμὸς δέ τοι αἰὲν ἄπιστος.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.73#ἀλλ' ἄγε τοι καὶ σῆμα ἀριφραδὲς ἄλλο τι εἴπω,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.74#οὐλήν, τήν ποτέ μιν σῦς ἤλασε λευκῷ ὀδόντι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.75#τὴν ἀπονίζουσα φρασάμην,  ἔθελον δὲ σοὶ αὐτῇ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.76#εἰπέμεν· ἀλλά με κεῖνος ἑλὼν ἐπὶ μάστακα χερσὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.77#οὐκ ἔα εἰπέμεναι πολυϊδρείῃσι νόοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.78#ἀλλ' ἕπευ· αὐτὰρ ἐγὼν ἐμέθεν περιδώσομαι αὐτῆς,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.79#αἴ κέν σ' ἐξαπάφω, κτεῖναί μ' οἰκτίστῳ ὀλέθρῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.80#τὴν δ' ἠμείβετ' ἔπειτα περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.81#μαῖα φίλη, χαλεπόν σε θεῶν αἰειγενετάων
+urn:cts:greekLit:tlg0012.tlg002.murray:23.82#δήνεα εἴρυσθαι, μὰλα περ πολύϊδριν ἐοῦσαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.83#ἀλλ' ἔμπης ἴομεν μετὰ παῖδ' ἐμόν, ὄφρα ἴδωμαι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.84#ἄνδρας μνηστῆρας τεθνηότας, ἠδ' ὃς ἔπεφνεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.85#ὣς φαμένη κατέβαιν' ὑπερώϊα· πολλὰ δέ οἱ κῆρ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.86#ὥρμαιν', ἢ ἀπάνευθε φίλον πόσιν ἐξερεείνοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.87#ἦ παρστᾶσα κύσειε κάρη καὶ χεῖρε λαβοῦσα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.88#ἡ δ' ἐπεὶ εἰσῆλθεν καὶ ὑπέρβη λάϊνον οὐδόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.89#ἕζετ' ἔπειτ' Ὀδυσῆος ἐναντίη, ἐν πυρὸς αὐγῇ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.90#τοίχου τοῦ ἑτέρου· ὁ δ' ἄρα πρὸς κίονα μακρὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.91#ἧστο κάτω ὁρόων, ποτιδέγμενος εἴ τί μιν εἴποι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.92#ἰφθίμη παράκοιτις, ἐπεὶ ἴδεν ὀφθαλμοῖσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.93#ἡ δ' ἄνεω δὴν ἧστο, τάφος δέ οἱ ἦτορ ἵκανεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.94#ὄψει δ' ἄλλοτε μέν μιν ἐνωπαδίως ἐσίδεσκεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.95#ἄλλοτε δ' ἀγνώσασκε κακὰ χροῒ εἵματ' ἔχοντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.96#Τηλέμαχος δ' ἐνένιπεν ἔπος τ' ἔφατ' ἔκ τ' ὀνόμαξε·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.97#μῆτερ ἐμή, δύσμητερ, ἀπηνέα θυμὸν ἔχουσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.98#τίφθ' οὕτω πατρὸς νοσφίζεαι, οὐδὲ παρ' αὐτὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.99#ἑζομένη μύθοισιν ἀνείρεαι οὐδὲ μεταλλᾷς;
+urn:cts:greekLit:tlg0012.tlg002.murray:23.100#οὐ μέν κ' ἄλλη γ' ὧδε γυνὴ τετληότι θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.101#ἀνδρὸς ἀφεσταίη, ὅς οἱ κακὰ πολλὰ μογήσας
+urn:cts:greekLit:tlg0012.tlg002.murray:23.102#ἔλθοι ἐεικοστῷ ἔτεϊ ἐς πατρίδα γαῖαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.103#σοὶ δ' αἰεὶ κραδίη στερεωτέρη ἐστὶ λίθοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.104#τὸν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.105#τέκνον ἐμόν,  θυμός μοι ἐνὶ στήθεσσι τέθηπεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.106#οὐδέ τι προσφάσθαι δύναμαι ἔπος οὐδ' ἐρέεσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.107#οὐδ' εἰς ὦπα ἰδέσθαι ἐναντίον. εἰ δ' ἐτεὸν δὴ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.108#ἔστ' Ὀδυσεὺς καὶ οἶκον ἱκάνεται, ἦ μάλα νῶϊ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.109#γνωσόμεθ' ἀλλήλων καὶ λώϊον· ἔστι γὰρ ἡμῖν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.110#σήμαθ',  ἃ δὴ καὶ νῶϊ κεκρυμμένα ἴδμεν ἀπ' ἄλλων.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.111#ὣς φάτο, μείδησεν δὲ πολύτλας δῖος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.112#αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.113#Τηλέμαχ', ἦ τοι μητέρ' ἐνὶ μεγάροισιν ἔασον
+urn:cts:greekLit:tlg0012.tlg002.murray:23.114#πειράζειν ἐμέθεν· τάχα δὲ φράσεται καὶ ἄρειον.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.115#νῦν δ' ὅττι ῥυπόω,  κακὰ δὲ χροῒ εἵματα εἷμαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.116#τοὔνεκ' ἀτιμάζει με καὶ οὔ πω φησὶ τὸν εἶναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.117#ἡμεῖς δὲ φραζώμεθ' ὅπως ὄχ' ἄριστα γένηται.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.118#καὶ γάρ τίς θ' ἕνα φῶτα κατακτείνας ἐνὶ δήμῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.119#ᾧ μὴ πολλοὶ ἔωσιν ἀοσσητῆρες ὀπίσσω,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.120#φεύγει πηούς τε προλιπὼν καὶ πατρίδα γαῖαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.121#ἡμεῖς δ' ἕρμα πόληος ἀπέκταμεν, οἳ μέγ' ἄριστοι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.122#κούρων εἰν Ἰθάκῃ· τὰ δέ σε φράζεσθαι ἄνωγα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.123#τὸν δ' αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.124#αὐτὸς ταῦτά γε λεῦσσε, πάτερ φίλε· σὴν γὰρ ἀρίστην
+urn:cts:greekLit:tlg0012.tlg002.murray:23.125#μῆτιν ἐπ' ἀνθρώπους φάσ' ἔμμεναι,  οὐδέ κέ τίς τοι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.126#ἄλλος ἀνὴρ ἐρίσειε καταθνητῶν ἀνθρώπων.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.127#ἡμεῖς δ' ἐμμεμαῶτες ἅμ' ἑψόμεθ', οὐδέ τί φημι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.128#ἀλκῆς δευήσεσθαι, ὅση δύναμίς γε πάρεστιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.129#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.130#τοιγὰρ ἐγὼν ἐρέω ὥς μοι δοκεῖ εἶναι ἄριστα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.131#πρῶτα μὲν ἂρ λούσασθε καὶ ἀμφιέσασθε χιτῶνας,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.132#δμῳὰς δ' ἐν μεγάροισιν ἀνώγετε εἵμαθ' ἑλέσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.133#αὐτὰρ θεῖος ἀοιδὸς ἔχων φόρμιγγα λίγειαν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.134#ἡμῖν ἡγείσθω φιλοπαίγμονος ὀρχηθμοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.135#ὥς κέν τις φαίη γάμον ἔμμεναι ἐκτὸς ἀκούων,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.136#ἢ ἀν' ὁδὸν στείχων, ἢ οἳ περιναιετάουσι·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.137#μὴ πρόσθε κλέος εὐρὺ φόνου κατὰ ἄστυ γένηται
+urn:cts:greekLit:tlg0012.tlg002.murray:23.138#ἀνδρῶν μνηστήρων, πρίν γ' ἡμέας ἐλθέμεν ἔξω
+urn:cts:greekLit:tlg0012.tlg002.murray:23.139#ἀγρὸν ἐς ἡμέτερον πολυδένδρεον· ἔνθα δ' ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.140#φρασσόμεθ' ὅττι κε κέρδος Ὀλύμπιος ἐγγυαλίξῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.141#ὣς ἔφαθ', οἱ δ' ἄρα τοῦ μάλα μὲν κλύον ἠδ' ἐπίθοντο
+urn:cts:greekLit:tlg0012.tlg002.murray:23.142#πρῶτα μὲν οὖν λούσαντο καὶ ἀμφιέσαντο χιτῶνας,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.143#ὅπλισθεν δὲ γυναῖκες· ὁ δ' εἵλετο θεῖος ἀοιδὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.144#φόρμιγγα γλαφυρήν, ἐν δέ σφισιν ἵμερον ὦρσε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.145#μολπῆς τε γλυκερῆς καὶ ἀμύμονος ὀρχηθμοῖο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.146#τοῖσιν δὲ μέγα δῶμα περιστεναχίζετο ποσσὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.147#ἀνδρῶν παιζόντων καλλιζώνων τε γυναικῶν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.148#ὧδε δέ τις εἴπεσκε δόμων ἔκτοσθεν ἀκούων·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.149#ἦ μάλα δή τις ἔγημε πολυμνήστην βασίλειαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.150#σχετλίη,  οὐδ' ἔτλη πόσιος οὗ κουριδίοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:23.151#εἴρυσθαι μέγα δῶμα διαμπερές, ἧος ἵκοιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.152#ὣς ἄρα τις εἴπεσκε, τὰ δ' οὐκ ἴσαν ὡς ἐτέτυκτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.153#αὐτὰρ Ὀδυσσῆα μεγαλήτορα ᾧ ἐνὶ οἴκῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.154#Εὐρυνόμη ταμίη λοῦσεν καὶ χρῖσεν ἐλαίῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.155#ἀμφὶ δέ μιν φᾶρος καλὸν βάλεν ἠδὲ χιτῶνα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.156#αὐτὰρ κὰκ κεφαλῆς κάλλος πολὺ χεῦεν Ἀθήνη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.157#μείζονά τ' εἰσιδέειν καὶ πάσσονα· κὰδ δὲ κάρητος
+urn:cts:greekLit:tlg0012.tlg002.murray:23.158#οὔλας ἧκε κόμας, ὑακινθίνῳ ἄνθει ὁμοίας.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.159#ὡς δ' ὅτε τις χρυσὸν περιχεύεται ἀργύρῳ ἀνὴρ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.160#ἴδρις,  ὃν Ἥφαιστος δέδαεν καὶ Παλλὰς Ἀθήνη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.161#τέχνην παντοίην, χαρίεντα δὲ ἔργα τελείει·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.162#ὣς μὲν τῷ περίχευε χάριν κεφαλῇ τε καὶ ὤμοις.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.163#ἐκ δ' ἀσαμίνθου βῆ δέμας ἀθανάτοισιν ὁμοῖος·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.164#ἂψ δ' αὖτις κατ' ἄρ' ἕζετ' ἐπὶ θρόνου ἔνθεν ἀνέστη,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.165#ἀντίον ἧς ἀλόχου,  καί μιν πρὸς μῦθον ἔειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.166#δαιμονίη, περί σοί γε γυναικῶν θηλυτεράων
+urn:cts:greekLit:tlg0012.tlg002.murray:23.167#κῆρ ἀτέραμνον ἔθηκαν Ὀλύμπια δώματ' ἔχοντες·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.168#οὐ μέν κ' ἄλλη γ' ὧδε γυνὴ τετληότι θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.169#ἀνδρὸς ἀφεσταίη, ὅς οἱ κακὰ πολλὰ μογήσας
+urn:cts:greekLit:tlg0012.tlg002.murray:23.170#ἔλθοι ἐεικοστῷ ἔτεϊ ἐς πατρίδα γαῖαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.171#ἀλλ' ἄγε μοι, μαῖα, στόρεσον λέχος, ὄφρα καὶ αὐτὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.172#λέξομαι· ἦ γὰρ τῇ γε σιδήρεον ἐν φρεσὶ ἦτορ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.173#τὸν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.174#δαιμόνι', οὔτ' ἄρ τι μεγαλίζομαι οὔτ' ἀθερίζω
+urn:cts:greekLit:tlg0012.tlg002.murray:23.175#οὔτε λίην ἄγαμαι,  μάλα δ' εὖ οἶδ' οἷος ἔησθα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.176#ἐξ Ἰθάκης ἐπὶ νηὸς ἰὼν δολιχηρέτμοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.177#ἀλλ' ἄγε οἱ στόρεσον πυκινὸν λέχος, Εὐρύκλεια,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.178#ἐκτὸς ἐϋσταθέος θαλάμου, τόν ῥ' αὐτὸς ἐποίει·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.179#ἔνθα οἱ ἐκθεῖσαι πυκινὸν λέχος ἐμβάλετ' εὐνήν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.180#κώεα καὶ χλαίνας καὶ ῥήγεα σιγαλόεντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.181#ὣς ἄρ' ἔφη πόσιος πειρωμένη· αὐτὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.182#ὀχθήσας ἄλοχον προσεφώνεε κεδνὰ ἰδυῖαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.183#ὦ γύναι, ἦ μάλα τοῦτο ἔπος θυμαλγὲς ἔειπες·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.184#τίς δέ μοι ἄλλοσε θῆκε λέχος; χαλεπὸν δέ κεν εἴη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.185#καὶ μάλ' ἐπισταμένῳ,  ὅτε μὴ θεὸς αὐτὸς ἐπελθὼν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.186#ῥηϊδίως ἐθέλων θείη ἄλλῃ ἐνὶ χώρῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.187#ἀνδρῶν δ' οὔ κέν τις ζωὸς βροτός, οὐδὲ μάλ' ἡβῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.188#ῥεῖα μετοχλίσσειεν, ἐπεὶ μέγα σῆμα τέτυκται
+urn:cts:greekLit:tlg0012.tlg002.murray:23.189#ἐν λέχει ἀσκητῷ· τὸ δ' ἐγὼ κάμον οὐδέ τις ἄλλος.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.190#θάμνος ἔφυ τανύφυλλος ἐλαίης ἕρκεος ἐντός,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.191#ἀκμηνὸς θαλέθων· πάχετος δ' ἦν ἠΰτε κίων.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.192#τῷ δ' ἐγὼ ἀμφιβαλὼν θάλαμον δέμον, ὄφρ' ἐτέλεσσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.193#πυκνῇσιν λιθάδεσσι, καὶ εὖ καθύπερθεν ἔρεψα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.194#κολλητὰς δ' ἐπέθηκα θύρας, πυκινῶς ἀραρυίας.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.195#καὶ τότ' ἔπειτ' ἀπέκοψα κόμην τανυφύλλου ἐλαίης,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.196#κορμὸν δ' ἐκ ῥίζης προταμὼν ἀμφέξεσα χαλκῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.197#εὖ καὶ ἐπισταμένως, καὶ ἐπὶ στάθμην ἴθυνα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.198#ἑρμῖν' ἀσκήσας, τέτρηνα δὲ πάντα τερέτρῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.199#ἐκ δὲ τοῦ ἀρχόμενος λέχος ἔξεον, ὄφρ' ἐτέλεσσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.200#δαιδάλλων χρυσῷ τε καὶ ἀργύρῳ ἠδ' ἐλέφαντι·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.201#ἐκ δ' ἐτάνυσσα ἱμάντα βοὸς φοίνικι φαεινόν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.202#οὕτω τοι τόδε σῆμα πιφαύσκομαι· οὐδέ τι οἶδα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.203#ἤ μοι ἔτ' ἔμπεδόν ἐστι, γύναι, λέχος, ἦέ τις ἤδη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.204#ἀνδρῶν ἄλλοσε θῆκε,  ταμὼν ὕπο πυθμέν' ἐλαίης.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.205#ὣς φάτο, τῆς δ' αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.206#σήματ' ἀναγνούσῃ τά οἱ ἔμπεδα πέφραδ' Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.207#δακρύσασα δ' ἔπειτ' ἰθὺς δράμεν, ἀμφὶ δὲ χεῖρας
+urn:cts:greekLit:tlg0012.tlg002.murray:23.208#δειρῇ βάλλ' Ὀδυσῆϊ, κάρη δ' ἔκυσ' ἠδὲ προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.209#μή μοι, Ὀδυσσεῦ, σκύζευ, ἐπεὶ τά περ ἄλλα μάλιστα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.210#ἀνθρώπων πέπνυσο· θεοὶ δ' ὤπαζον ὀϊζύν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.211#οἳ νῶϊν ἀγάσαντο παρ' ἀλλήλοισι μένοντε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.212#ἥβης ταρπῆναι καὶ γήραος οὐδὸν ἱκέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.213#αὐτὰρ μὴ νῦν μοι τόδε χώεο μηδὲ νεμέσσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.214#οὕνεκά σ' οὐ τὸ πρῶτον, ἐπεὶ ἴδον, ὧδ' ἀγάπησα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.215#αἰεὶ γάρ μοι θυμὸς ἐνὶ στήθεσσι φίλοισιν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.216#ἐρρίγει μή τίς με βροτῶν ἀπάφοιτο ἔπεσσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.217#ἐλθών· πολλοὶ γὰρ κακὰ κέρδεα βουλεύουσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.218#οὐδέ κεν Ἀργείη Ἑλένη, Διὸς ἐκγεγαυῖα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.219#ἀνδρὶ παρ' ἀλλοδαπῷ ἐμίγη φιλότητι καὶ εὐνῇ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.220#εἰ ᾔδη ὅ μιν αὖτις ἀρήϊοι υἷες Ἀχαιῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.221#ἀξέμεναι οἶκόνδε φίλην ἐς πατρίδ' ἔμελλον.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.222#τὴν δ' ἦ τοι ῥέξαι θεὸς ὤρορεν ἔργον ἀεικές·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.223#τὴν δ' ἄτην οὐ πρόσθεν ἑῷ ἐγκάτθετο θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.224#λυγρήν, ἐξ ἧς πρῶτα καὶ ἡμέας ἵκετο πένθος.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.225#νῦν δ',  ἐπεὶ ἤδη σήματ' ἀριφραδέα κατέλεξας
+urn:cts:greekLit:tlg0012.tlg002.murray:23.226#εὐνῆς ἡμετέρης, ἣν οὐ βροτὸς ἄλλος ὀπώπει,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.227#ἀλλ' οἶοι σύ τ' ἐγώ τε καὶ ἀμφίπολος μία μούνη,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.228#Ἀκτορίς, ἥν μοι δῶκε πατὴρ ἔτι δεῦρο κιούσῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.229#ἣ νῶϊν εἴρυτο θύρας πυκινοῦ θαλάμοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.230#πείθεις δή μευ θυμόν,  ἀπηνέα περ μάλ' ἐόντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.231#ὣς φάτο, τῷ δ' ἔτι μᾶλλον ὑφ' ἵμερον ὦρσε γόοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.232#κλαῖε δ' ἔχων ἄλοχον θυμαρέα, κεδνὰ ἰδυῖαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.233#ὡς δ' ὅτ' ἂν ἀσπάσιος γῆ νηχομένοισι φανήῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.234#ὧν τε Ποσειδάων εὐεργέα νῆ' ἐνὶ πόντῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.235#ῥαίσῃ,  ἐπειγομένην ἀνέμῳ καὶ κύματι πηγῷ·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.236#παῦροι δ' ἐξέφυγον πολιῆς ἁλὸς ἤπειρόνδε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.237#νηχόμενοι, πολλὴ δὲ περὶ χροῒ τέτροφεν ἅλμη,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.238#ἀσπάσιοι δ' ἐπέβαν γαίης, κακότητα φυγόντες·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.239#ὣς ἄρα τῇ ἀσπαστὸς ἔην πόσις εἰσοροώσῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.240#δειρῆς δ' οὔ πω πάμπαν ἀφίετο πήχεε λευκώ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.241#καί νύ κ' ὀδυρομένοισι φάνη ῥοδοδάκτυλος Ἠώς,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.242#εἰ μὴ ἄρ' ἄλλ' ἐνόησε θεὰ γλαυκῶπις Ἀθήνη.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.243#νύκτα μὲν ἐν περάτῃ δολιχὴν σχέθεν, Ἠῶ δ' αὖτε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.244#ῥύσατ' ἐπ' Ὠκεανῷ χρυσόθρονον, οὐδ' ἔα ἵππους
+urn:cts:greekLit:tlg0012.tlg002.murray:23.245#ζεύγνυσθ' ὠκύποδας,  φάος ἀνθρώποισι φέροντας,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.246#Λάμπον καὶ Φαέθονθ', οἵ τ' Ἠῶ πῶλοι ἄγουσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.247#καὶ τότ' ἄρ' ἣν ἄλοχον προσέφη πολύμητις Ὀδυσσεύς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.248#ὦ γύναι, οὐ γάρ πω πάντων ἐπὶ πείρατ' ἀέθλων
+urn:cts:greekLit:tlg0012.tlg002.murray:23.249#ἤλθομεν, ἀλλ' ἔτ' ὄπισθεν ἀμέτρητος πόνος ἔσται,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.250#πολλὸς καὶ χαλεπός,  τὸν ἐμὲ χρὴ πάντα τελέσσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.251#ὣς γάρ μοι ψυχὴ μαντεύσατο Τειρεσίαο
+urn:cts:greekLit:tlg0012.tlg002.murray:23.252#ἤματι τῷ ὅτε δὴ κατέβην δόμον Ἄϊδος εἴσω,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.253#νόστον ἑταίροισιν διζήμενος ἠδ' ἐμοὶ αὐτῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.254#ἀλλ' ἔρχευ, λέκτρονδ' ἴομεν, γύναι, ὄφρα καὶ ἤδη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.255#ὕπνῳ ὕπο γλυκερῷ ταρπώμεθα κοιμηθέντε.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.256#τὸν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.257#εὐνὴ μὲν δή σοί γε τότ' ἔσσεται ὁππότε θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.258#σῷ ἐθέλῃς, ἐπεὶ ἄρ σε θεοὶ ποίησαν ἱκέσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.259#οἶκον ἐϋκτίμενον καὶ σὴν ἐς πατρίδα γαῖαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.260#ἀλλ' ἐπεὶ ἐφράσθης καί τοι θεὸς ἔμβαλε θυμῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.261#εἴπ' ἄγε μοι τὸν ἄεθλον, ἐπεὶ καὶ ὄπισθεν, ὀΐω,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.262#πεύσομαι, αὐτίκα δ' ἐστὶ δαήμεναι οὔ τι χέρειον.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.263#τὴν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.264#δαιμονίη, τί τ' ἄρ' αὖ με μάλ' ὀτρύνουσα κελεύεις
+urn:cts:greekLit:tlg0012.tlg002.murray:23.265#εἰπέμεν;  αὐτὰρ ἐγὼ μυθήσομαι οὐδ' ἐπικεύσω.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.266#οὐ μέν τοι θυμὸς κεχαρήσεται· οὐδὲ γὰρ αὐτὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.267#χαίρω, ἐπεὶ μάλα πολλὰ βροτῶν ἐπὶ ἄστε' ἄνωγεν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.268#ἐλθεῖν, ἐν χείρεσσιν ἔχοντ' εὐῆρες ἐρετμόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.269#εἰς ὅ κε τοὺς ἀφίκωμαι οἳ οὐκ ἴσασι θάλασσαν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.270#ἀνέρες,  οὐδέ θ' ἅλεσσι μεμιγμένον εἶδαρ ἔδουσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.271#οὐδ' ἄρα τοί γ' ἴσασι νέας φοινικοπαρῄους,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.272#οὐδ' εὐήρε' ἐρετμά, τά τε πτερὰ νηυσὶ πέλονται.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.273#σῆμα δέ μοι τόδ' ἔειπεν ἀριφραδές, οὐδέ σε κεύσω·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.274#ὁππότε κεν δή μοι ξυμβλήμενος ἄλλος ὁδίτης
+urn:cts:greekLit:tlg0012.tlg002.murray:23.275#φήῃ ἀθηρηλοιγὸν ἔχειν ἀνὰ φαιδίμῳ ὤμῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.276#καὶ τότε μ' ἐν γαίῃ πήξαντ' ἐκέλευεν ἐρετμόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.277#ἔρξανθ' ἱερὰ καλὰ Ποσειδάωνι ἄνακτι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.278#ἀρνειὸν ταῦρόν τε συῶν τ' ἐπιβήτορα κάπρον,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.279#οἴκαδ' ἀποστείχειν, ἔρδειν θ' ἱερὰς ἑκατόμβας
+urn:cts:greekLit:tlg0012.tlg002.murray:23.280#ἀθανάτοισι θεοῖσι,  τοὶ οὐρανὸν εὐρὺν ἔχουσι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.281#πᾶσι μάλ' ἑξείης· θάνατος δέ μοι ἐξ ἁλὸς αὐτῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.282#ἀβληχρὸς μάλα τοῖος ἐλεύσεται, ὅς κέ με πέφνῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.283#γήρας ὕπο λιπαρῷ ἀρημένον· ἀμφὶ δὲ λαοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.284#ὄλβιοι ἔσσονται· τὰ δέ μοι φάτο πάντα τελεῖσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.285#τὸν δ' αὖτε προσέειπε περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.286#εἰ μὲν δὴ γῆράς γε θεοὶ τελέουσιν ἄρειον,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.287#ἐλπωρή τοι ἔπειτα κακῶν ὑπάλυξιν ἔσεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.288#ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.289#τόφρα δ' ἄρ' Εὐρυνόμη τε ἰδὲ τροφὸς ἔντυον εὐνὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.290#ἐσθῆτος μαλακῆς,  δαΐδων ὕπο λαμπομενάων.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.291#αὐτὰρ ἐπεὶ στόρεσαν πυκινὸν λέχος ἐγκονέουσαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.292#γρηῢς μὲν κείουσα πάλιν οἶκόνδε βεβήκει,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.293#τοῖσιν δ' Εὐρυνόμη θαλαμηπόλος ἡγεμόνευεν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.294#ἐρχομένοισι λέχοσδε, δάος μετὰ χερσὶν ἔχουσα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.295#ἐς θάλαμον δ' ἀγαγοῦσα πάλιν κίεν.  οἱ μὲν ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.296#ἀσπάσιοι λέκτροιο παλαιοῦ θεσμὸν ἵκοντο·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.297#αὐτὰρ Τηλέμαχος καὶ βουκόλος ἠδὲ συβώτης
+urn:cts:greekLit:tlg0012.tlg002.murray:23.298#παῦσαν ἄρ' ὀρχηθμοῖο πόδας, παῦσαν δὲ γυναῖκας,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.299#αὐτοὶ δ' εὐνάζοντο κατὰ μέγαρα σκιόεντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.300#τὼ δ' ἐπεὶ οὖν φιλότητος ἐταρπήτην ἐρατεινῆς,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.301#τερπέσθην μύθοισι, πρὸς ἀλλήλους ἐνέποντε,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.302#ἡ μὲν ὅσ' ἐν μεγάροισιν ἀνέσχετο δῖα γυναικῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.303#ἀνδρῶν μνηστήρων ἐσορῶσ' ἀΐδηλον ὅμιλον,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.304#οἳ ἕθεν εἵνεκα πολλά, βόας καὶ ἴφια μῆλα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.305#ἔσφαζον,  πολλὸς δὲ πίθων ἠφύσσετο οἶνος·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.306#αὐτὰρ ὁ διογενὴς Ὀδυσεὺς ὅσα κήδε' ἔθηκεν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.307#ἀνθρώποις ὅσα τ' αὐτὸς ὀϊζύσας ἐμόγησε,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.308#πάντ' ἔλεγ'· ἡ δ' ἄρ' ἐτέρπετ' ἀκούουσ', οὐδέ οἱ ὕπνος
+urn:cts:greekLit:tlg0012.tlg002.murray:23.309#πῖπτεν ἐπὶ βλεφάροισι πάρος καταλέξαι ἅπαντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.310#ἤρξατο δ' ὡς πρῶτον Κίκονας δάμασ', αὐτὰρ ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.311#ἦλθ' ἐς Λωτοφάγων ἀνδρῶν πίειραν ἄρουραν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.312#ἠδ' ὅσα Κύκλωψ ἔρξε, καὶ ὡς ἀπετίσατο ποινὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.313#ἰφθίμων ἑτάρων, οὓς ἤσθιεν οὐδ' ἐλέαιρεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.314#ἠδ' ὡς Αἴολον ἵκεθ', ὅ μιν πρόφρων ὑπέδεκτο
+urn:cts:greekLit:tlg0012.tlg002.murray:23.315#καὶ πέμπ',  οὐδέ πω αἶσα φίλην ἐς πατρίδ' ἱκέσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.316#ἤην, ἀλλά μιν αὖτις ἀναρπάξασα θύελλα
+urn:cts:greekLit:tlg0012.tlg002.murray:23.317#πόντον ἐπ' ἰχθυόεντα φέρεν βαρέα στενάχοντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.318#ἠδ' ὡς Τηλέπυλον Λαιστρυγονίην ἀφίκανεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.319#οἳ νῆάς τ' ὄλεσαν καὶ ἐϋκνήμιδας ἑταίρους
+urn:cts:greekLit:tlg0012.tlg002.murray:23.320#πάντας· Ὀδυσσεὺς δ' οἶος ὑπέκφυγε νηῒ μελαίνῃ·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.321#καὶ Κίρκης κατέλεξε δόλον πολυμηχανίην τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.322#ἠδ' ὡς εἰς Ἀΐδεω δόμον ἤλυθεν εὐρώεντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.323#ψυχῇ χρησόμενος Θηβαίου Τειρεσίαο,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.324#νηῒ πολυκλήϊδι, καὶ εἴσιδε πάντας ἑταίρους
+urn:cts:greekLit:tlg0012.tlg002.murray:23.325#μητέρα θ',  ἥ μιν ἔτικτε καὶ ἔτρεφε τυτθὸν ἐόντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.326#ἠδ' ὡς Σειρήνων ἁδινάων φθόγγον ἄκουσεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.327#ὥς θ' ἵκετο Πλαγκτὰς πέτρας δεινήν τε Χάρυβδιν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.328#Σκύλλην θ', ἣν οὔ πώ ποτ' ἀκήριοι ἄνδρες ἄλυξαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.329#ἠδ' ὡς Ἠελίοιο βόας κατέπεφνον ἑταῖροι·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.330#ἠδ' ὡς νῆα θοὴν ἔβαλε ψολόεντι κεραυνῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.331#Ζεὺς ὑψιβρεμέτης, ἀπὸ δ' ἔφθιθεν ἐσθλοὶ ἑταῖροι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.332#πάντες ὁμῶς, αὐτὸς δὲ κακὰς ὑπὸ κῆρας ἄλυξεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.333#ὥς θ' ἵκετ' Ὠγυγίην νῆσον νύμφην τε Καλυψώ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.334#ἣ δή μιν κατέρυκε, λιλαιομένη πόσιν εἶναι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.335#ἐν σπέσσι γλαφυροῖσι,  καὶ ἔτρεφεν ἠδὲ ἔφασκε
+urn:cts:greekLit:tlg0012.tlg002.murray:23.336#θήσειν ἀθάνατον καὶ ἀγήραον ἤματα πάντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.337#ἀλλὰ τοῦ οὔ ποτε θυμὸν ἐνὶ στήθεσσιν ἔπειθεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.338#ἠδ' ὡς ἐς Φαίηκας ἀφίκετο πολλὰ μογήσας,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.339#οἳ δή μιν περὶ κῆρι θεὸν ὣς τιμήσαντο
+urn:cts:greekLit:tlg0012.tlg002.murray:23.340#καὶ πέμψαν σὺν νηῒ φίλην ἐς πατρίδα γαῖαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.341#χαλκόν τε χρυσόν τε ἅλις ἐσθῆτά τε δόντες.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.342#τοῦτ' ἄρα δεύτατον εἶπεν ἔπος, ὅτε οἱ γλυκὺς ὕπνος
+urn:cts:greekLit:tlg0012.tlg002.murray:23.343#λυσιμελὴς ἐπόρουσε, λύων μελεδήματα θυμοῦ.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.344#ἡ δ' αὖτ' ἄλλ' ἐνόησε θεὰ γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.345#ὁππότε δή ῥ' Ὀδυσῆα ἐέλπετο ὃν κατὰ θυμὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.346#εὐνῆς ἧς ἀλόχου ταρπήμεναι ἠδὲ καὶ ὕπνου,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.347#αὐτίκ' ἀπ' Ὠκεανοῦ χρυσόθρονον ἠριγένειαν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.348#ὦρσεν, ἵν' ἀνθρώποισι φόως φέροι· ὦρτο δ' Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:23.349#εὐνῆς ἐκ μαλακῆς, ἀλόχῳ δ' ἐπὶ μῦθον ἔτελλεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.350#ὦ γύναι,  ἤδη μὲν πολέων κεκορήμεθ' ἀέθλων
+urn:cts:greekLit:tlg0012.tlg002.murray:23.351#ἀμφοτέρω, σὺ μὲν ἐνθάδ' ἐμὸν πολυκηδέα νόστον
+urn:cts:greekLit:tlg0012.tlg002.murray:23.352#κλαίουσ'. αὐτὰρ ἐμὲ Ζεὺς ἄλγεσι καὶ θεοὶ ἄλλοι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.353#ἱέμενον πεδάασκον ἐμῆς ἀπὸ πατρίδος αἴης·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.354#νῦν δ' ἐπεὶ ἀμφοτέρω πολυήρατον ἱκόμεθ' εὐνήν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.355#κτήματα μὲν τά μοι ἔστι,  κομιζέμεν ἐν μεγάροισι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.356#μῆλα δ' ἅ μοι μνηστῆρες ὑπερφίαλοι κατέκειραν,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.357#πολλὰ μὲν αὐτὸς ἐγὼ ληΐσσομαι, ἄλλα δ' Ἀχαιοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:23.358#δώσουσ', εἰς ὅ κε πάντας ἐνιπλήσωσιν ἐπαύλους.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.359#ἀλλ' ἦ τοι μὲν ἐγὼ πολυδένδρεον ἀγρὸν ἔπειμι,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.360#ὀψόμενος πατέρ' ἐσθλόν,  ὅ μοι πυκινῶς ἀκάχηται·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.361#σοὶ δέ, γύναι, τάδ' ἐπιτέλλω, πινυτῇ περ ἐούσῃ·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.362#αὐτίκα γὰρ φάτις εἶσιν ἅμ' ἠελίῳ ἀνιόντι
+urn:cts:greekLit:tlg0012.tlg002.murray:23.363#ἀνδρῶν μνηστήρων, οὓς ἔκτανον ἐν μεγάροισιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:23.364#εἰς ὑπερῷ' ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:23.365#ἧσθαι,  μηδέ τινα προτιόσσεο μηδ' ἐρέεινε.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.366#ἦ ῥα καὶ ἀμφ' ὤμοισιν ἐδύσετο τεύχεα καλά,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.367#ὦρσε δὲ Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.368#πάντας δ' ἔντε' ἄνωγεν ἀρήϊα χερσὶν ἑλέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.369#οἱ δέ οἱ οὐκ ἀπίθησαν, ἐθωρήσσοντο δὲ χαλκῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:23.370#ὤϊξαν δὲ θύρας,  ἐκ δ' ἤϊον· ἦρχε δ' Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:23.371#ἤδη μὲν φάος ἦεν ἐπὶ χθόνα, τοὺς δ' ἄρ' Ἀθήνη
+urn:cts:greekLit:tlg0012.tlg002.murray:23.372#νυκτὶ κατακρύψασα θοῶς ἐξῆγε πόληος.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.1#Ἑρμῆς δὲ ψυχὰς Κυλλήνιος ἐξεκαλεῖτο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.2#ἀνδρῶν μνηστήρων· ἔχε δὲ ῥάβδον μετὰ χερσὶν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.3#καλὴν χρυσείην, τῇ τ' ἀνδρῶν ὄμματα θέλγει
+urn:cts:greekLit:tlg0012.tlg002.murray:24.4#ὧν ἐθέλει, τοὺς δ' αὖτε καὶ ὑπνώοντας ἐγείρει·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.5#τῇ ῥ' ἄγε κινήσας,  ταὶ δὲ τρίζουσαι ἕποντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.6#ὡς δ' ὅτε νυκτερίδες μυχῷ ἄντρου θεσπεσίοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.7#τρίζουσαι ποτέονται, ἐπεί κέ τις ἀποπέσῃσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.8#ὁρμαθοῦ ἐκ πέτρης, ἀνά τ' ἀλλήλῃσιν ἔχονται,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.9#ὣς αἱ τετριγυῖαι ἅμ' ἤϊσαν· ἦρχε δ' ἄρα σφιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.10#Ἑρμείας ἀκάκητα κατ' εὐρώεντα κέλευθα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.11#πὰρ δ' ἴσαν Ὠκεανοῦ τε ῥοὰς καὶ Λευκάδα πέτρην,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.12#ἠδὲ παρ' Ἠελίοιο πύλας καὶ δῆμον ὀνείρων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.13#ἤϊσαν· αἶψα δ' ἵκοντο κατ' ἀσφοδελὸν λειμῶνα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.14#ἔνθα τε ναίουσι ψυχαί, εἴδωλα καμόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.15#εὗρον δὲ ψυχὴν Πηληϊάδεω Ἀχιλῆος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.16#καὶ Πατροκλῆος καὶ ἀμύμονος Ἀντιλόχοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.17#Αἴαντός θ', ὃς ἄριστος ἔην εἶδός τε δέμας τε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.18#τῶν ἄλλων Δαναῶν μετ' ἀμύμονα Πηλεΐδαο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.19#ὣς οἱ μὲν περὶ κεῖνον ὁμίλεον· ἀγχίμολον δὲ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.20#ἤλυθ' ἔπι ψυχὴ Ἀγαμέμνονος Ἀτρεΐδαο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.21#ἀχνυμένη· περὶ δ' ἄλλαι ἀγηγέραθ', ὅσσαι ἅμ' αὐτῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.22#οἴκῳ ἐν Αἰγίσθοιο θάνον καὶ πότμον ἐπέσπον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.23#τὸν προτέρη ψυχὴ προσεφώνεε Πηλεΐωνος·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.24#Ἀτρεΐδη, περὶ μέν σ' ἔφαμεν Διὶ τερπικεραύνῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.25#ἀνδρῶν ἡρώων φίλον ἔμμεναι ἤματα πάντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.26#οὕνεκα πολλοῖσίν τε καὶ ἰφθίμοισιν ἄνασσες
+urn:cts:greekLit:tlg0012.tlg002.murray:24.27#δήμῳ ἔνι Τρώων, ὅθι πάσχομεν ἄλγε' Ἀχαιοί.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.28#ἦ τ' ἄρα καὶ σοὶ πρῶϊ παραστήσεσθαι ἔμελλεν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.29#μοῖρ' ὀλοή, τὴν οὔ τις ἀλεύεται ὅς κε γένηται.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.30#ὡς ὄφελες τιμῆς ἀπονήμενος,  ἧς περ ἄνασσες,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.31#δήμῳ ἔνι Τρώων θάνατον καὶ πότμον ἐπισπεῖν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.32#τῷ κέν τοι τύμβον μὲν ἐποίησαν Παναχαιοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.33#ἠδέ κε καὶ σῷ παιδὶ μέγα κλέος ἤρα' ὀπίσσω·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.34#νῦν δ' ἄρα σ' οἰκτίστῳ θανάτῳ εἵμαρτο ἁλῶναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.35#τὸν δ' αὖτε ψυχὴ προσεφώνεεν Ἀτρείδαο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.36#ὄλβιε Πηλέος υἱέ, θεοῖς ἐπιείκελ' Ἀχιλλεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.37#ὃς θάνες ἐν Τροίῃ ἑκὰς Ἄργεος· ἀμφὶ δέ σ' ἄλλοι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.38#κτείνοντο Τρώων καὶ Ἀχαιῶν υἷες ἄριστοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.39#μαρνάμενοι περὶ σεῖο· σὺ δ' ἐν στροφάλιγγι κονίης
+urn:cts:greekLit:tlg0012.tlg002.murray:24.40#κεῖσο μέγας μεγαλωστί,  λελασμένος ἱπποσυνάων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.41#ἡμεῖς δὲ πρόπαν ἦμαρ ἐμαρνάμεθ'· οὐδέ κε πάμπαν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.42#παυσάμεθα πτολέμου, εἰ μὴ Ζεὺς λαίλαπι παῦσεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.43#αὐτὰρ ἐπεί σ' ἐπὶ νῆας ἐνείκαμεν ἐκ πολέμοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.44#κάτθεμεν ἐν λεχέεσσι, καθήραντες χρόα καλὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.45#ὕδατί τε λιαρῷ καὶ ἀλείφατι· πολλὰ δέ σ' ἀμφὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.46#δάκρυα θερμὰ χέον Δαναοὶ κείροντό τε χαίτας.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.47#μήτηρ δ' ἐξ ἁλὸς ἦλθε σὺν ἀθανάτῃς ἁλίῃσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.48#ἀγγελίης ἀΐουσα· βοὴ δ' ἐπὶ πόντον ὀρώρει
+urn:cts:greekLit:tlg0012.tlg002.murray:24.49#θεσπεσίη, ὑπὸ δὲ τρόμος ἔλλαβε πάντας Ἀχαιούς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.50#καί νύ κ' ἀναΐξαντες ἔβαν κοίλας ἐπὶ νῆας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.51#εἰ μὴ ἀνὴρ κατέρυκε παλαιά τε πολλά τε εἰδώς,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.52#Νέστωρ, οὗ καὶ πρόσθεν ἀρίστη φαίνετο βουλή·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.53#ὅ σφιν ἐϋφρονέων ἀγορήσατο καὶ μετέειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.54#ἴσχεσθ', Ἀργεῖοι, μὴ φεύγετε, κοῦροι Ἀχαιῶν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.55#μήτηρ ἐξ ἁλὸς ἥδε σὺν ἀθανάτῃς ἁλίῃσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.56#ἔρχεται, οὗ παιδὸς τεθνηότος ἀντιόωσα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.57#ὣς ἔφαθ', οἱ δ' ἔσχοντο φόβου μεγάθυμοι Ἀχαιοί·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.58#ἀμφὶ δέ σ' ἔστησαν κοῦραι ἁλίοιο γέροντος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.59#οἴκτρ' ὀλοφυρόμεναι, περὶ δ' ἄμβροτα εἵματα ἕσσαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.60#Μοῦσαι δ' ἐννέα πᾶσαι ἀμειβόμεναι ὀπὶ καλῇ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.61#θρήνεον· ἔνθα κεν οὔ τιν' ἀδάκρυτόν γ' ἐνόησας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.62#Ἀργείων· τοῖον γὰρ ὑπώρορε Μοῦσα λίγεια.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.63#ἑπτὰ δὲ καὶ δέκα μέν σε ὁμῶς νύκτας τε καὶ ἦμαρ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.64#κλαίομεν ἀθάνατοί τε θεοὶ θνητοί τ' ἄνθρωποι·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.65#ὀκτωκαιδεκάτῃ δ' ἔδομεν πυρί,  πολλὰ δέ σ' ἀμφὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.66#μῆλα κατεκτάνομεν μάλα πίονα καὶ ἕλικας βοῦς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.67#καίεο δ' ἔν τ' ἐσθῆτι θεῶν καὶ ἀλείφατι πολλῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.68#καὶ μέλιτι γλυκερῷ· πολλοὶ δ' ἥρωες Ἀχαιοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.69#τεύχεσιν ἐρρώσαντο πυρὴν πέρι καιομένοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.70#πεζοί θ' ἱππῆές τε· πολὺς δ' ὀρυμαγδὸς ὀρώρει
+urn:cts:greekLit:tlg0012.tlg002.murray:24.71#αὐτὰρ ἐπεὶ δή σε φλὸξ ἤνυσεν Ἡφαίστοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.72#ἠῶθεν δή τοι λέγομεν λεύκ' ὀστέ', Ἀχιλλεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.73#οἴνῳ ἐν ἀκρήτῳ καὶ ἀλείφατι· δῶκε δὲ μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.74#χρύσεον ἀμφιφορῆα· Διωνύσοιο δὲ δῶρον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.75#φάσκ' ἔμεναι,  ἔργον δὲ περικλυτοῦ Ἡφαίστοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.76#ἐν τῷ τοι κεῖται λεύκ' ὀστέα, φαίδιμ' Ἀχιλλεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.77#μίγδα δὲ Πατρόκλοιο Μενοιτιάδαο θανόντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.78#χωρὶς δ' Ἀντιλόχοιο, τὸν ἔξοχα τῖες ἁπάντων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.79#τῶν ἄλλων ἑτάρων, μετὰ Πάτροκλόν γε θανόντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.80#ἀμφ' αὐτοῖσι δ' ἔπειτα μέγαν καὶ ἀμύμονα τύμβον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.81#χεύαμεν Ἀργείων ἱερὸς στρατὸς αἰχμητάων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.82#ἀκτῇ ἔπι προὐχούσῃ, ἐπὶ πλατεῖ Ἑλλησπόντῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.83#ὥς κεν τηλεφανὴς ἐκ ποντόφιν ἀνδράσιν εἴη
+urn:cts:greekLit:tlg0012.tlg002.murray:24.84#τοῖς οἳ νῦν γεγάασι καὶ οἳ μετόπισθεν ἔσονται.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.85#μήτηρ δ' αἰτήσασα θεοὺς περικαλλέ' ἄεθλα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.86#θῆκε μέσῳ ἐν ἀγῶνι ἀριστήεσσιν Ἀχαιῶν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.87#ἤδη μὲν πολέων τάφῳ ἀνδρῶν ἀντεβόλησας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.88#ἡρώων, ὅτε κέν ποτ' ἀποφθιμένου βασιλῆος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.89#ζώννυνταί τε νέοι καὶ ἐπεντύνονται ἄεθλα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.90#ἀλλά κε κεῖνα μάλιστα ἰδὼν θηήσαο θυμῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.91#οἷ' ἐπὶ σοὶ κατέθηκε θεὰ περικαλλέ' ἄεθλα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.92#ἀργυρόπεζα Θέτις· μάλα γὰρ φίλος ἦσθα θεοῖσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.93#ὣς σὺ μὲν οὐδὲ θανὼν ὄνομ' ὤλεσας, ἀλλά τοι αἰεὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.94#πάντας ἐπ' ἀνθρώπους κλέος ἔσσεται ἐσθλόν, Ἀχιλλεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.95#αὐτὰρ ἐμοὶ τί τόδ' ἦδος,  ἐπεὶ πόλεμον τολύπευσα;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.96#ἐν νόστῳ γάρ μοι Ζεὺς μήσατο λυγρὸν ὄλεθρον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.97#Αἰγίσθου ὑπὸ χερσὶ καὶ οὐλομένης ἀλόχοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.98#ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.99#ἀγχίμολον δέ σφ' ἦλθε διάκτορος ἀργεϊφόντης,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.100#ψυχὰς μνηστήρων κατάγων Ὀδυσῆϊ δαμέντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.101#τὼ δ' ἄρα θαμβήσαντ' ἰθὺς κίον, ὡς ἐσιδέσθην.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.102#ἔγνω δὲ ψυχὴ Ἀγαμέμνονος Ἀτρεΐδαο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.103#παῖδα φίλον Μελανῆος, ἀγακλυτὸν Ἀμφιμέδοντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.104#ξεῖνος γάρ οἱ ἔην Ἰθάκῃ ἔνι οἰκία ναίων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.105#τὸν προτέρη ψυχὴ προσεφώνεεν Ἀτρεΐδαο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.106#Ἀμφίμεδον, τί παθόντες ἐρεμνὴν γαῖαν ἔδυτε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.107#πάντες κεκριμένοι καὶ ὁμήλικες; οὐδέ κεν ἄλλως
+urn:cts:greekLit:tlg0012.tlg002.murray:24.108#κρινάμενος λέξαιτο κατὰ πτόλιν ἄνδρας ἀρίστους.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.109#ἦ ὔμμ' ἐν νήεσσι Ποσειδάων ἐδάμασσεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.110#ὄρσας ἀργαλέους ἀνέμους καὶ κύματα μακρά;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.111#ἦ που ἀνάρσιοι ἄνδρες ἐδηλήσαντ' ἐπὶ χέρσου
+urn:cts:greekLit:tlg0012.tlg002.murray:24.112#βοῦς περιταμνομένους ἠδ' οἰῶν πώεα καλά,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.113#ἠὲ περὶ πτόλιος μαχεούμενοι ἠδὲ γυναικῶν;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.114#εἰπέ μοι εἰρομένῳ· ξεῖνος δέ τοι εὔχομαι εἶναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.115#ἦ οὐ μέμνῃ ὅτε κεῖσε κατήλυθον ὑμέτερον δῶ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.116#ὀτρυνέων Ὀδυσῆα σὺν ἀντιθέῳ Μενελάῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.117#Ἴλιον εἰς ἅμ' ἕπεσθαι ἐϋσσέλμων ἐπὶ νηῶν;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.118#μηνὶ δ' ἄρ' οὔλῳ πάντα περήσαμεν εὐρέα πόντον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.119#σπουδῇ παρπεπιθόντες Ὀδυσσῆα πτολίπορθον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.120#τὸν δ' αὖτε ψυχὴ προσεφώνεεν Ἀμφιμέδοντος·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.121#Ἀτρεΐδη κύδιστε, ἄναξ ἀνδρῶν Ἀγάμεμνον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.122#μέμνημαι τάδε πάντα, διοτρεφές, ὡς ἀγορεύεις·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.123#σοὶ δ' ἐγὼ εὖ μάλα πάντα καὶ ἀτρεκέως καταλέξω,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.124#ἡμετέρου θανάτοιο κακὸν τέλος, οἷον ἐτύχθη.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.125#μνώμεθ' Ὀδυσσῆος δὴν οἰχομένοιο δάμαρτα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.126#ἡ δ' οὔτ' ἠρνεῖτο στυγερὸν γάμον οὔτ' ἐτελεύτα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.127#ἡμῖν φραζομένη θάνατον καὶ κῆρα μέλαιναν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.128#ἀλλὰ δόλον τόνδ' ἄλλον ἐνὶ φρεσὶ μερμήριξε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.129#στησαμένη μέγαν ἱστὸν ἐνὶ μεγάροισιν ὕφαινε,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.130#λεπτὸν καὶ περίμετρον· ἄφαρ δ' ἡμῖν μετέειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.131#κοῦροι ἐμοὶ μνηστῆρες, ἐπεὶ θάνε δῖος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.132#μίμνετ' ἐπειγόμενοι τὸν ἐμὸν γάμον, εἰς ὅ κε φᾶρος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.133#ἐκτελέσω, μή μοι μεταμώνια νήματ' ὄληται,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.134#Λαέρτῃ ἥρωϊ ταφήϊον, εἰς ὅτε κέν μιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.135#μοῖρ' ὀλοὴ καθέλῃσι τανηλεγέος θανάτοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.136#μή τίς μοι κατὰ δῆμον Ἀχαιϊάδων νεμεσήσῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.137#αἴ κεν ἄτερ σπείρου κεῖται πολλὰ κτεατίσσας.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.138#ὣς ἔφαθ', ἡμῖν δ' αὖτ' ἐπεπείθετο θυμὸς ἀγήνωρ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.139#ἔνθα καὶ ἠματίη μὲν ὑφαίνεσκεν μέγαν ἱστόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.140#νύκτας δ' ἀλλύεσκεν,  ἐπεὶ δαΐδας παραθεῖτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.141#ὣς τρίετες μὲν ἔληθε δόλῳ καὶ ἔπειθεν Ἀχαιούς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.142#ἀλλ' ὅτε τέτρατον ἦλθεν ἔτος καὶ ἐπήλυθον ὧραι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.143#μηνῶν φθινόντων, περὶ δ' ἤματα πόλλ' ἐτελέσθη,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.144#καὶ τότε δή τις ἔειπε γυναικῶν, ἣ σάφα ᾔδη,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.145#καὶ τήν γ' ἀλλύουσαν ἐφεύρομεν ἀγλαὸν ἱστόν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.146#ὣς τὸ μὲν ἐξετέλεσσε καὶ οὐκ ἐθέλουσ', ὑπ' ἀνάγκης.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.147#εὖθ' ἡ φᾶρος ἔδειξεν, ὑφήνασα μέγαν ἱστόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.148#πλύνασ', ἠελίῳ ἐναλίγκιον ἠὲ σελήνῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.149#καὶ τότε δή ῥ' Ὀδυσῆα κακός ποθεν ἤγαγε δαίμων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.150#ἀγροῦ ἐπ' ἐσχατιήν,  ὅθι δώματα ναῖε συβώτης.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.151#ἔνθ' ἦλθεν φίλος υἱὸς Ὀδυσσῆος θείοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.152#ἐκ Πύλου ἠμαθόεντος ἰὼν σὺν νηῒ μελαίνῃ·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.153#τὼ δὲ μνηστῆρσιν θάνατον κακὸν ἀρτύναντε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.154#ἵκοντο προτὶ ἄστυ περικλυτόν, ἦ τοι Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.155#ὕστερος,  αὐτὰρ Τηλέμαχος πρόσθ' ἡγεμόνευε.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.156#τὸν δὲ συβώτης ἦγε κακὰ χροῒ εἵματ' ἔχοντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.157#πτωχῷ λευγαλέῳ ἐναλίγκιον ἠδὲ γέροντι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.158#σκηπτόμενον· τὰ δὲ λυγρὰ περὶ χροῒ εἵματα ἕστο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.159#οὐδέ τις ἡμείων δύνατο γνῶναι τὸν ἐόντα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.160#ἐξαπίνης προφανέντ',  οὐδ' οἳ προγενέστεροι ἦσαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.161#ἀλλ' ἔπεσίν τε κακοῖσιν ἐνίσσομεν ἠδὲ βολῇσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.162#αὐτὰρ ὁ τῆος ἐτόλμα ἐνὶ μεγάροισιν ἑοῖσι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.163#βαλλόμενος καὶ ἐνισσόμενος τετληότι θυμῷ·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.164#ἀλλ' ὅτε δή μιν ἔγειρε Διὸς νοός αἰγιόχοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.165#σὺν μὲν Τηλεμάχῳ περικαλλέα τεύχε' ἀείρας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.166#ἐς θάλαμον κατέθηκε καὶ ἐκλήϊσεν ὀχῆας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.167#αὐτὰρ ὁ ἣν ἄλοχον πολυκερδείῃσιν ἄνωγε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.168#τόξον μνηστήρεσσι θέμεν πολιόν τε σίδηρον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.169#ἡμῖν αἰνομόροισιν ἀέθλια καὶ φόνου ἀρχήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.170#οὐδέ τις ἡμείων δύνατο κρατεροῖο βιοῖο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.171#νευρὴν ἐντανύσαι, πολλὸν δ' ἐπιδευέες ἦμεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.172#ἀλλ' ὅτε χεῖρας ἵκανεν Ὀδυσσῆος μέγα τόξον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.173#ἔνθ' ἡμεῖς μὲν πάντες ὁμοκλέομεν ἐπέεσσι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.174#τόξον μὴ δόμεναι, μηδ' εἰ μάλα πολλ' ἀγορεύοι·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.175#Τηλέμαχος δέ μιν οἶος ἐποτρύνων ἐκέλευσεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.176#αὐτὰρ ὁ δέξατο χειρὶ πολύτλας δῖος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.177#ῥηϊδίως δ' ἐτάνυσσε βιόν, διὰ δ' ἧκε σιδήρου,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.178#στῆ δ' ἄρ' ἐπ' οὐδὸν ἰών, ταχέας δ' ἐκχεύατ' ὀϊστοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.179#δεινὸν παπταίνων, βάλε δ' Ἀντίνοον βασιλῆα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.180#αὐτὰρ ἔπειτ' ἄλλοις ἐφίει βέλεα στονόεντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.181#ἄντα τιτυσκόμενος· τοὶ δ' ἀγχιστῖνοι ἔπιπτον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.182#γνωτὸν δ' ἦν ὅ ῥά τίς σφι θεῶν ἐπιτάρροθος ἦεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.183#αὐτίκα γὰρ κατὰ δώματ' ἐπισπόμενοι μένεϊ σφῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.184#κτεῖνον ἐπιστροφάδην, τῶν δὲ στόνος ὤρνυτ' ἀεικὴς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.185#κράτων τυπτομένων,  δάπεδον δ' ἅπαν αἵματι θῦεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.186#ὣς ἡμεῖς, Ἀγάμεμνον, ἀπωλόμεθ', ὧν ἔτι καὶ νῦν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.187#σώματ' ἀκηδέα κεῖται ἐνὶ μεγάροις Ὀδυσῆος·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.188#οὐ γάρ πω ἴσασι φίλοι κατὰ δώμαθ' ἑκάστου,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.189#οἵ κ' ἀπονίψαντες μέλανα βρότον ἐξ ὠτειλέων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.190#κατθέμενοι γοάοιεν· ὃ γὰρ γέρας ἐστὶ θανόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.191#τὸν δ' αὖτε ψυχὴ προσεφώνεεν Ἀτρεΐδαο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.192#ὄλβιε Λαέρταο πάϊ, πολυμήχαν' Ὀδυσσεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.193#ἦ ἄρα σὺν μεγάλῃ ἀρετῇ ἐκτήσω ἄκοιτιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.194#ὡς ἀγαθαὶ φρένες ἦσαν ἀμύμονι Πηνελοπείῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.195#κούρῃ Ἰκαρίου· ὡς εὖ μέμνητ' Ὀδυσῆος,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.196#ἀνδρὸς κουριδίου· τῷ οἱ κλέος οὔ ποτ' ὀλεῖται
+urn:cts:greekLit:tlg0012.tlg002.murray:24.197#ἧς ἀρετῆς, τεύξουσι δ' ἐπιχθονίοισιν ἀοιδὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.198#ἀθάνατοι χαρίεσσαν ἐχέφρονι Πηνελοπείῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.199#οὐχ ὡς Τυνδαρέου κούρη κακὰ μήσατο ἔργα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.200#κουρίδιον κτείνασα πόσιν,  στυγερὴ δέ τ' ἀοιδὴ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.201#ἔσσετ' ἐπ' ἀνθρώπους, χαλεπὴν δέ τε φῆμιν ὀπάσσει
+urn:cts:greekLit:tlg0012.tlg002.murray:24.202#θηλυτέρῃσι γυναιξί, καὶ ἥ κ' εὐεργὸς ἔῃσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.203#ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.204#ἑσταότ' εἰν Ἀΐδαο δόμοις, ὑπὸ κεύθεσι γαίης·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.205#οἱ δ' ἐπεὶ ἐκ πόλιος κατέβαν, τάχα δ' ἀγρὸν ἵκοντο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.206#καλὸν Λαέρταο τετυγμένον,  ὅν ῥά ποτ' αὐτὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.207#Λαέρτης κτεάτισσεν, ἐπεὶ μάλα πόλλ' ἐμόγησεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.208#ἔνθα οἱ οἶκος ἔην, περὶ δὲ κλίσιον θέε πάντη,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.209#ἐν τῷ σιτέσκοντο καὶ ἵζανον ἠδὲ ἴαυον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.210#δμῶες ἀναγκαῖοι,  τοί οἱ φίλα ἐργάζοντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.211#ἐν δὲ γυνὴ Σικελὴ γρηῢς πέλεν, ἥ ῥα γέροντα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.212#ἐνδυκέως κομέεσκεν ἐπ' ἀγροῦ, νόσφι πόληος.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.213#ἔνθ' Ὀδυσεὺς δμώεσσι καὶ υἱέϊ μῦθον ἔειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.214#ὑμεῖς μὲν νῦν ἔλθετ' ἐϋκτίμενον δόμον εἴσω,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.215#δεῖπνον δ' αἶψα συῶν ἱερεύσατε ὅς τις ἄριστος·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.216#αὐτὰρ ἐγὼ πατρὸς πειρήσομαι ἡμετέροιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.217#αἴ κέ μ' ἐπιγνώῃ καὶ φράσσεται ὀφθαλμοῖσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.218#ἦέ κεν ἀγνοιῇσι, πολὺν χρόνον ἀμφὶς ἐόντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.219#ὣς εἰπὼν δμώεσσιν ἀρήϊα τεύχε' ἔδωκεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.220#οἱ μὲν ἔπειτα δόμονδε θοῶς κίον,  αὐτὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.221#ἆσσον ἴεν πολυκάρπου ἀλωῆς πειρητίζων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.222#οὐδ' εὗρεν Δολίον, μέγαν ὄρχατον ἐσκαταβαίνων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.223#οὐδέ τινα δμώων οὐδ' υἱῶν· ἀλλ' ἄρα τοί γε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.224#αἱμασιὰς λέξοντες ἀλωῆς ἔμμεναι ἕρκος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.225#ᾤχοντ',  αὐτὰρ ὁ τοῖσι γέρων ὁδὸν ἡγεμόνευε.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.226#τὸν δ' οἶον πατέρ' εὗρεν ἐϋκτιμένῃ ἐν ἀλωῇ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.227#λιστρεύοντα φυτόν· ῥυπόωντα δὲ ἕστο χιτῶνα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.228#ῥαπτὸν ἀεικέλιον, περὶ δὲ κνήμῃσι βοείας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.229#κνημῖδας ῥαπτὰς δέδετο, γραπτῦς ἀλεείνων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.230#χειρῖδάς τ' ἐπὶ χερσὶ βάτων ἕνεκ'· αὐτὰρ ὕπερθεν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.231#αἰγείην κυνέην κεφαλῇ ἔχε, πένθος ἀέξων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.232#τὸν δ' ὡς οὖν ἐνόησε πολύτλας δῖος Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.233#γήραϊ τειρόμενον, μέγα δὲ φρεσὶ πένθος ἔχοντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.234#στὰς ἄρ' ὑπὸ βλωθρὴν ὄγχνην κατὰ δάκρυον εἶβε.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.235#μερμήριξε δ' ἔπειτα κατὰ φρένα καὶ κατὰ θυμὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.236#κύσσαι καὶ περιφῦναι ἑὸν πατέρ', ἠδὲ ἕκαστα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.237#εἰπεῖν, ὡς ἔλθοι καὶ ἵκοιτ' ἐς πατρίδα γαῖαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.238#ἦ πρῶτ' ἐξερέοιτο ἕκαστά τε πειρήσαιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.239#ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.240#πρῶτον κερτομίοις ἐπέεσσιν πειρηθῆναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.241#τὰ φρονέων ἰθὺς κίεν αὐτοῦ δῖος Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.242#ἦ τοι ὁ μὲν κατέχων κεφαλὴν φυτὸν ἀμφελάχαινε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.243#τὸν δὲ παριστάμενος προσεφώνεε φαίδιμος υἱός·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.244#ὦ γέρον, οὐκ ἀδαημονίη σ' ἔχει ἀμφιπολεύειν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.245#ὄρχατον,  ἀλλ' εὖ τοι κομιδὴ ἔχει, οὐδέ τι πάμπαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.246#οὐ φυτόν, οὐ συκέη, οὐκ ἄμπελος, οὐ μὲν ἐλαίη,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.247#οὐκ ὄγχνη, οὐ πρασιή τοι ἄνευ κομιδῆς κατὰ κῆπον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.248#ἄλλο δέ τοι ἐρέω, σὺ δὲ μὴ χόλον ἔνθεο θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.249#αὐτόν σ' οὐκ ἀγαθὴ κομιδὴ ἔχει, ἀλλ' ἅμα γῆρας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.250#λυγρὸν ἔχεις αὐχμεῖς τε κακῶς καὶ ἀεικέα ἕσσαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.251#οὐ μὲν ἀεργίης γε ἄναξ ἕνεκ' οὔ σε κομίζει,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.252#οὐδέ τί τοι δούλειον ἐπιπρέπει εἰσοράασθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.253#εἶδος καὶ μέγεθος· βασιλῆϊ γὰρ ἀνδρὶ ἔοικας.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.254#τοιούτῳ δὲ ἔοικας, ἐπεὶ λούσαιτο φάγοι τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.255#εὑδέμεναι μαλακῶς· ἡ γὰρ δίκη ἐστὶ γερόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.256#ἀλλ' ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.257#τεῦ δμὼς εἶς ἀνδρῶν; τεῦ δ' ὄρχατον ἀμφιπολεύεις;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.258#καὶ μοι τοῦτ' ἀγόρευσον ἐτήτυμον, ὄφρ' ἐῢ εἰδῶ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.259#εἰ ἐτεόν γ' Ἰθάκην τήνδ' ἱκόμεθ', ὥς μοι ἔειπεν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.260#οὗτος ἀνὴρ νῦν δὴ ξυμβλήμενος ἐνθάδ' ἰόντι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.261#οὔ τι μάλ' ἀρτίφρων, ἐπεὶ οὐ τόλμησεν ἕκαστα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.262#εἰπεῖν ἠδ' ἐπακοῦσαι ἐμὸν ἔπος, ὡς ἐρέεινον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.263#ἀμφὶ ξείνῳ ἐμῷ, ἤ που ζώει τε καὶ ἔστιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.264#ἦ ἤδη τέθνηκε καὶ εἰν Ἀΐδαο δόμοισιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.265#ἐκ γάρ τοι ἐρέω,  σὺ δὲ σύνθεο καί μευ ἄκουσον·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.266#ἄνδρα ποτ' ἐξείνισσα φίλῃ ἐνὶ πατρίδι γαίῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.267#ἡμέτερόνδ' ἐλθόντα, καὶ οὔ πω τις βροτὸς ἄλλος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.268#ξείνων τηλεδαπῶν φιλίων ἐμὸν ἵκετο δῶμα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.269#εὔχετο δ' ἐξ Ἰθάκης γένος ἔμμεναι, αὐτὰρ ἔφασκε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.270#Λαέρτην Ἀρκεισιάδην πατέρ' ἔμμεναι αὐτῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.271#τὸν μὲν ἐγὼ πρὸς δώματ' ἄγων ἐῢ ἐξείνισσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.272#ἐνδυκέως φιλέων, πολλῶν κατὰ οἶκον ἐόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.273#καί οἱ δῶρα πόρον ξεινήϊα, οἷα ἐῴκει.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.274#χρυσοῦ μέν οἱ δῶκ' εὐεργέος ἑπτὰ τάλαντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.275#δῶκα δέ οἱ κρητῆρα πανάργυρον ἀνθεμόεντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.276#δώδεκα δ' ἁπλοΐδας χλαίνας, τόσσους δὲ τάπητας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.277#τόσσα δὲ φάρεα καλά, τόσους δ' ἐπὶ τοῖσι χιτῶνας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.278#χωρὶς δ' αὖτε γυναῖκας, ἀμύμονα ἔργα ἰδυίας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.279#τέσσαρας εἰδαλίμας, ἃς ἤθελεν αὐτὸς ἑλέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.280#τὸν δ' ἠμείβετ' ἔπειτα πατὴρ κατὰ δάκρυον εἴβων·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.281#ξεῖν',  ἦ τοι μὲν γαῖαν ἱκάνεις, ἣν ἐρεείνεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.282#ὑβρισταὶ δ' αὐτὴν καὶ ἀτάσθαλοι ἄνδρες ἔχουσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.283#δῶρα δ' ἐτώσια ταῦτα χαρίζεο, μυρί' ὀπάζων·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.284#εἰ γάρ μιν ζωόν γ' ἐκίχεις Ἰθάκης ἐνὶ δήμῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.285#τῷ κέν σ' εὖ δώροισιν ἀμειψάμενος ἀπέπεμψε
+urn:cts:greekLit:tlg0012.tlg002.murray:24.286#καὶ ξενίῃ ἀγαθῇ ἡ γὰρ θέμις, ὅς τις ὑπάρξῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.287#ἀλλ' ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.288#πόστον δὴ ἔτος ἐστίν, ὅτε ξείνισσας ἐκεῖνον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.289#σὸν ξεῖνον δύστηνον, ἐμὸν παῖδ', εἴ ποτ' ἔην γε,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.290#δύσμορον;  ὅν που τῆλε φίλων καὶ πατρίδος αἴης
+urn:cts:greekLit:tlg0012.tlg002.murray:24.291#ἠέ που ἐν πόντῳ φάγον ἰχθύες, ἢ ἐπὶ χέρσου
+urn:cts:greekLit:tlg0012.tlg002.murray:24.292#θηρσὶ καὶ οἰωνοῖσιν ἕλωρ γένετ'· οὐδέ ἑ μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.293#κλαῦσε περιστείλασα πατήρ θ', οἵ μιν τεκόμεσθα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.294#οὐδ' ἄλοχος πολύδωρος, ἐχέφρων Πηνελόπεια,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.295#κώκυσ' ἐν λεχέεσσιν ἑὸν πόσιν,  ὡς ἐπεῴκει,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.296#ὀφθαλμοὺς καθελοῦσα· τὸ γὰρ γέρας ἐστὶ θανόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.297#καί μοι τοῦτ' ἀγόρευσον ἐτήτυμον, ὄφρ' ἐῢ εἰδῶ·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.298#τίς πόθεν εἶς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.299#ποῦ δὲ νηῦς ἕστηκε θοή, ἥ σ' ἤγαγε δεῦρο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.300#ἀντιθέους θ' ἑτάρους;  ἦ ἔμπορος εἰλήλουθας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.301#νηὸς ἐπ' ἀλλοτρίης, οἱ δ' ἐκβήσαντες ἔβησαν;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.302#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.303#τοιγὰρ ἐγώ τοι πάντα μάλ' ἀτρεκέως καταλέξω.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.304#εἰμὶ μὲν ἐξ Ἀλύβαντος, ὅθι κλυτὰ δώματα ναίω,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.305#υἱὸς Ἀφείδαντος Πολυπημονίδαο ἄνακτος·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.306#αὐτὰρ ἐμοί γ' ὄνομ' ἐστὶν Ἐπήριτος· ἀλλά με δαίμων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.307#πλάγξ' ἀπὸ Σικανίης δεῦρ' ἐλθέμεν οὐκ ἐθέλοντα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.308#νηῦς δέ μοι ἥδ' ἕστηκεν ἐπ' ἀγροῦ νόσφι πόληος.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.309#αὐτὰρ Ὀδυσσῆϊ τόδε δὴ πέμπτον ἔτος ἐστίν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.310#ἐξ οὗ κεῖθεν ἔβη καὶ ἐμῆς ἀπελήλυθε πάτρης,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.311#δύσμορος· ἦ τέ οἱ ἐσθλοὶ ἔσαν ὄρνιθες ἰόντι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.312#δεξιοί, οἷς χαίρων μὲν ἐγὼν ἀπέπεμπον ἐκεῖνον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.313#χαῖρε δὲ κεῖνος ἰών· θυμὸς δ' ἔτι νῶϊν ἐώλπει
+urn:cts:greekLit:tlg0012.tlg002.murray:24.314#μίξεσθαι ξενίῃ ἠδ' ἀγλαὰ δῶρα διδώσειν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.315#ὣς φάτο,  τὸν δ' ἄχεος νεφέλη ἐκάλυψε μέλαινα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.316#ἀμφοτέρῃσι δὲ χερσὶν ἑλὼν κόνιν αἰθαλόεσσαν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.317#χεύατο κὰκ κεφαλῆς πολιῆς, ἁδινὰ στεναχίζων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.318#τοῦ δ' ὠρίνετο θυμός, ἀνὰ ῥῖνας δέ οἱ ἤδη
+urn:cts:greekLit:tlg0012.tlg002.murray:24.319#δριμὺ μένος προὔτυψε φίλον πατέρ' εἰσορόωντι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.320#κύσσε δέ μιν περιφὺς ἐπιάλμενος,  ἠδὲ προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.321#κεῖνος μέν τοι ὅδ' αὐτὸς ἐγώ, πάτερ, ὃν σὺ μεταλλᾷς,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.322#ἤλυθον εἰκοστῷ ἔτεϊ ἐς πατρίδα γαῖαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.323#ἀλλ' ἴσχεο κλαυθμοῖο γόοιό τε δακρυόεντος.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.324#ἐκ γάρ τοι ἐρέω· μάλα δὲ χρὴ σπευδέμεν ἔμπης·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.325#μνηστῆρας κατέπεφνον ἐν ἡμετέροισι δόμοισι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.326#λώβην τινύμενος θυμαλγέα καὶ κακὰ ἔργα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.327#τὸν δ' αὖ Λαέρτης ἀπαμείβετο φώνησέν τε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.328#εἰ μὲν δὴ Ὀδυσεύς γε ἐμὸς πάϊς ἐνθάδ' ἱκάνεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.329#σῆμά τί μοι νῦν εἰπὲ ἀριφραδές, ὄφρα πεποίθω.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.330#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.331#οὐλὴν μὲν πρῶτον τήνδε φράσαι ὀφθαλμοῖσι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.332#τὴν ἐν Παρνησῷ μ' ἔλασεν σῦς λευκῷ ὀδόντι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.333#οἰχόμενον· σὺ δέ με προΐεις καὶ πότνια μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.334#ἐς πατέρ' Αὐτόλυκον μητρὸς φίλον, ὄφρ' ἂν ἑλοίμην
+urn:cts:greekLit:tlg0012.tlg002.murray:24.335#δῶρα, τὰ δεῦρο μολών μοι ὑπέσχετο καὶ κατένευσεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.336#εἰ δ' ἄγε τοι καὶ δένδρε' ἐϋκτιμένην κατ' ἀλωὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.337#εἴπω, ἅ μοί ποτ' ἔδωκας, ἐγὼ δ' ᾔτεόν σε ἕκαστα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.338#παιδνὸς ἐών, κατὰ κῆπον ἐπισπόμενος· διὰ δ' αὐτῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.339#ἱκνεύμεσθα, σὺ δ' ὠνόμασας καὶ ἔειπες ἕκαστα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.340#ὄγχνας μοι δῶκας τρισκαίδεκα καὶ δέκα μηλέας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.341#συκέας τεσσαράκοντ'· ὄρχους δέ μοι ὧδ' ὀνόμηνας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.342#δώσειν πεντήκοντα, διατρύγιος δὲ ἕκαστος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.343#ἤην· ἔνθα δ' ἀνὰ σταφυλαὶ παντοῖαι ἔασιν—
+urn:cts:greekLit:tlg0012.tlg002.murray:24.344#ὁππότε δὴ Διὸς ὧραι ἐπιβρίσειαν ὕπερθεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.345#ὣς φάτο,  τοῦ δ' αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.346#σήματ' ἀναγνόντος τά οἱ ἔμπεδα πέφραδ' Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.347#ἀμφὶ δὲ παιδὶ φίλῳ βάλε πήχεε· τὸν δὲ ποτὶ οἷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.348#εἷλεν ἀποψύχοντα πολύτλας δῖος Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.349#αὐτὰρ ἐπεί ῥ' ἄμπνυτο καὶ ἐς φρένα θυμὸς ἀγέρθη,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.350#ἐξαῦτις μύθοισιν ἀμειβόμενος προσέειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.351#Ζεῦ πάτερ, ἦ ῥα ἔτ' ἔστε θεοὶ κατὰ μακρὸν Ὄλυμπον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.352#εἰ ἐτεὸν μνηστῆρες ἀτάσθαλον ὕβριν ἔτισαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.353#νῦν δ' αἰνῶς δείδοικα κατὰ φρένα μὴ τάχα πάντες
+urn:cts:greekLit:tlg0012.tlg002.murray:24.354#ἐνθάδ' ἐπέλθωσιν Ἰθακήσιοι, ἀγγελίας δὲ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.355#πάντη ἐποτρύνωσι Κεφαλλήνων πολίεσσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.356#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.357#θάρσει, μή τοι ταῦτα μετὰ φρεσὶ σῇσι μελόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.358#ἀλλ' ἴομεν προτὶ οἶκον, ὃς ὀρχάτου ἐγγύθι κεῖται·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.359#ἔνθα δὲ Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην
+urn:cts:greekLit:tlg0012.tlg002.murray:24.360#προὔπεμψ',  ὡς ἂν δεῖπνον ἐφοπλίσσωσι τάχιστα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.361#ὣς ἄρα φωνήσαντε βάτην πρὸς δώματα καλά.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.362#οἱ δ' ὅτε δή ῥ' ἵκοντο δόμους εὖ ναιετάοντας,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.363#εὗρον Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην
+urn:cts:greekLit:tlg0012.tlg002.murray:24.364#ταμνομένους κρέα πολλὰ κερῶντάς τ' αἴθοπα οἶνον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.365#τόφρα δὲ Λαέρτην μεγαλήτορα ᾧ ἐνὶ οἴκῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.366#ἀμφίπολος Σικελὴ λοῦσεν καὶ χρῖσεν ἐλαίῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.367#ἀμφὶ δ' ἄρα χλαῖναν καλὴν βάλεν· αὐτὰρ Ἀθήνη
+urn:cts:greekLit:tlg0012.tlg002.murray:24.368#ἄγχι παρισταμένη μέλε' ἤλδανε ποιμένι λαῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.369#μείζονα δ' ἠὲ πάρος καὶ πάσσονα θῆκεν ἰδέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.370#ἐκ δ' ἀσαμίνθου βῆ· θαύμαζε δέ μιν φίλος υἱός,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.371#ὡς ἴδεν ἀθανάτοισι θεοῖς ἐναλίγκιον ἄντην·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.372#καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.373#ὦ πάτερ, ἦ μάλα τίς σε θεῶν αἰειγενετάων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.374#εἶδός τε μέγεθός τε ἀμείνονα θῆκεν ἰδέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.375#τὸν δ' αὖ Λαέρτης πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.376#αἲ γάρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.377#οἷος Νήρικον εἷλον, ἐϋκτίμενον πτολίεθρον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.378#ἀκτὴν ἠπείροιο, Κεφαλλήνεσσιν ἀνάσσων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.379#τοῖος ἐών τοι χθιζὸς ἐν ἡμετέροισι δόμοισιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.380#τεύχε' ἔχων ὤμοισιν,  ἐφεστάμεναι καὶ ἀμύνειν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.381#ἄνδρας μνηστῆρας· τῷ κε σφέων γούνατ' ἔλυσα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.382#πολλῶν ἐν μεγάροισι, σὺ δὲ φρένας ἔνδον ἐγήθεις.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.383#ὣς οἷ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.384#οἱ δ' ἐπεὶ οὖν παύσαντο πόνου τετύκοντό τε δαῖτα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.385#ἑξείης ἕζοντο κατὰ κλισμούς τε θρόνους τε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.386#ἔνθ' οἱ μὲν δείπνῳ ἐπεχείρεον, ἀγχίμολον δὲ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.387#ἦλθ' ὁ γέρων Δολίος, σὺν δ' υἱεῖς τοῖο γέροντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.388#ἐξ ἔργων μογέοντες, ἐπεὶ προμολοῦσα κάλεσσεν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.389#μήτηρ γρηῦς Σικελή, ἥ σφεας τρέφε καί ῥα γέροντα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.390#ἐνδυκέως κομέεσκεν,  ἐπεὶ κατὰ γῆρας ἔμαρψεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.391#οἱ δ' ὡς οὖν Ὀδυσῆα ἴδον φράσσαντό τε θυμῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.392#ἔσταν ἐνὶ μεγάροισι τεθηπότες· αὐτὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.393#μειλιχίοις ἐπέεσσι καθαπτόμενος προσέειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.394#ὦ γέρον, ἵζ' ἐπὶ δεῖπνον, ἀπεκλελάθεσθε δὲ θάμβευς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.395#δηρὸν γὰρ σίτῳ ἐπιχειρήσειν μεμαῶτες
+urn:cts:greekLit:tlg0012.tlg002.murray:24.396#μίμνομεν ἐν μεγάροις, ὑμέας ποτιδέγμενοι αἰεί.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.397#ὣς ἄρ ἔφη, Δολίος δ' ἰθὺς κίε χεῖρε πετάσσας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.398#ἀμφοτέρας, Ὀδυσεῦς δὲ λαβὼν κύσε χεῖρ' ἐπὶ καρπῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.399#καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.400#ὦ φίλ',  ἐπεὶ νόστησας ἐελδομένοισι μάλ' ἡμῖν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.401#οὐδ' ἔτ' ὀϊομένοισι, θεοὶ δέ σ' ἀνήγαγον αὐτοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.402#οὖλέ τε καὶ μάλα χαῖρε, θεοὶ δέ τοι ὄλβια δοῖεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.403#καί μοι τοῦτ' ἀγόρευσον ἐτήτυμον, ὄφρ' ἐῢ εἰδῶ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.404#ἢ ἤδη σάφα οἶδε περίφρων Πηνελόπεια
+urn:cts:greekLit:tlg0012.tlg002.murray:24.405#νοστήσαντά σε δεῦρ',  ἦ ἄγγελον ὀτρύνωμεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.406#τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.407#ὦ γέρον, ἤδη οἶδε· τί σε χρὴ ταῦτα πένεσθαι;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.408#ὣς φάθ', ὁ δ' αὖτις ἄρ' ἕζετ' ἐϋξέστου ἐπὶ δίφρου.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.409#ὣς δ' αὔτως παῖδες Δολίου κλυτὸν ἀμφ' Ὀδυσῆα
+urn:cts:greekLit:tlg0012.tlg002.murray:24.410#δεικανόωντ' ἐπέεσσι καὶ ἐν χείρεσσι φύοντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.411#ἑξείης δ' ἕζοντο παραὶ Δολίον, πατέρα σφόν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.412#ὣς οἱ μὲν περὶ δεῖπνον ἐνὶ μεγάροισι πένοντο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.413#Ὄσσα δ' ἄρ' ἄγγελος ὦκα κατὰ πτόλιν ᾤχετο πάντη,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.414#μνηστήρων στυγερὸν θάνατον καὶ κῆρ' ἐνέπουσα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.415#οἱ δ' ἄρ' ὁμῶς ἀΐοντες ἐφοίτων ἄλλοθεν ἄλλος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.416#μυχμῷ τε στοναχῇ τε δόμων προπάροιθ' Ὀδυσῆος,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.417#ἐκ δὲ νέκυς οἴκων φόρεον καὶ θάπτον ἕκαστοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.418#τοὺς δ' ἐξ ἀλλάων πολίων οἶκόνδε ἕκαστον
+urn:cts:greekLit:tlg0012.tlg002.murray:24.419#πέμπον ἄγειν ἁλιεῦσι θοῇς ἐπὶ νηυσὶ τιθέντες·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.420#αὐτοὶ δ' εἰς ἀγορὴν κίον ἀθρόοι,  ἀχνύμενοι κῆρ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.421#αὐτὰρ ἐπεί ῥ' ἤγερθεν ὁμηγερέες τ' ἐγένοντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.422#τοῖσιν δ' Εὐπείθης ἀνά θ' ἵστατο καὶ μετέειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.423#παιδὸς γάρ οἱ ἄλαστον ἐνὶ φρεσὶ πένθος ἔκειτο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.424#Ἀντινόου, τὸν πρῶτον ἐνήρατο δῖος Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.425#τοῦ ὅ γε δάκρυ χέων ἀγορήσατο καὶ μετέειπεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.426#ὦ φίλοι, ἦ μέγα ἔργον ἀνὴρ ὅδ' ἐμήσατ' Ἀχαιούς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.427#τοὺς μὲν σὺν νήεσσιν ἄγων πολέας τε καὶ ἐσθλοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.428#ὤλεσε μὲν νῆας γλαφυράς, ἀπὸ δ' ὤλεσε λαούς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.429#τοὺς δ' ἐλθὼν ἔκτεινε Κεφαλλήνων ὄχ' ἀρίστους,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.430#ἀλλ' ἄγετε,  πρὶν τοῦτον ἢ ἐς Πύλον ὦκα ἱκέσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:24.431#ἢ καὶ ἐς Ἤλιδα δῖαν, ὅθι κρατέουσιν Ἐπειοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.432#ἴομεν· ἦ καὶ ἔπειτα κατηφέες ἐσσόμεθ' αἰεί·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.433#λώβη γὰρ τάδε γ' ἐστὶ καὶ ἐσσομένοισι πυθέσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.434#εἰ δὴ μὴ παίδων τε κασιγνήτων τε φονῆας
+urn:cts:greekLit:tlg0012.tlg002.murray:24.435#τισόμεθ'.  οὐκ ἂν ἐμοί γε μετὰ φρεσὶν ἡδὺ γένοιτο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.436#ζωέμεν, ἀλλὰ τάχιστα θανὼν φθιμένοισι μετείην.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.437#ἀλλ' ἴομεν, μὴ φθέωσι περαιωθέντες ἐκεῖνοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.438#ὣς φάτο δάκρυ χέων, οἶκτος δ' ἕλε πάντας Ἀχαιούς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.439#ἀγχίμολον δέ σφ' ἦλθε Μέδων καὶ θεῖος ἀοιδὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.440#ἐκ μεγάρων Ὀδυσῆος,  ἐπεί σφεας ὕπνος ἀνῆκεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.441#ἔσταν δ' ἐν μέσσοισι· τάφος δ' ἕλεν ἄνδρα ἕκαστον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.442#τοῖσι δὲ καὶ μετέειπε Μέδων πεπνυμένα εἰδώς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.443#κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι· οὐ γὰρ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:24.444#ἀθανάτων ἀέκητι θεῶν τάδ' ἐμήσατο ἔργα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.445#αὐτὸς ἐγὼν εἶδον θεὸν ἄμβροτον,  ὅς ῥ' Ὀδυσῆϊ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.446#ἐγγύθεν ἑστήκει καὶ Μέντορι πάντα ἐῴκει.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.447#ἀθάνατος δὲ θεὸς τοτὲ μὲν προπάροιθ' Ὀδυσῆος
+urn:cts:greekLit:tlg0012.tlg002.murray:24.448#φαίνετο θαρσύνων, τοτὲ δὲ μνηστῆρας ὀρίνων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.449#θῦνε κατὰ μέγαρον· τοὶ δ' ἀγχιστῖνοι ἔπιπτον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.450#ὣς φάτο, τοὺς δ' ἄρα πάντας ὑπὸ χλωρὸν δέος ᾕρει.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.451#τοῖσι δὲ καὶ μετέειπε γέρων ἥρως Ἁλιθέρσης
+urn:cts:greekLit:tlg0012.tlg002.murray:24.452#Μαστορίδης· ὁ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.453#ὅ σφιν ἐϋφρονέων ἀγορήσατο καὶ μετέειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.454#κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι, ὅττι κεν εἴπω·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.455#ὑμετέρῃ κακότητι,  φίλοι, τάδε ἔργα γένοντο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.456#οὐ γὰρ ἐμοὶ πείθεσθ', οὐ Μέντορι ποιμένι λαῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.457#ὑμετέρους παῖδας καταπαυέμεν ἀφροσυνάων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.458#οἳ μέγα ἔργον ἔρεξαν ἀτασθαλίῃσι κακῇσι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.459#κτήματα κείροντες καὶ ἀτιμάζοντες ἄκοιτιν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.460#ἀνδρὸς ἀριστῆος· τὸν δ' οὐκέτι φάντο νέεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.461#καὶ νῦν ὧδε γένοιτο. πίθεσθέ μοι ὡς ἀγορεύω·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.462#μὴ ἴομεν, μή πού τις ἐπίσπαστον κακὸν εὕρῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.463#ὣς ἔφαθ', οἱ δ' ἄρ' ἀνήϊξαν μεγάλῳ ἀλαλητῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.464#ἡμίσεων πλείους· τοὶ δ' ἀθρόοι αὐτόθι μίμνον·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.465#οὐ γὰρ σφιν ἅδε μῦθος ἐνὶ φρεσίν,  ἀλλ' Εὐπείθει
+urn:cts:greekLit:tlg0012.tlg002.murray:24.466#πείθοντ'· αἶψα δ' ἔπειτ' ἐπὶ τεύχεα ἐσσεύοντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.467#αὐτὰρ ἐπεί ῥ' ἕσσαντο περὶ χροῒ νώροπα χαλκόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.468#ἀθρόοι ἠγερέθοντο πρὸ ἄστεος εὐρυχόροιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.469#τοῖσιν δ' Εὐπείθης ἡγήσατο νηπιέῃσι·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.470#φῆ δ' ὅ γε τίσεσθαι παιδὸς φόνον,  οὐδ' ἄρ' ἔμελλεν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.471#ἂψ ἀπονοστήσειν, ἀλλ' αὐτοῦ πότμον ἐφέψειν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.472#αὐτὰρ Ἀθηναίη Ζῆνα Κρονίωνα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.473#ὦ πάτερ ἡμέτερε, Κρονίδη, ὕπατε κρειόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.474#εἰπέ μοι εἰρομένῃ, τί νύ τοι νόος ἔνδοθι κεύθει;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.475#ἢ προτέρω πόλεμόν τε κακὸν καὶ φύλοπιν αἰνὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.476#τεύξεις, ἦ φιλότητα μετ' ἀμφοτέροισι τίθησθα;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.477#τὴν δ' ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.478#τέκνον ἐμόν, τί με ταῦτα διείρεαι ἠδὲ μεταλλᾷς;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.479#οὐ γὰρ δὴ τοῦτον μὲν ἐβούλευσας νόον αὐτή,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.480#ὡς ἦ τοι κείνους Ὀδυσεὺς ἀποτίσεται ἐλθών;
+urn:cts:greekLit:tlg0012.tlg002.murray:24.481#ἔρξον ὅπως ἐθέλεις· ἐρέω τέ τοι ὡς ἐπέοικεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.482#ἐπεὶ δὴ μνηστῆρας ἐτίσατο δῖος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.483#ὅρκια πιστὰ ταμόντες ὁ μὲν βασιλευέτω αἰεί,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.484#ἡμεῖς δ' αὖ παίδων τε κασιγνήτων τε φόνοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:24.485#ἔκλησιν θέωμεν· τοὶ δ' ἀλλήλους φιλεόντων
+urn:cts:greekLit:tlg0012.tlg002.murray:24.486#ὡς τὸ πάρος, πλοῦτος δὲ καὶ εἰρήνη ἅλις ἔστω.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.487#ὣς εἰπὼν ὤτρυνε πάρος μεμαυῖαν Ἀθήνην,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.488#βῆ δὲ κατ' Οὐλύμποιο καρήνων ἀΐξασα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.489#οἱ δ' ἐπεὶ οὖν σίτοιο μελίφρονος ἐξ ἔρον ἕντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.490#τοῖς δ' ἄρα μύθων ἦρχε πολύτλας δῖος Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.491#ἐξελθών τις ἴδοι μὴ δὴ σχεδὸν ὦσι κιόντες.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.492#ὣς ἔφατ'· ἐκ δ' υἱὸς Δολίου κίεν, ὡς ἐκέλευεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.493#στῆ δ' ἄρ' ἐπ' οὐδὸν ἰών, τοὺς δὲ σχεδὸν ἔσιδε πάντας·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.494#αἶψα δ' Ὀδυσσῆα ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.495#οἵδε δὴ ἐγγὺς ἔασ'· ἀλλ' ὁπλιζώμεθα θᾶσσον.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.496#ὣς ἔφαθ', οἱ δ' ὤρνυντο καὶ ἐν τεύχεσσι δύοντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.497#τέσσαρες ἀμφ' Ὀδυσῆ', ἓξ δ' υἱεῖς οἱ Δολίοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.498#ἐν δ' ἄρα Λαέρτης Δολίος τ' ἐς τεύχε' ἔδυνον,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.499#καὶ πολιοί περ ἐόντες, ἀναγκαῖοι πολεμισταί.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.500#αὐτὰρ ἐπεί ῥ' ἕσσαντο περὶ χροῒ νώροπα χαλκόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.501#ὤϊξάν ῥα θύρας, ἐκ δ' ἤϊον, ἄρχε δ' Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.502#τοῖσι δ' ἐπ' ἀγχίμολον θυγάτηρ Διὸς ἦλθεν Ἀθήνη
+urn:cts:greekLit:tlg0012.tlg002.murray:24.503#Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.504#τὴν μὲν ἰδὼν γήθησε πολύτλας δῖος Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.505#αἶψα δὲ Τηλέμαχον προσεφώνεεν ὃν φίλον υἱόν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.506#Τηλέμαχ', ἤδη μὲν τόδε γ' εἴσεαι αὐτὸς ἐπελθών,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.507#ἀνδρῶν μαρναμένων ἵνα τε κρίνονται ἄριστοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.508#μή τι καταισχύνειν πατέρων γένος, οἳ τὸ πάρος περ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.509#ἀλκῇ τ' ἠνορέῃ τε κεκάσμεθα πᾶσαν ἐπ' αἶαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.510#τὸν δ' αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.511#ὄψεαι, αἴ κ' ἐθέλῃσθα, πάτερ φίλε, τῷδ' ἐπὶ θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:24.512#οὔ τι καταισχύνοντα τεὸν γένος, ὡς ἀγορεύεις.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.513#ὣς φάτο, Λαέρτης δ' ἐχάρη καὶ μῦθον ἔειπε·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.514#τίς νύ μοι ἡμέρη ἥδε, θεοὶ φίλοι; ἦ μάλα χαίρω·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.515#υἱός θ' υἱωνός τ' ἀρετῆς πέρι δῆριν ἔχουσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.516#τὸν δὲ παρισταμένη προσέφη γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.517#ὦ Ἀρκεισιάδη, πάντων πολὺ φίλταθ' ἑταίρων,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.518#εὐξάμενος κούρῃ γλαυκώπιδι καὶ Διὶ πατρί,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.519#αἶψα μαλ' ἀμπεπαλὼν προΐει δολιχόσκιον ἔγχος.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.520#ὣς φάτο, καί ῥ' ἔμπνευσε μένος μέγα Παλλὰς Ἀθήνη
+urn:cts:greekLit:tlg0012.tlg002.murray:24.521#εὐξάμενος δ' ἄρ' ἔπειτα Διὸς κούρῃ μεγάλοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.522#αἶψα μάλ' ἀμπεπαλὼν προΐει δολιχόσκιον ἔγχος,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.523#καὶ βάλεν Εὐπείθεα κόρυθος διὰ χαλκοπαρῄου.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.524#ἡ δ' οὐκ ἔγχος ἔρυτο, διαπρὸ δὲ εἴσατο χαλκός,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.525#δούπησεν δὲ πεσών,  ἀράβησε δὲ τεύχε' ἐπ' αὐτῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.526#ἐν δ' ἔπεσον προμάχοις Ὀδυσεὺς καὶ φαίδιμος υἱός,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.527#τύπτον δὲ ξίφεσίν τε καὶ ἔγχεσιν ἀμφιγύοισι.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.528#καί νύ κε δὴ πάντας ὄλεσαν καὶ ἔθηκαν ἀνόστους,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.529#εἰ μὴ Ἀθηναίη, κούρη Διὸς αἰγιόχοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.530#ἤϋσεν φωνῇ,  κατὰ ἔσχεθε λαὸν ἅπαντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.531#ἴσχεσθε πτολέμου, Ἰθακήσιοι, ἀργαλέοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.532#ὥς κεν ἀναιμωτί γε διακρινθῆτε τάχιστα.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.533#ὣς φάτ' Ἀθηναίη, τοὺς δὲ χλωρὸν δέος εἷλεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.534#τῶν δ' ἄρα δεισάντων ἐκ χειρῶν ἔπτατο τεύχεα,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.535#πάντα δ' ἐπὶ χθονὶ πῖπτε,  θεᾶς ὄπα φωνησάσης·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.536#πρὸς δὲ πόλιν τρωπῶντο λιλαιόμενοι βιότοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.537#σμερδαλέον δ' ἐβόησε πολύτλας δῖος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.538#οἴμησεν δὲ ἀλεὶς ὥς τ' αἰετὸς ὑψιπετήεις.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.539#καὶ τότε δὴ Κρονίδης ἀφίει ψολόεντα κεραυνόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.540#κὰδ δ' ἔπεσε πρόσθε γλαυκώπιδος ὀβριμοπάτρης.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.541#δὴ τότ' Ὀδυσσῆα προσέφη γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:24.542#διογενὲς Λαερτιάδη, πολυμήχαν' Ὀδυσσεῦ,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.543#ἴσχεο, παῦε δὲ νεῖκος ὁμοιΐου πολέμοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.544#μή πως τοι Κρονίδης κεχολώσεται εὐρύοπα Ζεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.545#ὣς φάτ' Ἀθηναίη,  ὁ δ' ἐπείθετο, χαῖρε δὲ θυμῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:24.546#ὅρκια δ' αὖ κατόπισθε μετ' ἀμφοτέροισιν ἔθηκεν
+urn:cts:greekLit:tlg0012.tlg002.murray:24.547#Παλλὰς Ἀθηναίη, κούρη Διὸς αἰγιόχοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:24.548#Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν.
